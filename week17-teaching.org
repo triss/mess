@@ -1,0 +1,14 @@
+* Use metaphor as simile to improve stories
+
+* You will
+** Doing some basic parts of speech tagging on story
+*** Highlight adjectives
+** Every time we see an adjective asking a WebService for some partial metaphors to swap adjectives for
+** Massage the text to integrate what JigsawBard service returns more easily
+
+
+* There are
+** half the code
+*** could do with restructuring a bit
+** example story
+** list of adjectives 

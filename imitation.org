@@ -1,0 +1,143 @@
+* Reading
+** Multi-style transfer
+*** Multi-style pastiche generator blog post
+ cite:multi_pastiche_2016
+**** Summary
+ Google have created single NN that performs "more than one stylization of an image."
+ NN's output considered against classifier
+ Linear interpolation between styles possible
+**** Content
+***** Magenta
+****** Transfers one of several styles from one image to another
+****** Single feed forward NN
+******* Network is trained to simultaneously preserve two results from image classification
+******** VGG-16 image classifier - pretrained
+******* Network preserves "distribution of signals" extracted from first layers of VGG-16
+******** First layers of VGG-16 behave in certain way
+********* PG creates same stats distribution of outputs in artefact as in source images
+********** Palette and brush stroke style
+******** VGG-16 used to classify if style has been transferred
+********* NN must have roughly the same outputs as a reasonably deep layer of VGG-16
+******* The distribution of brush strokes is taken out at some of the early layers. The identification of content is extracted at a much deeper layer.
+******* While pastiche generator is trained VGG-16 is held constant.
+***** Extending the pastiche generation to multiple styles
+****** Conditional instance normalisation
+******* "in which a unique affine transformation is provided for each artistic style. The parameters governing the affine transformation may be considered an embedding space representation for each painting style. The rest of the network remains the same for all styles."
+****** Boundary condition around image edges is reflected.
+******* Reduces discontinuity at edge of image
+****** NN is identical except for 3000 parameters specific to style
+******* These weights get treated as embedding style
+******** Network allows "use linear combinations of multiple style images"
+****** "Changing the linear combinations of the three embeddings shows that new styles that are artistically different from the original embeddings can be created."
+****** Possible to measure distances between styles
+*** Supercharging Style Transfer
+**** Style interpolation
+***** User is now an "active participant in producing the pastiche."
+**** Better than "A Neural Algorithm of Artistic Style"
+***** Faster and less demanding
+****** Interactive
+***** Trained on multiple styles
+***** First network treated problem as "optimisation problem"
+****** New work recasts as "image transformation problem"
+******* Taught Feed-forward, deep convolutional NN to "alter corpus of content images to match style of a painting"
+******* New two fold network goal
+******** Maintain content of original image
+******** while matching visual style of painting
+
+
+
+* imitation <> creativity
+** what's being said?
+*** Alison + Simon
+"'imitation' is simply antipodal to many of these terms."
+**** from Plucker and Makel's synonyms for creativity "
+***** imagination
+***** ingenuity 
+***** innovation 
+***** inspiration 
+***** inventiveness 
+***** muse 
+***** novelty 
+***** originality 
+***** serendipity
+***** talent
+***** unique
+**** Turing Test
+***** influence often not noted or questioned
+***** "test based on imitation to evaluate competence in area of thought which is based on originality."
+***** imitation is "simply antipodal" to many definitions of creativity.
+*** Ventura
+**** TODO Memorisation not creative?
+**** TODO Generalisation is?
+*** cite:Toivonen2015 
+**** "Imitation however is not really an original or creative act and it is not the goal of CC research."
+** what's the evidence?
+*** evaluate
+**** Plucker and Makel's synonyms
+** what's missing?
+*** pro/con
+** what can I do computationally?
+*** Write software that imitates things
+**** GA
+***** fitness function
+****** combination of ML measures
+******* Simple ones?
+******** FFT
+******** MFCC
+******** Amp
+******** Pitch
+******** SpecCentroid etc
+******* Higher level
+******** Danceability
+******** tempo
+******** density
+****** we measures distance between items
+****** select based on distance derived
+******* similarity
+******* novelty?
+******** unnecessary due to experiment
+********* goal is just to imitate - then evaluate from creative perspective!
+********* inherent in he fact that the tools are different
+**** Deep learning
+***** similar fitness function to GA
+*** computational literature review
+**** Anna did one
+***** is it automated?
+
+* Imitation Definitions 
+** Wikipedia cite:wiki:imitation 
+*** "behavior whereby an individual observes and replicates another's behavior."
+
+*** "form of social learning that leads to the "development of traditions, and ultimately our culture."
+**** "allows for the transfer of information (behaviours, customs, etc.) between individuals"
+***** "without the need for genetic inheritance"
+
+*** "refers to conscious behavior; subconscious imitation is termed mirroring."
+
+* Imitative software
+** re-synthesis
+*** fft
+*** mfcc
+*** wavelet
+** memorising
+** generalising
+** AARON
+** Style transfer
+
+* is it imitation that drives creativity?
+
+** we only know how to solve as problem if have enough familairish information
+
+** we ape old instances as much as possible and fill in the gaps
+
+** since memory is lossy we always fill in gaps
+
+*** therefore imitation in humans is always lossy
+
+* Is it not necessary to measure similarity to judge value and novelty?
+
+** Novelty - certainly?
+
+* Most of the time we want stuff that is not too far from original/influences
+
+** artefacts originate from lots of atomic actions

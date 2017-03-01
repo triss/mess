@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+TODO: TODO STAR WAIT APPT DONE
+#+TAGS: {@home(h) @town(t) @uni(u)}
+
+* Research proposal
+:LOGBOOK:
+CLOCK: [2016-10-03 Mon 12:06]--[2016-10-03 Mon 12:31] =>  0:25
+CLOCK: [2016-10-03 Mon 11:34]--[2016-10-03 Mon 11:41] =>  0:07
+CLOCK: [2016-10-03 Mon 10:48]--[2016-10-03 Mon 11:13] =>  0:25
+CLOCK: [2016-10-03 Mon 08:35]--[2016-10-03 Mon 09:00] =>  0:25
+:END:
+
+Whilst machines are now surpassing human capability in an increasing number of domains computers still excel at the mechanical and for the most part serve as externally motivated, unobservant participants in our endeavours. It is still rare for an algorithm to turn its interests inward, it will focus on the task at hand without guessing if it may be on a wild goose chase, setting out on a path of self improvement or suggesting better ways it could be deployed to its master. When they're capable of this its usually the result of knowledge humans have laboriously encoded inside that particular system (Hofstadter 1979). Its possible these seemingly ever present self governing behaviours may have lifted humanity out of the past local maxima that with just evolution and our baser instincts to assist us we may have never escaped. In computer science we're only just conceiving how to model and examine them.
+
+Computational creativity research has produced communities of agents that evaluate others work, produce outputs influenced by them (Saunders 2012) and exhibit behaviours that given an appropriate definition could be considered creative (Jordanous 2011). Works like Curious Whispers 2.0 (Saunders et al. 2010) have displayed a behaviour whereby musical ideas are analysed in a private environment before being transmitted to other agents for public evaluation, being judged and potentially included in or excluded from others repertoires. It is the nature, potential locations for, impact of and purpose of 'private' and 'public' self-evaluative time in automated creative systems and other potentially strange loops that act as the primary motivating subject of research in this proposal. I hypothesise that its this form of reflection that is key in getting machines to display apparently inward looking behaviours such as those described above.
+
+Both Hofstadter and Minsky(1998) point at how many isomorphisms present throughout reality have not yet been fully described. The recurrent and pervasive nature of evaluation points to the idea that the act of performing it itself may be one of these.
+
+As a starting point for this research information regarding inward looking, potentially reflexive algorithms will be catalogued and there usefulness for modelling self-evaluation analysed. The idea that artefacts can be subject to both public and private evaluation indicates that some handover takes place between private and public evaluative systems or layers of a system. These algorithms will be examined with particular attention to where this handover could or may already be taking place. Despite its sharing of attributes with the halting problem looking at when one layer of an evaluative system should be stopped and artefacts passed to another will be of particular attention.
+
+The Computational Creativity Research community has proposed numerous measures for evaluating how creative a particular system is. These will be investigated, evaluated and where possible and/or useful implemented as software as I investigate the aforementioned algorithms.
+
+Once results of the above investigation start to emerge It's proposed that communities of creative coders (Greenberg 2007) engaged in the activity of programming artifacts be modelled as a layered (Hofstadter 1979) meta-genetic programming Sims and Dawkins inspired algorithm noting that a lone individual could be considered a society of mind.
+
+The agents in these system will be judged on their ability to produce output that by some measure adhere to Mayer's basic definition of the creative i.e. that are both novel and valuable. Societies and perhaps individuals hold multiple different perspectives on what novel or valuable works are (Saunders 2012) and for this reason agents in this system will be encouraged to develop there own sense of what they consider to have these properties and use this prejudice on works both privately and publicly. The definition of this measure will occur through conceptual blending of a population of evaluation measures enabled through meta-genetic programming (Edmonds, 2001).
+
+This system will then be seeded with numerous evaluation algorithms and optimised to generate artefacts which humans after evaluation attribute the idea of creativity.
+
+This work will contribute academically to computational creativity and computational modelling of the cognitive process. Jordanous’s research topics cover computational creativity, computational linguistics, information retrieval and cognitive modelling. this work will likely result in exploration of all of the above areas and sit well with her recent focus on evaluation as part of the creative process.
+
+** Initial targets
+*** 1/17 - Produce and present paper at ICCC 2017
+*** 3/17 - Refine question and scope
+*** 5/17 - Project plan
+*** 6/17 - Literature Review
+*** Ongoing - Research skills via workshops
+*** Ongoing - Data analysis skills via workshops

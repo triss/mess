@@ -1,0 +1,1290 @@
+#+STARTUP: hidestars indent
+
+* Reading
+** Pease & Colton, 2011 - Turing Test alternative
+ :LOGBOOK:
+ CLOCK: [2016-10-02 Sun 12:10]--[2016-10-02 Sun 12:56] =>  0:46
+ CLOCK: [2016-09-30 Fri 22:07]--[2016-09-30 Fri 22:48] =>  0:41
+ :END:
+ cite:pease_impact_2011-1
+*** Summary
+ How to measure progress in CC
+ Turing style tests not good
+ Effort must be made to place systems in a creative space
+ Propose several different measures - FACE & IDEA primarily, also six stages of development
+
+ imitation is antipodal to creativity?
+ interaction key to properly evaluating?
+
+*** Content
+**** Introduction
+***** From an engineering perspective it is useful to have "concrete measures for assessing progress"
+****** between versions
+****** comparing and contrasting other systems
+***** CC systems employ version of TT that lacks interaction
+***** TT can encourage works to be generated in a human style
+***** TT does not account for background/contextual information
+****** resulting in superficial, uninteresting work
+****** things that adhere to a particular style
+***** FACE/IDEA
+ - FACE :: describes creative acts as tuples of generative acts
+ - IDEA :: describes how acts impact upon /ideal/ audience - given background and software development process
+**** CC definitions
+***** Constructing systems that can produce novel, surprising and valuable outputs
+***** creativity definitions
+ - little-c :: mundane
+ - big-c :: eminent
+ - boden :: exploratory/transformational
+****** Almost all definitions include novelty and "utility"
+****** Rothenberg - "thinking that is aimed at producing ideas or products that are relatively novel"
+****** Plucker and Makel :: synonymous terms for creativity:
+ "imagination, ingenuity, innovation, inspiration, inventiveness, muse, novelty, originality, serendipity, talent and unique".
+ "imitation is antipodal to many of those terms"
+***** two notions of evaluation
+****** valuable artifact?
+****** is system creative?
+***** Notion of evaluation can drive program design
+**** Turing Test
+***** Asks if AI has achieved its goal of simulating intelligence
+***** Problems
+****** Seen as distraction as it can encourages:
+******* encourages "mere trickery"
+******* sophisticated NLP
+****** influence often not "noted or questioned"
+****** "test based on imitation to evaluate competence in area of thought which is based on originality."
+****** imitation is "simply antipodal" to many definitions of creativity.
+***** Attempts to use TT for CCE
+****** Discrimination tests
+******* Pease & Wiggins, 2001 - Towards a framework for the evaluation of machine compositions
+******** Objective, falsifiable measures needed in cognitive musicology
+******** Users asked to classify pieces as machine or human generated
+******** Acknowledges that "much creative work is carried out within a particular style"
+******** Emphasises exploratory rather than transformational
+******** This test "rewards an appropriate level of novelty"
+********* Compositions not easily identified if:
+********** too strange - far away from explored areas
+********** too predictable - conforming well to well explored areas
+******** Acknowledges that "behaviour-based test is insufficient"
+********* but refer to Hofstadter's argument that interacting with a system at an arbitrarily deep level can shed great insight into the processes it uses to generate its output."
+******** Pease & Wiggins suggest work is useful for evaluating works in a particular style
+****** A TT for artistic creativity
+******* Boden's TT specifically designed for artistic systems
+******** “I will take it that for an ‘artistic’ program to pass the TT would be for it to produce artwork which was:
+********* indistinguishable from one produced by a human being; and/or
+********* was seen as having as much aesthetic value as one produced by a human being.” [11, p. 409]
+******** systems pass the above tests due to there outputs aesthetic value:
+********* "aesthetic value has been proven by the degree of interest in their work"
+********* all model exploratory creativity
+********** where a style is explored
+********* Exploratory systems that pass
+********** Brown's Starfish
+*********** Interacts by responding to movement and sound
+*********** Probably not creative
+************ since conceived, designed, produced and evaluated by humans
+************ no higher level cognitive function
+************ makes no aesthetic considerations
+************ is not imaginative
+********** Cohen's AARON
+*********** It's works have been exhibited
+********** Boden & Edmunds' Computer art
+*********** Coloured stripy thing
+*********** Colours determined by audience in "an unpredictable manner"
+********** Cope's Emmy (Experiments in musical intelligence)
+*********** Music in particular styles
+*********** Produced pastiche indistinguishable from human pastiche
+******** Some Transformational systems not valid for test
+********* despite being more interactive?
+******** Problems
+********* There is "no interaction with the system"
+********* "disjunctive rather than conjunctive relationship between the two criteria"
+********** everything that produces as much aesthetic value as a human passes
+********* "missing the point of the TT"
+********* Lack of emphasis on
+********** Interaction
+********** Discrimination
+********* Expanded "Turing Test"
+********** from "testing that intelligence might have been exhibited"
+********** to "testing whether software has done something (or produced something) culturally significant"
+********* Computer art may very well be distinguishable from human-created art yet still have value
+********* Art can pass Boden's TT for CCE but fail original TT
+ *
+******** Summary
+********* calling it a TT confuses intelligence with cultural impact
+********** software not ordinarily called creative can pass the test
+
+**** Using human creative behaviour as guide for CCE
+***** Wiggin's states that CC is:
+****** “The performance of tasks [by a computer] which, if performed by a human, would be deemed creative.” [18, p. 451]
+****** Sometimes software can immediately be disregarded as uncreative if doesn't exhibit:
+******* skill
+******* appreciation of own or other process/output
+******* imagination
+****** Colton proposes CC researchers try to create skillful, appreciative and imaginative systems
+**** The importance of interaction
+***** Claim that no interaction takes place between human and CCS evaluated by Boden
+***** We should be able to ask:
+****** Draw something in the style of Picasso.
+****** Can you break/change/enhance the rules of the Impressionist style and draw something within the new style you’ve just created?
+****** Draw something which reﬂects your feelings towards the war in Afghanistan.
+****** Draw something warm.
+****** Show me your best painting and explain to me why you think it’s good.
+****** Who or what has inﬂuenced your work?
+****** How does your work ﬁt into the wider artistic community?
+***** Interaction "arguably main strength of TT"
+***** Hofstadter's argument that interaction at any level is good
+******* Pease & Colton belive important word is "probe"
+
+**** Arguments that the Turing Test is inappropriate for measuring creativity in computers (or humans)
+***** penalises different styles of creativity
+****** "Creativity is a cultural notion, and people around the world understand, study and assess human creativity in many different ways"
+******* cognitive disorders
+******* mental health issues
+******* nationalities
+******* genders
+******* children
+****** It's possible to identify these classes from output
+****** Animal creativity
+****** "absurd to suggest that a member of one group is less creative than a member of another simply on the grounds that we can distinguish which category they fall into"
+***** "we should not discriminate against computers, even if their brand of creativity turns out to be distinguishable from human creativity"
+***** alternative intelligence
+****** build systems which are creative in a way unique to machines
+****** artificial is derogatory?
+***** TT forces us to make a machine act like it is not a machine
+****** this position is unfortunate?
+****** Hofstadter says its a delightful game?
+***** cannot take framing information in to account
+****** context impacts how creative we judge the originator to be
+******* Idea may be interesting if created by child but not by an adult
+****** TT asks us to determine who is responsible for a piece of work
+****** Interaction is key again?
+****** Blind and double blind review
+******* widely acknowledged to be difﬁcult to fully evaluate a paper without the framing information of authorship and context.
+***** encourage superficial advances in front-ends
+****** Ada Lovelace remark
+****** NLP and artificial wiggliness
+****** Chinese Room Argument
+******* Comprehesive enough book to "fool a judge"
+****** Systems such as AARON and MetaFont
+******  “In such scenarios it’s really the human creators against the human judges; the intervening computation is in many ways simply along for the ride” [28, p. 2].
+***** encourages pastiche
+****** motivations of CC researcher impact which evaluation methods should be used
+****** problems with TT present to varying degrees dependent on type of creativity
+****** exploratory search good in some situations
+******* leads only to pastiche in others
+******* does not innovate or imagine
+***** is too hard
+****** some systems pass Boden's TT
+****** interaction is key
+******* no systems are anywhere close to passing such a test
+******* TT would be useful if this were possible
+****** CC needs pragmatic measures of progress
+******* something that covers "whole spectrum of possible achievement"
+****** Boden recommends looking at where X lies in creative space
+******* TT is boolean judgement
+**** TT alternatives
+***** TT Problems
+****** TT fails to acknowledge creativity that might be specific to computers
+****** No context
+****** does not reward some advances in CC
+****** can favour pastiche over genuinely novel
+***** Need system
+****** measures intermediate progress
+****** falsifiable claims about programs
+***** FACE & IDEA
+****** Not intended to capture human creativity
+******* inspired by human creativity though
+****** Nor even all of CC
+****** "provide a means of formalising some aspects of Computational Creativity"
+****** one possible way of describing software designed for creative purposes
+****** twin processes of generation and evaluation
+***** FACE model
+****** Eight kinds of generative acts
+ - F^p :: method for generating framing information
+ - F^g :: item of framing information
+ - A^p :: method for generating aesthetic measures
+ - A^g :: an aesthetic measure
+ - C^p :: method for generating concepts
+ - C^g :: expression of a concept
+****** When something new is created question of creativity arises
+******* Creation could be very small
+******** brush stroke
+******** inference step
+******** a single note
+******* Therefore covers "merely" and "fundamentally" generative acts
+******* judgements on sophistication can be postponed
+****** Applying FACE to Verbeek's upsidedowns
+****** Provides Quantitive measure
+******* count types and quantity of generative acts
+******* particular orderings might be favoured
+******* allow differences between utilises and invents
+******* methods used in each generative act could be weighted
+******** random = poor
+***** IDEA model
+****** formalise notions of how creative acts can be measured in terms of impact
+****** cycles through
+******* Iterative
+******* Development
+******* Execution
+******* Appreciation
+****** Software is engineered and then exposed to an /ideal/ audience
+******* Measures derived from
+******** indication of change in well-being
+******** cognitive effort spent trying to appreciate the creative artefact
+******* Fleshed out with ideas of
+******** ideal programming environment
+******** ideal background information
+****** Six stages of software development process
+******* Developmental stage
+******** all acts performed by software are based on inspiring examples
+******* fine-tuning
+******** creative acts are abstracted away from inspiring examples
+******** still not producing novel works
+******* re-invention
+******** system performs acts not explicitly provided by programmer
+******** but still similar
+******* discovery
+******** produces novel acts
+******** similar enough to be "assessed within existing contexts"
+******* disruption
+******** produce acts to dissimilar to assessed in current context
+******** new contexts need to be invented
+******* disorientation
+******** acts are too dissimilar for there to be any context to judge software
+****** Stage software is act allows comparison and contrast of software
+**** Conclusions
+***** TT not currently viable, might be one day
+***** FACE & IDEA beats TT because it
+****** rewards
+******* creativity specific to computers
+******* contextual information
+******* genuine advances in CC
+******* novelty over pastiche
+****** provides
+******* workable measure
+******* includes intermediate progress
+******* falsifiable claims
+****** require expanding with sub-models
+******* proposes formalisms for
+ affect, analogy, appreciation, audience, autonomy, blending, community, context, curiosity, exploration, framing, humanity, humour, idea formation, imagination, intentionality, interaction, interpretation, knowledge, metaphor, novelty, obfuscation, personality, physicality, playfulness, problem solving, process, programming, search, surprise, transformation and trust
+*** Questions
+**** Why isn't fine-tuning stage producing novel artifacts?
+**** With regards to Boden's TT
+***** why is the TT not interactive
+****** when user's view systems output is that not interacting?
+***** why weren't some systems suitable? Sim's + Todd & Latham
+****** because they were much more interactive?
+**** Value and utility
+***** What about a failed act of creativity?
+****** Can act be creative but fail to produce useful output?
+**** Starfish is not creative because it shows no "higher level cognition"
+***** Is that necessary - creative animals?
+****** Ants - are they creative?
+****** Evolution is that creative?
+**** Code
+***** Interacting with system
+****** Hofstadter style level of interaction in itself even with static code
+****** REPL - allows interaction
+***** From footnote
+******  "These requests could be translated into a language which the program understands, without cheating, thus bypassing the need for verbal interaction"
+***** Framing/context already there
+****** It's humans fault if we don't understand it?
+**** What does probe mean?
+***** this is interact?
+****** can't humans and computers have different meanings for interact?
+**** Some humans prefer pastiche to the genuinely novel?
+***** so what?
+**** F^p is more creative than anything we have now? (framing production)
+***** What about genetic programming?
+****** Decisions made in the piece could be explicated by raw code?
+******* Take this further with metadata
+***** What about simply logging how decisions were made?
+** Colton, 2008 - C vs perception of C
+cite:colton:2008a
+*** Summary
+**** The process needs to be taken in to account
+***** We should look at how systems are
+****** Skillful
+****** Appreciative
+****** Imaginative
+***** And quantify how much of this stuff comes from
+****** Programmer
+****** Computer
+****** Consumer
+**** We should evaluate look at *both* /process/ and /output/
+**** Conceptual art model of evaluation is useful 
+***** people don't like to attribute C to artefacts that are machine produced
+***** Conceptual model forces is to look at process
+**** "straightforward way of categorising and describing the behaviours of creative software for non-technical consumers"
+
+*** Content
+**** Abstract
+***** Not appropriate to assess C of system on artefact alone
+***** Possible end game where creative software engages in debate about what it means to be C
+
+**** Content
+***** Introduction
+****** Old eval methods takes place with product
+******* highlight deficiencies in artefact only based assessment
+
+****** Wanted to show an increase in C with each new version of system
+
+****** look at *both* /process/ and /output/
+******* "when consumers of paintings assess them, they do not strictly separate the process and the artefact"
+******* A viewer might say "a piece is better if it is creatively produced"
+******* Conceptual art can be used to manage perception of C
+******** aesthetic qualities of a piece seem to have little impact on a consumer’s appreciation
+******** Duchamp's urinal we celebrate C of artist
+******** this complex model of artistic assessment is more pertinent when consumers assess the value of computer generated artworks
+
+***** Assessment of CC
+****** Boden
+******* Distinguished between artefact and behaviour
+******* also HC and PC
+******* transformational/exploratory
+
+****** Koza 
+******* some GP dude
+******* patentable circuit board designs
+******* concept of "routine"
+
+****** Ritchie
+******* "internal workings of a program are not part of the relevant data.”
+******** "Most contentious working assumption"
+******* innovation in a production method should be viewed as the generation of an abstract artefact
+******* Focuses on quality and novelty
+******** Novelty 
+********* defined in terms of inspiring set of artefacts
+********** reproducing items from it should not be seen as "great success"
+******** Quality
+********* defined in terms of class membership
+******* Innovation in production method -> considered artefact
+
+***** Artefact generation in the visual arts 
+****** Evo art
+******* guided by users aesthetic preference
+******* NEvAR etc use automatic fitness function
+
+****** Non-photorealistic rendering (NPR)
+******* don't simulate cognitive aspects of artists
+********* e.g. brush strokes
+******* produce images that look like they've been 
+******** painted/drawn/sketched by a human artist.
+******* Methods
+******** segmentation of image
+******** simulation of natural media
+********* charcoal, paint etc
+******* Collomosse interesting because of salience maps
+
+****** automatic painters
+******* simulate artistic process
+******** AARON
+********* simulates Cohen
+******** The Painting Fool
+********* tries to be non-human
+********** produce what humans couldn't
+
+***** Art appreciation
+****** "there is no collective notion of beauty within art intelligencia."
+******* Artists would "willfully rebel, and would be expected to do so."
+****** "consumer endeavours to discover the process behind the production"
+******* How much consumer likes piece is impacted through:
+******** effort behind process
+******** ingenuity in devising process
+******** skill required to undertake the process
+******** possibly aesthetic judgement also
+****** A consumer may prefer work that represents feelings to one that is random
+****** Conceptual art
+******* "creativity of an artist is a primary consideration,"
+******* conceptual art is more about "ideas and meanings"
+****** Artists expected to work at both "conceptual and craft scale"
+****** Conceptual innovation not always visible in the piece
+******* art lovers expected to appreciate both
+
+***** The perception of C in software
+****** Poor old computer artists
+******* "artists using computers in any fashion tend to be kept as outsiders in the art world."
+******* "general reluctance to admit that hard-learned traditional crafts can be replaced with digital substitutes"
+******* "incorrect perception that engineering skills such as computer programming do not lend themselves well to artistic expression."
+******** In the past NPR experts claim:
+********* “Simulating artistic techniques means also simulating human thinking and reasoning"
+********** ... impossible to do using algorithms or information processing systems.”
+******* Art appreciators default position that software is not creative
+******* Turing style tests
+******** Wrong question
+********* Not "can people tell which of two paintings was computer generated"
+********* Should ask "which artwork would people buy?"
+
+****** Ritchie says we can consider process as artefact 
+******* Art lovers overall aesthetic includes creativity of author
+
+****** Colton believes
+******* Not just C, skill and effort must also be included
+******* Assessment of an artwork can include information about the process
+******* Full disclosure of works origin would be required
+******** Enabling CG art to compete on level playing field with art
+******* Automated painters should transcend any information given about good or bad artefacts
+******** develop own aesthetic and styles
+******** Fixing measures on how good/bad artefacts are is missing point
+********* Only useful when software has no ambition of being C in own right
+
+***** The Creative Tripod
+****** Default is to attribute C to programmer
+******* Double standard
+******** We do not attribute C to artist teacher
+******** Is somewhat valid to do so
+********* Training is more software is more explicit than with artists
+
+****** Framing Dichotomy
+******* "too little information will not feed the desire to understand what it is doing,"
+******* "too much information might re-inforce the impression that the software is purely carrying out pre-defined (programmed) instructions."
+
+****** Perception that machines can not be creative default
+******* Use set of criticisms as "set of necessary conditions"
+
+****** To produce Creative Tripod
+******* skillful
+******** nothing produced without it
+******* appreciative
+******** nothing of value produced
+******* imaginative
+******** only produce pastiche without imagination
+
+****** Legs extend
+******* Show that there are three contributors to act of C
+******** Programmer
+******** Computer
+******** Consumer
+******* Size of extension represents contribution size
+******* Regardless of behaviour of consumer or programmer 
+******** software should be considered creative if it can extend 3 legs
+******** does not matter where C comes from
+
+****** Allows C to be attributed to older systems
+******* Collomosse's cubist image generator is C
+******** All three properties displayed
+********* saliency detection = /appreciate/ important aspects of input and is mildly /imaginative/
+********* simulating paint strokes is /skillful/
+******* NEvAR - fitness function does /appreciation/
+******* AARON not /appreciative/
+
+****** We should also refer back to old frameworks
+******* Boden's /exploratory/ search < less *imaginative* than /transformational/ search
+******* Tripod should be considered supplement to artefact based appraisal
+******** e.g. Ritchie - should be implemented as software
+
+***** Case studies
+****** HR system
+******* Description
+******** Input is minimal information about domain
+********* Axioms of an algebra
+********* arithmetic operators
+******** Builds new concepts form old ones
+********* uses production rules
+********** impose structure
+********** constraints
+******** Searches for empirical relations between concepts to make conjecture
+********* notes if concepts are logically equivalent
+******** Search driven by *measures of interestingness*
+********* users weight these
+******** Wasn't designed with Tripod in mind
+********* "It didn’t matter whether a description of our techniques would add to the perception of creativity as a whole or not, as long as each new version of HR produced better quality and/or more types of mathematical artefacts."
+
+******* Evaluation
+******** Is C since:
+********* Skills
+********** form new concepts from old
+********** prove/disprove theorems
+********* Appreciation
+********** measures of interestingness
+********* Imaginative
+********** Since if child had come up with idea we would say it was an imaginative or inventive child
+******** Boden
+********* Does both P-creative and H-creative invention
+********** adds weight to imaginative?
+
+****** Painting fool
+******* Description
+******** given digital image it segments
+******** abstracts broders, regions
+******** simulates different media to fill each segment
+******** knowledge base of settings for segmentation/rendering
+******** Expert system - keywords are mapped to settings
+********* provides keyword control of all settings
+******** Art project - not scientific
+********* Aims to disseminate works
+********* Operates in real time
+********** "aid in presenting The Painting Fool as an artist rather than a program"
+********** observers project more value
+********** project more critical thought processes onto software
+*********** empathise with it more
+******** Description in terms of skill, appreciation, and imagination
+********* adds to empathy people have for system
+
+******* Development
+******** First gallery - Skill
+********* simulated styles
+******** Second gallery - Appreciation
+********* Appreciated emotion in others images - Amelie
+********* And own work
+********* Added mapping from keyword to emotional style
+********* Still needed to be told emotion displayed by Amelie
+******** Added ability to extract emotion from short video clip
+********* no longer needed to be told emotion
+
+******* Evaluation
+******** Design driven by Tripod - see above
+******** Imaginative 
+********* Scene generation
+********** GA + HR generated FF
+*********** "added greatly to *our* perception"
+******** Did not exhibit all three at same time
+********* Adding NLP may add to this
+
+***** Conclusions
+****** Artefact based evaluation not good enough
+****** Process should be included in assessment of artefact
+******* as important as aesthetic considerations
+****** Systems being C in own right need to subvert any given notions of good or bad
+
+
+** Ventura, 2016 - Mere Generation: Essential Barometer or Dated Concept?
+ :LOGBOOK:
+ CLOCK: [2016-10-07 Fri 10:10]--[2016-10-07 Fri 11:11] =>  1:01
+ CLOCK: [2016-10-05 Wed 14:03]--[2016-10-05 Wed 14:10] =>  0:07
+ CLOCK: [2016-10-05 Wed 12:05]--[2016-10-05 Wed 12:35] =>  0:30
+ CLOCK: [2016-10-05 Wed 11:00]--[2016-10-05 Wed 11:20] =>  0:20
+ CLOCK: [2016-10-05 Wed 10:05]--[2016-10-05 Wed 10:40] =>  0:35
+ CLOCK: [2016-10-04 Tue 08:21]--[2016-10-04 Tue 08:23] =>  0:02
+ CLOCK: [2016-10-03 Mon 14:57]--[2016-10-03 Mon 16:28] =>  1:31
+ CLOCK: [2016-10-03 Mon 13:00]--[2016-10-03 Mon 13:55] =>  0:55
+ :END:
+ cite:dan_ventura_mere_2016
+*** Summary
+ Demarcates CC landscape - a spectrum of generation
+ Abstract algorithms describe places on it
+ MG isn't a useful measuring stick since it's already been surpassed
+ Intentonality moves systems towards creativity
+
+*** Content
+**** Abstract
+***** CCR take a dim view of supposedly creative systems that operate by mere-generation
+***** What MG means isn't clear
+****** How do we exceed?
+****** Can it be done qualitatively?
+
+**** Introduction
+***** generation of some artifacts is still well beyond capabilities of any current system.
+***** CCR have "dogma of disdain" for MG systems.
+***** It's possible we crossed MG line sometime ago
+****** Related to Q of evaluation
+***** How do we measure "creativity level" of systems?
+****** map systems from MG to definitely not MG
+****** Novelty, value, intentionality
+******* Novelty, value deal with /product/
+******* Intentionality - deal with /process/
+"the fact of being deliberative or purposive; that is, the output of the system is the result of the system having a goal or objective—the system’s product is correlated with its process."
+***** Algorithms produced are typical of CC systems and cover most behaviours
+****** most CC systems typified
+****** convex combinations of a couple
+***** We have "left port"!
+
+**** A Generation Odyssey
+***** Haiku used for tests because:
+****** realisations small enough to allow analysis
+****** complex enough to prompt treatment of important issues
+***** Places
+****** Randomisation
+******* simplest form of generation
+******* stochastic process
+******* produces set of atomic elements
+******* meaningless output
+******* for Haiku
+******** with no regard for cohesion, syllable count etc.
+******** while /not done/
+********* generate random word
+******* Novel
+******** As size of artifact increases, likelihood it has been generated before decreases
+******** But not through intention
+********* has no notion of novelty
+******* as artifact size increases
+******** chance of novelty increases
+******** proportion of valuable candidates does not grow as quickly
+
+****** Plagarisation
+******* has inspiring set of quality artifacts
+******* acquired knowledge of what Haiku is
+******** rudimentary
+******** what's in and out of inspiring set
+******* Can't produce anything novel
+******* Has no autonomy
+******** lacks intention
+******* Always valuable
+****** Memorisation
+******* Inspiring set is re-represented
+******** Ideally without loss of fidelity
+******** Internalised
+******** Overfit
+******** No generalising principles learnt
+******* When memorisation is perfect
+******** same as regurgitation
+******* When errors introduced
+******** for example
+********* compression
+********* model capacity
+********* faulty memory
+********* fidelity issues
+******** features rather than bugs
+********* could be "packaged as creativity"
+******** would not be detected
+******** no mechanism for checking quality of errors
+******** value likely to decrease, novelty likely to increase
+******* value
+******** goes down with error
+******* no novelty
+******** goes up with error
+******* no intention
+******** Not impacted by error
+
+****** Generalisation
+******* Achieved by "regularisation of the model"
+******** The trick is
+********* right amount of regularisation
+********* right bias
+******** Can be explicitly designed or learnt
+******* Deeper knowledge than any predecessors
+******** Although naive or incorrect
+******* Might see pastiche at this level
+******* Novelty
+******** Limited by constructs in inspiring set
+******* Value
+******** Limited because any valid generalisation could be output
+******** affected by bias
+******* Limited intentionality
+******* Larger set of artifacts than memorisation, plagarisation
+******* Smaller than random
+
+****** Filtration
+******* Significant milestone
+******** Higher value output than generalisation
+********* tests can be performed
+********** cohesion
+********** affect
+******* Fitness function added to generalising model
+******** Should measure "holistic characteristics"
+********* not stuff already handled by the model
+
+****** Inception
+******* Addition of knowledge-base
+******** Used in modelling or evaluation step
+******** Allows increase in fitness threshold
+******** Very general or domain specific
+******* Increases intentional novelty and intentional value
+******* "intention can be more nuanced"
+******* Needs obfuscation
+
+****** Creation
+******* Addition of perceptual ability
+******* "intentionality is now perceptually grounded"
+
+***** An intentional detour
+****** Intention can be added to algorithm in two places
+******* post hoc
+******** can explain why the artifact has value/novelty
+******** "can not give a satisfactory account of how the artifact was produced"
+******* in situ
+******** restricts generation process
+******** can explain reason it was generated
+****** "Are these approaches fundamentally different in their creative ability?"
+******* Could probably produce same artifacts
+
+**** Where in the World are We?
+***** The edge of the world
+ World starts with stochastic algorithms and moves away from MG
+ How far away from stochastic do we have to be before we aren't MG anymore?
+****** Line in the sand - surpass MG
+******* Possesses some knowledge
+******* Possesses some knowledge it has collected/structured
+******* Has reasonable chance of producing novelty and value
+******* Produces intentional novelty or value
+******* Produces both intentional novelty and value
+***** Triangulating our position
+****** We are "beyond the threshold of MG"
+****** No Man's Sky
+******* should not be dismissed as MG
+******** risk losing credibility
+****** Conservative MG boundary
+******* At least filtration should have occurred
+****** We should be looking to
+******* more autonomy - less fingerprints
+******* scale systems to real world
+******* apply CC to new domains
+******* how do we do cross-domain creativity
+
+**** Last Words
+***** MG needs to be revisited
+***** MG's use as measuring stick is outdated
+***** New spectrum of generation
+****** Algorithms abstract and varied enough to cover spectrum
+***** Field
+****** has moved further than it gives itself credit for
+****** needs to connect with others
+
+*** Questions
+**** What axis are described in this document
+**** Randomisation
+***** Is evaluation done even during randomisation?
+****** while not done?
+***** Output will not be valuable
+****** I rather like the random output, It might be my favourite Haiku!
+****** what about when model is very well structured?
+**** Memorisation with errors strays in to generalisation
+**** How does leaving fingerprints impact how creative a system is being?
+***** Do we really need obfuscation?
+**** Isn't all evaluation perceptually grounded?
+**** Post hoc "can not give a satisfactory account of how the artifact was produced"
+***** what about the code?
+****** extremely detailed explanation?
+**** Generalisation -> Filtration -> Inception
+ How does knowledge really improve things?
+ Does WaveNet impact whats said about value increasing
+ Does value always increase with intentionality?
+   [[file:~/Dropbox/org/cce.org::*Filtration][Filtration]]
+**** Lines in the sand
+***** Intentional novelty is really easy isn't it?
+** Jordanous, 2011 - Evaluating Computational Creativity
+cite:jordanous_evaluating_2013
+*** Thesis Contents
+**** Ch. 1 - Introduction
+***** SPECS - Standardised Procedure for Evaluating Creative Systems
+****** Summary
+******* 3 stages
+******* specify what creativity entails in a particular domain
+******* what standards are bing evaluated against.
+****** Why?
+******* break methodological malaise
+******* work reported in non-reproducible form
+******* creative-practitioner approach
+******** critical reaction of those work is presented to determines systems worth
+********* focus on quality of output - not novelty or variety
+******* standard approach allows for comparison and contrast with pother systems
+****** role of evaluation
+******* progress in field can't be tracked without it
+******* 2 types of evaluation
+ - summative :: summary of system
+ - formative :: feedback on strengths and weaknesses. How well it worked. Can it be improved?
+****** computers can be creative
+****** CC field
+**** Ch. 2 - Critical review of previous CCE work
+***** Existing evaluation methods
+****** Ritchie's criteria - 2001
+******* Quantitative evaluation method
+****** combinations of tests  - Pease et al. 2001
+****** how input to CS determines output - Colton et al. 2001
+****** creative tripod - Colton, 2008b
+******* good for justification
+******* bad for comparison
+****** combination of creative tripod and Ritchie's criteria - Ventura 2008
+******* supposedly unsuccessful
+****** FACE and IDEA - Pease & Colton, 2011
+******* FACE - represent creative acts
+******* IDEA - impact of acts
+***** Scientific method and CCE
+****** Verification of hypothesis
+******* Hypothesis can be made prior to or post-discovery
+******** hypothetico-deductive
+ 1. Start with hypotheis H
+ 2. Use logic to produce observation O
+ 3. If O observed
+    - then H is confirmed
+    - else H is falsified
+******** Induction
+ 1. Collect evidence
+ 2. Observe pattern
+ 3. Formulate hypothesis
+******* A hypothesis is /verified/ by the existence of confirming examples?
+******** Problems
+********* irrelevant evidence can confirm H
+********* falsifying evidence can screw things up
+********* paradox of confirmation
+****** Falsificationism
+******* construct hypothesis and seek falsifying example
+******* hypothesis cannot be proved beyond doubt, but can be disproved
+******* positive results only /corroborate/ a theory
+******* negative results may always overthrow a theory
+******* statements in science must be:
+******** testable
+******** objective
+******** reachable
+******** reproducible
+******* all scientific statements must remain "tentative for ever"
+******* observation and experiments /theory-laden/ rather than free of context
+******* induction
+******** /universal statements/ can be invalidated
+********* statements based on contextual experiences
+********* open to interpretation
+
+****** Structure and growth of scientific knowledge
+****** Standard scientific method
+****** Conclusions
+**** Ch. 3 - Creativity definitions
+**** Ch. 4 - 14 key components of creativity - found via NLP
+**** Ch. 5 - SPECS methodology
+**** Ch. 6 - SPECS on 3 musical systems
+**** Ch. 7 - SPECS - simulate how we judge creativity
+**** Ch. 8 - Other CCE evaluation to two systems
+**** Ch. 9 - Reflections on SPECS CCE
+**** Ch. 10 - Summary of SPECS, conclusion
+** Jordanous, 2015 - Four P's
+cite:Jordanous2015
+*** Summary
+Creativity of system can be evaluated from many perspectives
+**** internal/external features
+**** system itself/systems output
+**** Four P's
+***** Person
+***** Product
+***** Process
+***** Press - environment
+
+**** CC focus is on Product/Process
+***** Widening to include audiences
+
+**** Explore novelty and value from each P
+
+*** Content
+**** Product/process debate in CCE
+***** Debate on output/process focus
+****** Ritchie originally thought process unimportant
+******* Advocate black box testing
+******* Eventually conceded that it's important to consider a systems mechanisms in more theoretical research
+
+**** When we E just the product of musical improv
+***** primary intentions of musician are ignored
+***** level of C will probably be underestimated
+***** 
+***** 
+**** Providing info to evaluators with knowledge of process/system impacts how it is evaluated
+***** Colton
+****** Dots arranged to represent friendships are better than dots that are random
+******* Assessment of value/quality/appeal or creativity?
+***** Ventura
+****** Info on how program works will have detrimental impact on subsequent E?
+***** Magician's never reveals it secrets
+****** Colton side steps by giving high level description only?
+
+**** Systems of eval have evolved to take in to account audience
+***** Creative tripod
+****** Influenced by how audience perceive creativity
+***** SPECS
+****** define creativity first
+***** FACE/IDEA
+****** Aesthetic features
+****** Interaction between audience & system
+
+**** Four P's 
+***** Summary
+- Person :: the individual that is creative
+- Process :: what the creative individual does to be creative
+- Product :: what is produced by the creative process
+- Press :: the environment in which creativity is situated 
+***** Backed up by Plucker et al., Rhodes and Kaufman
+****** Kaufman adds persuasion and potential
+***** Person 
+****** in C research
+******* No consensus on creative type 
+******** different authors highlight different characteristics
+******* Creativity research looked at "creative people"
+******** Personality traits, intelligence, temperament, habits
+****** in CC research
+******* in CC we don't model creative person
+******** systems are focus on domain specific C and are built around most prominent skills in domain
+******* Colton's - skill, imagination and appreciation
+******* We still don't have systems that can be creative across multiple domains?
+******* Person could entail programmer, researcher, tester and other peers
+***** Process
+****** in C research
+******* C unfolds over time - Odena & Welch
+******** validate, develop, refine ideas
+******* C is a social or individual process - Csikszentmihayli
+****** in CC research
+******* Flowr - is nothing?
+******* Misztal - abstractions over poetry
+******* Generate and test / Engage and reflect
+******* FACE - Frame
+***** Product
+****** in C research
+******* for many /proof/ of C is needed
+******* Product not enough to predict future creativity
+******** Product must be considered in domain specific context
+******* Kagan - ‘Creativity refers to a product, and if made by a man, we give him the honor of the adjective’
+****** in CC research
+******* Ritchie empirical criteria
+******** "creative products are both necessary and sufficient"
+******* CC likes Kagan?
+***** Press
+"bidirectional perspective be- tween the environment which influences the creator and receives the creative work, and the creator who publicises their work and is given feedback on what they produce."
+****** in C research
+******* Tardif & Sternberg
+******** consider both creative domains + social environment
+******* Rhodes focus on role environment plays in creative process
+****** in CC research
+******* Boden - ‘[t]o be appreciated as creative. a work of art or a scientific theory has to be understood in a specific relation to what preceded it’
+******** but actually focuses on different cognitive processes 
+******* DIFI
+******** Domain
+******** Individual
+******** Field
+******** Interaction
+**** Interaction between 4 Ps
+***** In C
+****** Simonton 
+******* notes that perspective does impact view of C in a system
+******* thinks we must account for the potential presence of all four aspects
+******* subordinate others to one
+******** if we can't make aspects hang together
+******* Mystery of C when a P is missing?
+******** C only formed when strands operate in unity
+******* Chance configuration theory
+******** ideas emerge as influential when the originator promotes them
+******** chance intervenes in success
+********* Lucky != creative
+********* general conditions that favour creativity
+****** Rhodes - One direction
+******* Product -> Person -> Process -> Press
+******** Anna notes that these all influence one another
+****** Tardif & Sterberg
+******* Think each P is "different level of analysis"
+******** Comparison within levels allows coherent statements
+******** Anna says weakened since it doesn't compare across 4 Ps
+****** Mooney
+******* ‘puts together the four approaches by showing them to be aspects of one unifying idea'
+***** In CC
+****** Scoff at MG
+******* MG only a quarter
+**** Apply 4 Ps - novelty and value
+***** Novelty
+****** Product
+******* how novel are the generated artefacts?
+****** Process
+******* A process can be novel
+****** Person
+******* Hardware/software version
+****** Press
+******* Novelty differs across environments
+***** Value
+****** Product
+******* How good are artefacts?
+****** Process
+******* Cross application
+****** Person
+******* Some people more valuable than others
+******** how often they're cited?
+****** Press
+******* Value
+*** Questions
+**** How to differentiate between Person(system) and Process
+***** Is it possible?
+***** Interesting question
+****** Where does algorithm stop and system start?
+**** Creativity does not exist in a vacuum
+**** Lucky != creative
+***** Why not?
+**** MG does include other 3 perspectives?
+***** Not so sure about this
+****** Analysis of people/process/press is common
+******* just not explicit?
+**** Flowr - Surely focus has always been on new or combinations of processes?
+**** When the process/person/press is the product?
+**** Interactions
+***** Value actually doesn't make sense without taking press in to account?
+** Jordanous & Keller, 2016 - Modelling creativity from corpus
+cite:Jordanous1
+*** Summary
+multi-faceted definition of creativity generated from Corpus of material
+*** Content
+**** Ontology of creativity
+***** Active involvement and persistence
+****** reacting to and having deliberate effect on creative process
+****** tenacity to persist
+***** Dealing with uncertainty
+****** Coping with incomplete data
+****** Not relying on every step of process being specified in detail
+****** perhaps even avoiding routine or pre-existing methods
+***** Domain competence
+****** Knowing a domain well enough to be equipped to recognise gaps, needs or problems that need solving and to generate, validate, develop and promote new ideas in that domain.
+***** General intellectual ability
+****** IQ, general intelligence
+****** good mental capacity
+***** Generation of results
+***** Independence and Freedom
+****** Working independently with autonomy over actions and decisions.
+****** Freedom to work without being bound to pre-existing solutions, processes or biases; perhaps challenging cultural or domain norms.
+***** Intention and Emotional Involvement.
+****** Personal and emotional investment, immersion, self-expression and involvement in the creative process.
+****** The intention and desire to be creative: creativity is its own reward, a positive process giving fulfilment and enjoyment.
+***** Originality
+****** Novelty and originality; 
+******* a new product, or doing something in a new way; 
+******* seeing new links and relations between previously unassociated concepts.
+****** Results that are unpredictable, unexpected, surprising, unusual, out of the ordinary.
+***** Progression and development
+****** Movement, advancement, evolution and development
+****** Process should represent some progress in a particular domain
+***** Social interaction and communication
+****** Communicate/promote work in a persuasive and positive manner
+****** Mutual influence
+***** Spontaneity/Subconscious Processing
+****** No need to control whole process
+****** react quickly without thinking?
+***** Thinking and evaluating
+****** Consciously evaluating several options
+******* recognise potential in each
+******* using reasoning and judgement
+****** Proactively selecting a decided choice from possible options
+******* without allowing stagnation
+***** Value
+****** Make useful contribution
+****** Valued by others
+****** Perceived as special "not just something anybody would have done"
+***** Variety, divergence and Experimentation
+****** Variety of ideas
+******* selected and chosen from
+****** open to several perspectives
+******* without bias
+****** multi-tasking during creative process
+
+
+* Axis of CC space
+:LOGBOOK:
+CLOCK: [2016-10-10 Mon 09:57]--[2016-10-10 Mon 10:36] =>  0:39
+CLOCK: [2016-10-07 Fri 12:10]--[2016-10-07 Fri 12:52] =>  0:42
+CLOCK: [2016-10-07 Fri 11:10]--[2016-10-07 Fri 12:02] =>  0:52
+:END:
+
+** Places - data points
+*** Ventura's MG points
+**** Randomisation
+**** Plagarisation
+**** Memorisation
+**** Generalisation
+**** Filtration
+**** Inception
+**** Creation
+** Ventura's MG->CC space
+*** Useful axis
+**** Novelty
+***** Not novel
+***** novel
+***** intentional novelty
+**** Value
+***** Not valuable
+***** valuable
+***** intentional value
+**** Knowledge
+***** No knowledge
+***** Some knowledge
+***** Some knowledge CCS has structured
+**** Evaluation
+***** ad hoc
+***** in situ
+*** Not useful
+**** MG -> creative?
+No points along the way on a single dimension
+**** Line in the sand
+[[*Line in the sand][Line in the sand]]
+Not good since "lines in sand" spread across axis
+** P&C - Skillful, appreciative, imagination
+[[*Sometimes software can immediately be disregarded as uncreative if doesn't exhibit:][Sometimes software can immediately be disregarded as uncreative if doesn't exhibit:]]
+**** skillful
+**** appreciative
+**** imaginative
+** P&C - Six stages
+[[*Six stages of software development process][Six stages of software development process]]
+** MG->CC places to P&C's six stages
+*** Development stage -> Memorisation
+*** Fine-tuning and re-invention -> Generalisation through Creativity?
+**** Except generalisation and up have novelty?
+*** Disruption, Disorientation -> no equivalent?
+**** Couldn't all of Ventura's things do that?
+** MG->CC to P&C's skillfull, appreciative, imaginative
+*** Randomisation
+**** could be skillful
+***** Because Ventura allows for minimal knowledge to be embedded
+**** can't be appreciative
+***** No evaluation going on
+**** could be imaginative
+***** Lord only knows what it's going to create
+***** Define imagination?
+*** Plagiarisation
+**** can't be skillful
+***** skill of other used directly
+**** can't be appreciative
+**** can't be imaginative
+*** Memorisation
+**** can't be skillfull
+***** apart from on the way to generalisation
+**** can't be appreciative
+**** can't be imaginative
+***** apart from on the way to generalisation
+*** Generalisation
+**** could be skillfull
+**** can't be appreciative
+**** could be imaginative
+***** Room to fill in the gaps
+*** Filtration
+**** could be skillfull
+**** is appreciative
+**** could be imaginative
+*** Inception
+**** could be skillfull
+**** is appreciative
+**** could be imaginative
+*** Creativity
+**** could be skillfull
+**** is appreciative
+**** could be imaginative
+** MG->CC to P&C's FACE
+*** Randomisation
+E^g, C^g?
+*** Plagarisation
+E^g, C^g?
+*** Memorisation
+Possibly adds E^p?
+*** Generalisation
+Possibly adds E^p?
+*** Filtration
+Adds A^g
+*** Inception
+Possibly add A^p and F^p
+*** Creation
+Possibly add A^p and F^p
+
+** Table
+
+|-----------------+---------+-------+-----------+-----------+--------------+-------------+------+-----+-----+-----+-----+-----+-----+-----+-----------------------------------|
+|                 | Ventura |       |           | Colton's  |              |             | FACE |     |     |     |     |     |     |     | P&C six stage                     |
+|-----------------+---------+-------+-----------+-----------+--------------+-------------+------+-----+-----+-----+-----+-----+-----+-----+-----------------------------------|
+| MG->CC location | Novelty | Value | Knowledge | Skillfull | Appreciative | Imaginative | F^g  | F^p | A^g | A^p | C^g | C^p | E^g | E^p | NB: no disruption, disorientation |
+|-----------------+---------+-------+-----------+-----------+--------------+-------------+------+-----+-----+-----+-----+-----+-----+-----+-----------------------------------|
+| Randomisation   | Y       |       | ?         | ?         |              |             |      |     |     |     | Y   |     | Y   |     | Development                       |
+| Plagarisation   |         | Y     |           |           |              |             |      |     |     |     | Y   |     | Y   |     | Development                       |
+| Memorisation    |         | Y     |           | ?         |              |             |      |     |     |     | Y   |     | Y   | ?   | fine-tuning + re-invention        |
+| Generalisation  | Y       | Y     |           | Y         |              | ?           |      |     |     |     | Y   |     | Y   | ?   | fine-tuning + re-invention        |
+| Filtration      | I       | I     | Y         | Y         | Y            | ?           | ?    |     |     |     | Y   |     | Y   | ?   | fine-tuning + re-invention        |
+| Inception       | I       | I     | Y         | Y         | Y            | ?           | ?    |     |     |     | Y   |     | Y   | ?   | fine-tuning + re-invention        |
+| Creation        | I       | I     | Y         | Y         | Y            | ?           | ?    |     |     |     | Y   |     | Y   | ?   | fine-tuning + re-invention        |
+
+
+* Where does evaluation happen?
+** [[file:~/Dropbox/org/cce.org::*Is%20evaluation%20done%20even%20during%20randomisation?][Is evaluation done even during randomisation?]]
+The algorithm provided contains knowledge of when to stop.
+Is knowing that length if artifact reached "evaluation"?
+Does this mean the algorithm contains some knowledge of its domain? Does that constitute a finger print?
+
+** [[file:~/Dropbox/org/cce.org::*Intention%20can%20be%20added%20to%20algorithm%20in%20two%20places][Intention can be added to algorithm in two places]]
+Post-hoc and repeated during construction.
+Is this really true or can it be added all over? Almost in monadic form?
+Are the places listed below fundamentally different to post-hoc and 
+*** where can evaluation sit?
+ :LOGBOOK:
+ CLOCK: [2016-10-03 Mon 19:00]--[2016-10-03 Mon 19:34] =>  0:34
+ :END:
+**** as a constant almost monadic thing
+***** what should I do next?
+****** or do we hands off and let the algorithm control us?
+******* like with embodiment?
+
+**** before process?
+***** do we prepare to be creative?
+****** probably not all the time?
+
+**** at end of process - internal
+***** is the process complete?
+****** is this question unavoidable in computing paradigm?
+******* what about in human?
+******** do we always know when we're finished?
+
+****** do we always have to ask this at some point?
+******* what about never ending computer art?
+******** updates a pixel at a time?
+******** each pixel = creative act
+********* is each one evaluated?
+
+**** after process
+***** external evaluators
+****** doing the same stuff?
+******* what happens when your evaluation is creative?
+******** does that fudge it's objectivity?
+
+* Is evaluation dual of (and separate to) creativity or part of it?
+ "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." Scott Adams 
+FACE/IDEA split
+
+** is evaluation external to creativity?
+*** MG systems perform creative acts
+*** evaluators label them as creative
+** or is it a component of creativity?
+*** nothing is creative until it has been evaluated
+
+** Is MG enough to be creative?
+
+
+* Code/Framing + interaction
+Pease & Colton labout idea that interaction is neccesry in order for a system to truly frame its output?
+Imo they don't provide a good rationale for this. Seems to be TT inspired.
+Any how interaction with system at arbitraily deep level is possible with REPL systems (and I guess debuggers, introspection etc)
+
+[[file:cce.org::*Code][Code]]
+
+The code explains why a system did something!
+
+What about evolutionary history? Does that not frame?
+If we can infer history of biology can we infer creative history or an artifact?
+[[file:tangents.org::*Inferring%20the%20evolutionary%20history%20of%20photosynthesis%20:%20C%204%20yourself][Inferring the evolutionary history of photosynthesis : C 4 yourself]]
+
+Yep stuff like neural networks or and other probabilistic system.
+But some of us people things can't frame out output either.
+
+
+* Conflation of Evaluation and Intentionality
+Only definately happening with Ventura. I'm pretty sure it's happening elsewhere.
+Philisophical discussion
+Can make things look intentional
+Not sure they are really
+Do we have intentionality? Agency? How do we know?
+
+What did Ritchie mean by intentionality?
+[[file:~/Dropbox/org/cce.org::*Intentionality%20-%20deal%20with%20/process/][Intentionality - deal with /process/]]
+
+** More autonomy = less fingerprints?
+Maybe autonomy neccesarily has to be encoded at some level.
+Ventura's Inception is valuable idea
+[[file:~/Dropbox/org/cce.org::*more%20autonomy%20-%20less%20fingerprints][more autonomy - less fingerprints]]
+[[file:~/Dropbox/org/cce.org::*How%20does%20leaving%20fingerprints%20impact%20how%20creative%20a%20system%20is%20being?][How does leaving fingerprints impact how creative a system is being?]]
+Do we really want /obfuscation/? Doesn't that conflict with need for framing information?
+
+
+** Intention of system vs intention of programmer?
+
+* Intentionality is reverse of Evaluation?
+
+* Problems with measures
+** Why can't novelty and value be conflated?
+   If we want novel artifacts then non-novel artifacts have no value
+** Human's can follow alogorithms, do our creativity levels decrease when we do?
+** Why isn't classification creative?
+*** Novel
+It's the first time a judgement's been made.
+*** Valuable
+We need to know if spam is spam, a sausage is a sausage
+*** Intentional
+Encoded by developer
+Finger prints are visible
+
+ 
+* What does it mean for a computer to perceive?
+Ventura - [[file:~/Dropbox/org/cce.org::*Addition%20of%20perceptual%20ability][Addition of perceptual ability]]
+Isn't the machine always percieiving?
+Does he simply mean use of higher level features?
+
+#  LocalWords:  saliency

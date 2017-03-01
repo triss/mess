@@ -1,0 +1,115 @@
+* Open Access
+** Old problem 
+*** Printing/distribution was expensive
+*** Journals upped price
+**** Outpaced inflation by long way
+**** Poor countries people/can't afford
+*** Digitisation
+*** Don't know whats relevant until after you've paid for it
+*** Journal affordability problem
+**** "Even if all journals were sold at cost price, almost no university could afford all or even most of them."
+*** research access/impact problem
+**** impact of many articles is lost
+
+** What is it?
+*** Online research
+**** Free of access restrictions/tolls
+**** Free to reuse
+***** Mine articles
+**** Peer reviewed/sometimes not
+
+** Main impediment
+*** Scientists
+**** Slow to adopt
+**** Want nature paper
+
+** Different options
+*** Gold open access
+**** Truly open-access
+**** Can be provided by same people that offer subscription-based journals
+**** Sometimes charge authors - 30% of them
+***** research funder pays
+***** sometimes waived for
+****** financial hardship
+****** less developed countries
+**** Sometime advertising used
+
+*** Green open access
+**** Deposit articles in institution archive
+**** Give green light to self-archiving
+**** Endorse immediate access self-archiving
+**** No charge
+***** Less risk to publisher
+**** Nature prefer it to Gold?
+***** Not sure why?
+cite:Hanard2004
+**** Green is growing fastest
+
+** RCUK looking to encourage
+*** Increases accessibility, sustainability, and excellence
+*** Provide "block grant" to cover Article Processing Charge
+
+** Access policies of organisations
+*** ACM
+**** If author pays
+*** IEEE
+**** Several options
+***** Hybrid journals
+****** Traditional subscription
+****** author pays
+****** journals have established impact factor
+***** Multidisciplinary open access mega journal
+****** All articles author pays
+****** Editorial board being constructed
+***** Fully open access journals
+****** Author pays
+****** Delivered online only
+****** Only cover medicine, photonics and Electron devices currently?
+******* One journal at a time
+****** Specific journals set up for publishing
+*** Elsevier
+**** Gold access
+***** no time delay for embargoes
+***** Self paid
+**** Green access
+***** self-archive
+***** copyleft licence
+
+** Embargo periods
+*** Reasonable?
+**** Whilst there's still need to publish in high impact closed journals
+*** Difference between disciplines
+**** seems different between journals?
+
+** Copyright issues?
+*** Works with standard copyright
+*** Great to see Lesig's copy-left style stuff mentioned
+*** How does copyright work with existing journals?
+*** What about sci-hub?
+
+** Is it a good thing?
+*** It's an attempt to improve things
+*** Should be easier to publish
+*** Governments should perhaps fund peer review
+
+** Is it feasible?
+*** Yes. Loads of stuff published
+*** Open access articles cited 2.5 to 5 times more than non-open access
+cite:Hanard2004
+
+** Questions
+*** How do we publish at both Nature and Open Access?
+**** Is that possible?
+***** Yes
+* Finch report
+** recommended a balanced programme of action to enable more people to read and use the publications arising from research, and to accelerate the progress towards a fully open access environment.
+** UK should move to gold standard publishing
+*** Other channels useful for time being
+** Research councils UK
+*** Cover publishing costs for gold-access
+** Everything submitted as REF should be as open as possible
+* RCUK follow Finch report. Provide funding
+* HEFCE - Higher education funding council
+** Rules about how open papers have to be to be included in REF
+** Green will do?
+

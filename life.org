@@ -1,0 +1,29 @@
+#+STARTUP: hidestars
+#+TAGS: {@home(h) @town(t) @uni(u)}
+
+* STAR Music transfer                                                 :@home:
+* TODO Register with UMC                                              :@home:
+
+http://www.umckent.co.uk/register-with-umc/
+
+* TODO [#B] Book Autechre/LiveCode tickets :@home:
+* STAR [#A] Train card                                                :@home:
+SCHEDULED: <2016-10-12 Wed>
+
+* Contact real people :@home:
+** TODO [#A] Pippa
+** TODO [#B] Frances
+** TODO [#B] Luke
+** TODO [#B] Tak
+* TODO [#B] join gym :@uni:
+* STAR [#A] Bank :@town:
+SCHEDULED: <2016-10-15 Sat 09:30>
+** student account
+Remember document!
+** dongle
+* APPT [#B] Chemist :@town:
+SCHEDULED: <2016-10-15 Sat>
+
+** dental scraper etc?
+** smoking?
+

@@ -1,0 +1,98 @@
+* Spec 
+cite:spec_leverage_screencast
+** More expressive than javas types
+*** non-nil
+*** natural ints
+*** arities, overloads in one places
+*** predicates about semantics args -> return value
+*** extends with Clojure language
+**** for e.g. io relationships
+** Structural
+** Predicative
+** Describe data (and fns)
+
+** Leverage 
+*** Validation
+*** Conformance
+*** Destructuring
+*** Error messages
+*** Composition
+*** Example data generation
+*** Assertion
+*** Documentation
+*** Generative Testing
+*** Instrumentation
+
+
+
+* What RH says
+cite:andrea_2016
+** Language for writing specifications about data
+
+** Why?
+
+*** Dynamic languages(DL) rely on documentation
+
+**** "have a way to communicate about how our programs work that is stronger than English text is the first thing."
+
+**** validation and error reporting in DL
+
+***** "Are these the same problem?"
+
+** Stop specification from happening at the aggregate
+ Maybe part of RH's battle against the aggregate/object 
+ - decomplect - disentangle
+*** Web services etc often aggregate parts in specifications
+*** RH aims to define what things are separate to the thing
+*** By saying I have these parts we get more reuse?
+
+** Stop respecifying
+
+*** Problem with aggregation
+
+**** New name for every combination of keys"
+
+***** Solved by namespaced keys
+
+** "Property definitions have stood on their own.  Now, of course, in RDF, without combining it with RDF schema or something else, the properties are just names.  But, the idea was they could be freely applied to different things.  If there were going to be semantics, they would be associated with the property itself and not in the context of some aggregate."  
+
+** Provides reg-ex's for pulling apart sequences
+
+*** of args etc
+
+*** could be leveraged for clever versioning
+
+**** does this function use more or less keys of a map after this change?
+
+
+** Leverage
+
+*** Automatically construct aggregate specification
+
+*** Data structure validation
+
+*** Error reporting
+
+**** Relationship 
+***** between args
+***** between IO
+
+**** Instrument 
+
+***** Error checking /validation can be expensive
+
+****** turning on and off is great
+
+*** Destructuring
+
+**** conform
+
+*** Provide information about path through data
+
+*** Label branch or choice?
+
+*** 
+** Involves heavy investment
+
+*** Specify data (and fns) at granular level
+

@@ -1,0 +1,72 @@
+
+* Year 1
+** Febuary
+*** Complete ICCC paper
+   
+** March 
+*** RDA - finish
+*** drum synthesis - through re-representation
+**** Experiment
+**** write-up - first full draft
+*** reviewing ICCC papers
+
+
+** April
+*** re-represent - Chapter 2
+**** markov as NN
+**** function as NN, markov
+**** picture
+***** gp
+***** neural network
+**** between one another
+
+*** AISB
+*** Mini-thesis
+*** Literature review
+
+** May
+*** Mini-thesis
+*** Literature review
+*** Finish drum synthesis - 10th June
+
+** June
+*** repository of models - Chapter 3
+**** Specification
+***** Metadata
+**** ICCC paper rejigging
+*** ICCC
+*** Mini-thesis
+*** Literature review
+
+** July
+*** Probation review
+
+
+** August
+
+* Year 2
+** Conferences
+*** AISB?
+**** Computing and Philosophy
+**** Social aspects of computing
+
+*** ICCC?
+
+** Term 1
+
+** Term 2
+
+** Summer
+
+* Year 3
+
+** Writing
+
+* What do i want to do?
+
+** Caricatures
+*** Different types of novelty search
+**** Measuring difference
+**** similarity/dissimilarity
+***** info retrieval
+** Examining Flowr/Concrete flows

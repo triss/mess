@@ -1,0 +1,84 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/tms32/Dropbox/org/concepts.org
+
+
+* Representation wars 
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 12:05
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_OLPATH: Inman Harvey: The origins and self-maintenance of representing/Content
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+** Representation's - don't make sense
+** Representations all good
+*** Inman has problem with /internal/
+
+
+* "Representing is a behaviour level phenomenon"
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 12:06
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_OLPATH: Inman Harvey: The origins and self-maintenance of representing/Content
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+
+
+* Will we ever need an internal representation for concepts similar to human ones?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 13:09
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+
+
+* Hofstadters layered systems, emergence blah blah
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 13:09
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+
+* Surely chess playing machines preferences are "represented"
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 13:12
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_OLPATH: Reading/The Stanford Encyclopedia of Philosophy - Concepts/Questions
+  :ARCHIVE_CATEGORY: concepts
+  :ARCHIVE_ITAGS: colin  concepts
+  :END:
+[[*chess-playing computer thinks that its good to get one's queen out early][chess-playing computer thinks that its good to get one's queen out early]]
+** just not explicitly - is this what's meant by symbols?
+** everything a computer knows how to do is represented in someway
+** convoluted?
+
+* Worryingly I'm quite happy to fold a "sense" down in to something that could be represented internally
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-24 Mon 13:13
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_OLPATH: Reading/The Stanford Encyclopedia of Philosophy - Concepts/Questions
+  :ARCHIVE_CATEGORY: concepts
+  :ARCHIVE_ITAGS: colin  concepts
+  :END:
+What am I not grasping?
+
+
+* the nature of a concept external to a system seems useless?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-26 Wed 21:07
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+I believe they're spread across people manifested across multiple languages at multiple layers in system
+A concept necessarily has to be encoded in to a system
+
+
+* Exploration of concepts is harder than expected
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-26 Wed 21:08
+  :ARCHIVE_FILE: ~/Dropbox/org/concepts.org
+  :ARCHIVE_CATEGORY: concepts
+  :END:
+I can take the particular list of words specified.
+But is it even fair to compare *creativity* and *imitation*

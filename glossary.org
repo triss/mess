@@ -1,0 +1,131 @@
+
+* Definitions
+** Lateral thinking
+Solving problems with an indirect and creative approach.
+Use ideas
+Non-obvious
+not step by step
+** Simplicity
+Art of maximising the amount of work not done.
+
+** Creativity definitions
+*** Newell, Shaw & Simon - Really early definition or something? Find ref.
+1. The answer has novelty and usefulness, for individual or society
+2. The answer demands we reject ideas that we had previously accepted
+3. The answer results from intense motivation and persistence
+4. The answer comes from clarifying a problem that was originally vague
+*** Euan Booth - Asked for Tony Blair's book to be moved to from Non-fiction to True-crime
+Called creative because his solution was:
+- cheap
+- easy
+- fun
+- resourceful
+- non-obvious use of familiar
+- achieves multiple outcomes at once
+*** Alex Osborn - creativity check list for humans
+Osborn presents a strategy for being creative:
+1. Adapt
+   - are there new ways to use this as is
+   - other uses if modified
+2. Modify
+   - new twist
+   - change meaning
+   - change colour
+   - change motion
+   - change sound
+   - change odour
+   - change form
+   - change shape
+   - other changes
+3. Minify
+   - subtract
+   - smaller
+   - condensed
+   - lower
+   - shorter
+   - lighter
+   - omit
+   - streamline
+   - split up
+   - understate
+4. Magnify
+   - what to add
+   - more time
+   - more frequent
+   - stronger
+   - higher
+   - longer
+   - thicker
+   - extra value
+   - new ingredient
+   - duplicate
+   - multiply
+   - exaggerate
+5. Substitute
+   - who else?
+   - what else?
+   - ingredient
+   - material
+   - process
+   - power
+   - place
+   - approach
+   - tone
+6. Rearrange
+   - switch parts
+   - pattern
+   - layout
+   - sequence
+   - swap cause and effect
+   - change pace
+   - change schedule
+7. Reverse
+   - positive and negative
+   - opposites
+   - backward
+   - upside down
+   - roles
+   - turn tables
+8. Combine
+   - blend
+   - alloy
+   - assortment
+   - ensemble
+   - units
+   - purpose
+   - appeals
+   - ideas
+*** Plucker et al.
+‘Creativity is the interaction among /aptitude/, /process/, and /environment/ by which an individual or group produces a /perceptible/ product that is both novel and useful as defined within a social context’
+* From concepts reading
+- homuncular :: of a person or animal
+- mereolgical fallacy :: Objects are made of component parts, If a component goes it's not the same object
+- cartesian myth :: Mind and body are separate - how communication occurs is unknown
+- lexical concept :: word-sized concepts that thoughts are composed of
+- empiricism :: All knowledge is derived from sense-experience
+- nativism :: the theory that concepts, mental capacities, and mental structures are innate rather than acquired by learning. 
+- ontology :: a set of concepts and categories in a subject area or domain that shows their properties and the relations between them
+- linguistic determinism :: the language a person speaks causes them to conceptualise the world in certain ways and places boundaries on there conceptual system
+- linguistic relativity :: the language one speaks influences how thinks
+- statistical learning :: a domain-general mechanism by which cognitive systems discover the underlying distributional properties of the input. 
+- Domain generality :: Something that is not language specific
+* Consciousness
+- phenomenological properties :: subjective first-person descriptions of what conscious experiences are like
+- information :: in maths, reduction of uncertainty
+- neural correlates of consciousness :: the minimal set of neuronal events and mechanisms jointly sufficient for a specific conscious percept
+- boddily self :: the experience of being a body and having a particular body
+- perspectival self :: the experience of perceiving the world from a first-person point of view
+- volitional self :: experiences of intention and agency - urges to do this or that - and of being cause of things to happen
+- narrative self :: experience of being a continuous and distinctive person over time, built from biographical memories
+- social self :: aspect of self experience that is refracted through the perceived minds of others
+- proprioception :: sense that signals the bodies configuration in space
+- interoception :: sensory information about blood pressure, gastric tension, heartbeat etc.
+* Statistics
+- Non-parametric tests :: tests that don't assume your data follow a specific distribution
+- parametric tests :: tests that assume your data follows a specific distribution
+* Perception
+- veridical perception :: perceptions that accurately depict the objective environment.
+* Neural networks 
+- adversarial network :: a competing neural networks, a generator and discriminator, the former tries to generate fake images while the later tries to identify real images. 
+* Game theory
+- Game theory :: the study of mathematical models of conflict and cooperation between intelligent rational decision-makers.

@@ -1,0 +1,178 @@
+* Chirita, 2016 - Free Jazz in the Land of Algebraic Improvisation
+ cite: 
+** Abstract
+Connection between free-jazz and service-orientated computing.
+Formal analysis for improvised performances.
+Better understanding of FJ and SOA
+** Introduction
+- Complex dynamical systems :: More than complex since open to redesign
+- Emergent behaviour dictated by interconnections, competition and cooperation
+- SOA and FJ are "non-mereological" "and thus should be seen as more than the sum of their parts."
+** Conclusions
+Discovery, selection and binding can be used to model FJ performance
+*** Enabled reasoning about:
+**** reliability
+**** what can be reached
+**** predictions about how performance will unfold
+**** on-line repository of music fragments
+
+* Veale, 2014 - A Service-Oriented Architecture for Metaphor Processing 
+cite:veale_service-oriented_2014
+** Metaphor
+*** Cognitive lever
+- allow people "to leverage their knowledge of one domain to describe, re-frame and understand another"
+- "foundational cognitive service"
+*** Serve as input output of language generation and understanding processes
+*** Exploits our sense of similarity
+*** Can direct our sense of similarity
+** Theasaurus Rex
+- provides divergent view of conceptual structure
+- similarity assessment
+- metaphoric reasoning
+- provides
+** Metaphor Magnet
+allows recovery of subject-attribute i.e. stereotype-property pairs mined from web
+** Metaphor eyes
+allows recovery of subject-relation-object tripples from web
+Only accessible via Web Based interface? No WS
+** Stereotrope Poetry Generator
+"Unfortunately, banality is tacitly a pre-condition for the inclusion of almost any generalization in a common-sense knowledge-base."
+*** Master metaphor
+creates coherent poems "driven by a coherent /master metaphor/".
+master metaphor is used to govern choices about further metaphors to use.
+*** packaged in "standard rhetorical forms of poetry".
+*** can pack multiple metaphors in to a single surperlative.
+** Flux Capacitor
+Not yet released. Generates story ideas.
+
+* RPC over SOAP does not equal SOA
+** Interest in SOA + CC apparent
+*** Tony Veale's CC Web services
+*** Parallels drawn between SOA and the way a Jazz performance could be structured.
+
+** Hardcoded services not true SOA?
+User should specify data they need not the service they want to consume.
+Loose coupling
+- Could lead to loose definition describing broader set of behaviours
+Discoverable
+Single points of failure
+** Loose coupling could improve novelty/value of output:
+- What if metaphor magent is down and some WordNet based generator gets used?
+- Gets Weather from different agent
+** No CC WSDL?
+*** Practicality
+**** where is Jigsaw Bard? 30 minutes wasted time.
+**** systems like FloWr looking at coming up with means of describing services
+** Are there other forms of coupling that could occur?
+*** Time based
+Take output of fastest service
+*** Evaluation based
+Call out to all services that could fulfill contract.
+Take outputs assess which best fulfills contract?
+
+
+* Service Orientated Architectures, loose coupling and computational creativity
+
+Service Oriented Architectures (SOA), a style of software design where systems are broken down in to components, described and then communicate only through messages over a standard protocol is an idea that's been buzzing around my periphery for over a decade now. 
+
+I spent my twenties working as a lacky for systems architects which when prompted appropriately might rant excitedly for a while about how SOA was going to end vendor lock-in, allow server and client code to evolve independently, change the way systems were built, software was written and the world basically worked.
+
+And to a certain extent it actually did. 
+
+Systems really are composed of multiple services now, and we have a standardised approach to shifting data between them.
+No longer could IBM, Microsoft or Sun sell you a message queue server just because you'd bought a database from them.
+
+Rather than being a technology for IT practitioners to get excited about today SOA's talked about more as a means to end, a way to make some of the messy bits of making two computer systems talk to one another. 
+It's now practically synonymous with shifting giant XML or JSON documents over HTTP. 
+
+Whilst these technologies are still relatively hip they don't really provides with much more than RPC. 
+Although we aren't shifting arbitrarily packed blobs of binary data anymore the process of unpacking XML/JSON is often only marginally less expensive particularly when a particular service only exposes one end point. 
+(despite many languages having expressive tools for managing XML it still often pays to  to further standardise over these protocols (Temboo) or develop libraries that ease interaction with particular services using idioms or data types specific to a particular environment.)
+It was perhaps more a culture of openness, a willingness to share specifications of services that's allowed the technology to proliferate rather than the development of any particular technology that's afforded us the above benefits.
+Political internet system - API's that can't talk to one another
+
+In recent years the computational creativity community has looked to incorporate aspects of the Service Orientated Architecture(SOA) in to it's tool set.
+In this post I examine what a more complete implementation of the philosophy might afford the field.
+
+** Service reference autonomy or loose coupling
+
+Loose coupling is an divisive topic and there are a great many perspectives on what makes a system loosely coupled.
+
+Sometime implimentational details are considered such as:
+- queuing :: no immediate answer required from service
+- version :: clients aren't tied to one particular version of server
+- cardinality :: some systems worry about the number of message recipients some don't
+- type :: systems can use only appropriate portion of document required
+- location :: look up service, used to query for address of service
+- lookup :: a physical or logical name, or through registry of services that is able to match clients needs
+- interface generality :: further layers of abstraction can be added over existing SOA ones (Temboo?)
+
+It's often not desirable or practical for a system to be loosely coupled.
+In standard computing situations it often makes perfect sense for systems to be tightly coupled.
+Often for example a retailers sales service needs to communicate with an invoice generating system. 
+
+Hardcore SOA proponents once claimed that a client should specify not the name and version of an end point they want but instead the data it should provide.
+
+This information can then be passed to a lookup service.
+
+*** UDDI
+
+**** Standard technology for service lookup
+
+***** very good for by name and version lookup
+
+***** less good for providers by type
+
+
+** Service discovery with a WSDL
+
+*** Redundancy
+Multiple services 
+
+** Service re-usability
+
+Researchers have recently turned there attention to describing CC services. The authors of FloWr have spent time developing a system for describing inputs and outputs of systems and coercing between them.
+
+*** WSDL as in XML blobs
+*** Clojure's Spec
+
+    Type system comparison:
+https://youtu.be/VNTQ-M_uSo8?t=16m30s
+
+*** Still difficult
+**** things need marshalling between environments
+
+** Where are we now
+*** What CC specific services exists
+
+**** Veale's stuff
+Veale produced a number of web services dealing with metaphor and proposes the community follow suit. 
+
+Jigsaw Bard, a tool for generating simile from stereotype, appears to be taken offline.
+
+Had I been able to specify the requirement for such a system rather than hard coding a link to Jigsaw BArd I'd specify that I needed such a system.
+
+Simile's can be found in both WordNet and Thesaurus Rex. 
+Fingerprints harder to detect. Obfuscate, perhaps even Incept cite:Ventura2016
+Introduce novelty when a service that fulfils the same specification is defined.
+
+
+**** FloWr and that other thing
+
+**** My Clojure wrappers
+
+- Clojure libraries for accessing CC web services
+- Wrapping creativity ontology
+- Colour Lovers IFTTT
+
+  
+** WSDL too flexible -> WS-I
+
+Recommended people use restricted specification to describe there services.
+
+WSDL allows and type specification in any language. 
+WS-I enforces interop by mandating the use of XML Schema.
+Clojure's Spec provides another means of talking about the types of things, how they're grouped and the interfaces they can be used with.
+OpenAPI/Swagger
+
+#  LocalWords:  implimentational

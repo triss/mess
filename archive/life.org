@@ -1,0 +1,168 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/life.org
+
+
+* DONE [#A] Mum
+CLOSED: [2016-10-04 Tue 20:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:10
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_OLPATH: Contact real people
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @home
+:END:
+
+* DONE Shaver
+CLOSED: [2016-10-04 Tue 23:10]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:10
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+Sent mail confirming billing address
+
+* DONE Stationers/Internet post its!                                  :@home:
+CLOSED: [2016-10-03 Mon 10:42]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:10
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE [#A] withdrawal
+CLOSED: [2016-10-03 Mon 10:42] SCHEDULED: <2016-10-03 Mon 09:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:11
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_OLPATH: Bank
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @town
+:END:
+
+* DONE [#A] find document                                             :@home:
+CLOSED: [2016-10-03 Mon 10:42] DEADLINE: <2016-10-08 Sat 09:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:11
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_OLPATH: Bank/student account
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @town
+:END:
+now in wallet
+
+* DONE WAIT Chip
+CLOSED: [2016-10-06 Thu 17:24]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 23:23
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE WAIT NUS
+CLOSED: [2016-10-06 Thu 17:23]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 23:23
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+* STAR [#B] Ration things :@home:
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 23:23
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: STAR
+:END:
+
+* DONE WAIT Need NUS?                                                 :@home:
+CLOSED: [2016-10-06 Thu 17:24]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 23:23
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_OLPATH: Train card
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @town
+:END:
+
+* DONE Medway smokers
+CLOSED: [2016-10-07 Fri 23:12]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 23:12
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+* APPT [#A] Card
+SCHEDULED: <2016-10-08 Sat 09:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-09 Sun 18:05
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_OLPATH: Bank
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: APPT
+:ARCHIVE_ITAGS: @town
+:END:
+
+* DONE [#B] Find things                                               :@town:
+CLOSED: [2016-10-09 Sun 18:08] SCHEDULED: <2016-10-08 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-09 Sun 18:08
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+- charity shops
+- Pub
+- Cafe
+- Doctors
+- Dentist
+
+* DONE [#B] Understand finances                                       :@home:
+CLOSED: [2016-10-13 Thu 23:24] SCHEDULED: <2016-10-12 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-13 Thu 23:25
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE [#C] Louis
+  CLOSED: [2016-10-13 Thu 23:25]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 23:25
+  :ARCHIVE_FILE: ~/Dropbox/org/life.org
+  :ARCHIVE_OLPATH: Contact real people
+  :ARCHIVE_CATEGORY: life
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: @home
+  :END:
+
+* Ket talk
+:PROPERTIES:
+:LOCATION: DLT2, Canterbury
+:ARCHIVE_TIME: 2016-10-13 Thu 23:27
+:ARCHIVE_FILE: ~/Dropbox/org/life.org
+:ARCHIVE_CATEGORY: life
+:END:
+<2016-10-11 Tue 19:00-20:00>
+
+
+* STAR Klee                                                           :@home:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 23:27
+  :ARCHIVE_FILE: ~/Dropbox/org/life.org
+  :ARCHIVE_CATEGORY: life
+  :ARCHIVE_TODO: STAR
+  :END:

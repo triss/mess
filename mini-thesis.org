@@ -1,0 +1,6 @@
+* Mini-thesis
+** Chapter headings
+** Link in to plan
+*** Termly 
+*** Taskly for recent times
+* Literature review draft chapter

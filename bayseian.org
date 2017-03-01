@@ -1,0 +1,18 @@
+* Reading
+** Bayesian probability
+*** Probabilities represent sates of knowledge or belief
+*** Bayesian interpretation of probability
+**** extension of propositional logic
+**** hypothesis are assigned probability
+*** Provides formula that
+**** takes specified prior probability
+**** which is then updated to posterior
+***** in light of new evidence
+*** Methodology
+**** use of random variables to model uncertainty
+**** requires /prior probability distribution/ taking in to account the available information
+**** sequential use of Bayes' formula
+***** when more data available
+***** calculate posterior distribution -> becomes next prior
+***** probability assigned to hypothesis is 0-1
+* Crazy Youtube man

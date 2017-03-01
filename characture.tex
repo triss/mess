@@ -1,0 +1,67 @@
+% Created 2017-02-13 Mon 15:56
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Tristan Strange}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Tristan Strange},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.1.1 (Org mode 9.0.3)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{Caricature}
+\label{sec:org10e9e78}
+\subsection{Algorithm}
+\label{sec:orgb7b1c35}
+
+\begin{verbatim}
+# FeaturesOfMedium is set of functions that report features of input
+FeaturesOfMedium[] <- getFeaturesOfMedium
+
+# Set of inspiring examples - provides sense of normality
+InspiringSet[] <- getInspiringSet
+
+# the example we are actually going to caricature
+SourceExample <- getSourceExample
+
+# Get all features for inspiring set
+for f in FeaturesOfMedium:
+  for i in InspiringSet:
+      Features[f][i] <- f(i)
+
+  # average them and check distance from our source example's features
+  FeatureDiffs[f] <- f(SourceExample) - Mean(Features[f])
+
+# Get list of n most unusual features 
+MostUnusualFeatures <- take(N, sort(FeatureDiffs))
+
+# Construct fitness function that uses n most important features
+# - Either disregard less different ones
+# - or weight most unusual features more important
+
+# Use the fitness function with some mere generation/search
+Artifacts[] <- []
+do some search that increases Fitness(Artifact)
+    Artifact = MereGeneration(SourceExample, Artifacts)
+    add Artifact to Artifacts
+\end{verbatim}
+\end{document}

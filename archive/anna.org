@@ -1,0 +1,119 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/anna.org
+
+
+* STAR [#B] Blog
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:03
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:ARCHIVE_TODO: STAR
+:END:
+** DONE hoose blog tool
+LOSED:016-09-21 Wed 15:12]
+tatic  org-mode support and is clojure - but not well documented
+ekyll good enough with HTML export from org-mode
+ttp://mode.org/worg/org-tutorials/org-jekyll.html
+ttp://yllrb.com/
+edium d enough - despite no embedded audio etc.
+** STAD Hello world
+
+* DONE [#A] Research proposal form
+CLOSED: [2016-10-03 Mon 19:40]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 23:15
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:ARCHIVE_TODO: DONE
+:END:
+DEADLINE:<2016-10-04 Tue>
+** Thisn't research proposal it's an ethics thingmy!
+xistintuff I did way too vague.
+
+* WAIT Order PC
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 06:58
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:ARCHIVE_TODO: WAIT
+:END:
+Requested a MacBook Pro
+
+* WAIT Student support
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 06:58
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:ARCHIVE_TODO: WAIT
+:END:
+chase v medwaystudentservices@kent.ac.uk or go to Gillingham building
+sent madetailing free time to Theresa Hendrick
+
+* WAIT Meet Colin
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 22:11
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:ARCHIVE_TODO: WAIT
+:END:
+ent mail to Colin
+
+* Started clocking in and out
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 22:12
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:END:
+:LOGBOOK:
+CLOCK: [2016-09-30 Fri 22:05]--[2016-09-30 Fri 22:05] =>  0:00
+:END:
+
+* Does this work?
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 12:20
+:ARCHIVE_FILE: ~/Dropbox/org/anna.org
+:ARCHIVE_CATEGORY: anna
+:END:
+  <2016-10-06 Thu>
+
+* The Brilliant Club intro clashes with Writing workshop?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:38
+  :ARCHIVE_FILE: ~/Dropbox/org/anna.org
+  :ARCHIVE_CATEGORY: anna
+  :END:
+Which is a better use of time?
+
+* Data analysis MOOC required to get most from presentations
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-07 Mon 08:43
+  :ARCHIVE_FILE: ~/Dropbox/org/anna.org
+  :ARCHIVE_CATEGORY: anna
+  :END:
+** having Single Value Decomposition would at least improve COMPINT
+
+* Literature review tools
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-07 Mon 08:43
+  :ARCHIVE_FILE: ~/Dropbox/org/anna.org
+  :ARCHIVE_CATEGORY: anna
+  :END:
+** STACA
+** Scopus - ignore conferences
+*** Narrow searches
+** Web of knowledge
+
+* Workshops/Books funding etc.
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-07 Mon 08:43
+  :ARCHIVE_FILE: ~/Dropbox/org/anna.org
+  :ARCHIVE_CATEGORY: anna
+  :END:
+** How to write an essay MOOC starts - October 12th
+** Clojure Data Analysis Cookbook
+https://www.amazon.com/gp/product/178216264X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=178216264X&linkCode=as2&tag=statisprograw-20
+** workshops.thi.ng
+** NCRM - Analysising social data - dropped in to mail box
+** NIPS - Constructive Machine Learning - flow-machines people - Barcelona though

@@ -1,0 +1,61 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/compint.org
+
+
+* STAR [#A] Meeting Nick Jones
+DEADLINE: <2016-10-04 Tue> SCHEDULED: <2016-10-04 Tue 15:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 11:27
+:ARCHIVE_FILE: ~/Dropbox/org/compint.org
+:ARCHIVE_OLPATH: Nick Jones, 2016 - Are we thinking about things the right way?
+:ARCHIVE_CATEGORY: compint
+:ARCHIVE_TODO: STAR
+:END:
+:LOGBOOK:
+CLOCK: [2016-10-04 Tue 13:21]--[2016-10-04 Tue 13:33] =>  0:12
+CLOCK: [2016-10-04 Tue 08:28]--[2016-10-04 Tue 08:45] =>  0:17
+:END:
+** Interesting because he handled so much data
+** creative potential of such data
+** interest in mapping different representations of data
+*** visualisation
+*** sonification
+*** poetry
+** AI
+*** if systems could only get big enough
+
+**** deep dream and other big things?
+
+** What's he done?
+
+*** Papers hard to see what's worth reading?
+
+**** what's his most recent?
+
+*** Check blog first?
+
+* Email
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 11:27
+:ARCHIVE_FILE: ~/Dropbox/org/compint.org
+:ARCHIVE_OLPATH: Nick Jones, 2016 - Are we thinking about things the right way?
+:ARCHIVE_CATEGORY: compint
+:END:
+
+Hi Marek,
+
+I'd love to meet Nick if possible. I'm a new PhD student looking at the role of evaluation in creative systems. I'm particularly interested in how potentially useful methods are found when observing data.
+
+** How are new suitable methods for analysing a given data set selected?
+
+*** what analysis is done to ensure methods is being usefully applied?
+
+*** how is this measured?
+
+** Could same be done for visualisation and other representations i.e. sonification, poetry?
+
+** It's often said that GOFAI techniques might have worked if they could only get big enough
+
+*** Perhaps theres some indication that this is true?

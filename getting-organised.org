@@ -1,0 +1,126 @@
+#+STARTUP: hidestars
+
+* Getting organised
+** Induction
+*** Literature review
+**** Find a hole!
+**** Re-organise -> make knowledge
+** Fincher, 2016 - Keeping an Annotated Bibliography
+:LOGBOOK:
+CLOCK: [2016-10-04 Tue 16:00]--[2016-10-04 Tue 16:27] =>  0:27
+:END:
+
+*** Summary
+Tips for keeping a bibliography.
+Could almost be used as requirements for orgmode setup
+Need to think about classification, logging.
+
+*** Content
+**** The core literature reportoire
+***** Core repertoire of 100-150 works
+***** Characterises
+****** major strands of thinking in the field
+****** major researchers
+****** research models and examples
+***** Personal tool
+****** based on way you think
+****** how you classify
+
+**** What should be included
+***** Core bibliographic info
+****** Zotero for me
+***** Date read
+****** Handled by orgmode logbook?
+***** Notes
+****** Interesting
+****** Seminal
+****** Infuriating
+***** Try to keep original after edits?
+***** Might also include
+****** Where is physical copy?
+****** keywords, categories
+****** references to follow up
+****** how work was found (who recommended/cited?)
+****** related works
+****** abstract
+**** Other ways it can help
+***** Backtracking
+****** reflect evolution of reading
+******* i.e. what I found important over time
+****** find a reference but don't remember paper content you can look it up
+***** Manage reading
+****** flat, unambiguous filing
+****** Need to be able to:
+******* categorise
+******* re-categorise
+******* search
+****** avoid rereading
+** Persig, 1991 - An inquiry into morals
+:LOGBOOK:
+CLOCK: [2016-10-04 Tue 18:06]--[2016-10-04 Tue 18:16] =>  0:10
+CLOCK: [2016-10-04 Tue 16:27]--[2016-10-04 Tue 17:00] =>  0:33
+:END:
+*** Summary
+**** flowery words about how to organise big things
+***** keep head empty
+***** slips will merge into topics
+***** some administration sections useful
+**** Useful categories:
+***** UNASSIMILATED
+****** Not yet filed
+****** orgmode capture?
+***** PROGRAM
+****** Instructions for organisation set up
+****** rigidity is deadly
+****** what should be moved?
+****** which categories to create?
+***** CRIT
+****** for bad days
+****** describing reasons why I want to destroy everything.
+******* what I want to destroy
+******* why I want to destroy
+***** JUNK
+****** for stuff that would otherwise be thrown away
+****** perhaps encourages "throwing away"?
+***** TOUGH
+****** for stuff tangentially related
+** Effective Reading
+*** Literature review 
+**** Out of date?
+**** Peripheral?
+**** Core?
+**** Split?
+***** Topic literature review
+****** Knowledge gaps
+****** Definition problems
+****** Theoretical problems
+***** Methodological literature review
+****** Method problems
+****** Empirical gaps
+****** Political issues
+*** Evaluating sources
+**** Seminal?
+**** Fits with work?
+**** Impact factor?
+**** Author?
+*** Purposeful reading
+**** Why am I reading?
+**** What to gain
+***** New thing?
+***** Depth?
+***** Evidence?
+***** Overview?
+**** How much time?
+*** Types of reading?
+**** Skim
+**** Scan - look for a word
+**** Detailed
+**** Active reading
+***** Aim is to internalise concepts
+**** Critical
+*** When answering questions
+**** Ask where in the document is the answer?
+*** Shortcuts
+**** Abstract
+**** Book review
+**** Synopsis

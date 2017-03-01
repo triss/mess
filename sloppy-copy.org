@@ -1,0 +1,76 @@
+#+STARTUP: indent
+
+* Introduction
+
+** Imitation
+
+*** Definition?
+
+*** Anti imitation sentiment
+"Imitation is the fundamental doctrine of artistic creativity according to which the creative process should be based on the close imitation of the masterpieces of the preceding authors. This concept was first forumated by Dionysius of Halicarnassus in the first century BCE as imitatio," cite:wiki:imitation_art 
+
+Despite many modernist and postmodern practitioners attempts to make processes like copying, plagiarism, and appropriation central to their artistic work the creativity in such actions still seems to be habitually be judged in someway lesser than more authentic acts. 
+When deployed as an adjective its synonymous with fake, false, faux, simulated.
+
+*** Concepts
+
+** CC community 
+
+*** where we're at?
+A lot of pastiche happening
+Why isn't pastiche creative?
+Linear interpolation across styles - Magenta
+
+
+I think I have problems with transformative creativity
+All creativity is exploratory
+All exploratory creativity is slightly transformative
+
+
+*** have we actually arrived?
+**** how do we find out?
+***** Ventura, FACE/IDEA, SPECS, Boden etc
+
+*** imitation - what's being said?
+
+**** antipodalality
+
+Pease & Colton cite:pease_impact_2011-1 note that imitation is antipodal to many concepts thought to be synonymous with creativity.
+
+**** not so far across the Ventura map
+
+***** several of the algorithms outlined in Ventura's descriptions of computationally creative systems map deal with imitation almost directly.
+
+****** Plagarisation
+Where an inspiring set of quality artefacts are used and selected between?
+
+Can't produce novelty. All ways produces valuable results.
+
+******* Has no autonomy? hence lacks intention.
+
+
+****** Memorisation
+
+******* notes that memorisation errors can be introduced
+
+****** Generalisation
+
+
+***** Intentionality?
+
+** A look at the structure of the concepts
+
+* Conclusions?
+  
+** sloppy copy
+
+*** drives a lot of what we do
+
+**** where it is
+
+***** left over remnants of experience
+
+
+* Factor analysis
+
+* James - explaianbility

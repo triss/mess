@@ -1,0 +1,37 @@
+* Caricature
+** Algorithm
+
+#+BEGIN_EXAMPLE
+  # FeaturesOfMedium is set of functions that report features of input
+  FeaturesOfMedium[] <- getFeaturesOfMedium
+
+  # Set of inspiring examples - provides sense of normality
+  InspiringSet[] <- getInspiringSet
+
+  # the example we are actually going to caricature
+  SourceExample <- getSourceExample
+
+  # Get all features for inspiring set
+  for f in FeaturesOfMedium
+   for i in InspiringSet
+       Features[f][i] <- f(i)
+
+   # average them and check distance from our source example's features
+   FeatureDiffs[f] <- f(SourceExample) - Mean(Features[f])
+
+  # Get list of n most unusual features 
+  MostUnusualFeatures[] <- take(N, sort(abs(FeatureDiffs)))
+
+  # Construct fitness function that focuses on MostUnusualFeatures
+  # - weight most unusual features as more important
+  # - Needs to take in to consideration that someones nose may be either too small or too big
+  #   and encourage development to make smaller or bigger respectively
+  Fitness() <- returns weighted sum of features
+
+  # Use the fitness function with some mere generation/search
+  Artefacts[] <- []
+  do some search that increases Fitness(Artefact)
+     Artefact <- MereGeneration(SourceExample, Artefacts)
+     add Artefact to Artefacts
+#+END_EXAMPLE
+

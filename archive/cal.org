@@ -1,0 +1,58 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/cal.org
+
+
+* co0320 - Thurs Morning                                                :lab:
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 13:06
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-10-13 Thu 09:00-11:00 +1w>
+
+* co0320 - Thurs Afternoon                                              :lab:
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 13:06
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-10-13 Thu 14:00-16:00 +1w>
+
+* Nithya drops off marking sheet
+:PROPERTIES:
+:LOCATION: desk
+:ARCHIVE_TIME: 2016-10-07 Fri 14:55
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-10-10 Mon 01:15-01:30>
+
+* Neural Information technique at NPU
+:PROPERTIES:
+:LOCATION: KBSX3
+:ARCHIVE_TIME: 2016-10-12 Wed 16:25
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-10-10 Mon 11:30-12:30>
+file:///C:/Users/Tristan/Downloads/Seminar-10_10_2016_Prof%20Songyun%20Xie.pdf
+
+* Research Training                                                :workshop:
+:PROPERTIES:
+:LOCATION: S132
+:ARCHIVE_TIME: 2016-10-12 Wed 16:25
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-11-14 Mon 11:00>
+
+* Kickstart PhD                                                    :workshop:
+:PROPERTIES:
+:LOCATION: Graduate School Training room, Cornwallis 3
+:ARCHIVE_TIME: 2016-10-12 Wed 16:25
+:ARCHIVE_FILE: ~/Dropbox/org/cal.org
+:ARCHIVE_CATEGORY: cal
+:END:
+<2016-10-12 Wed 12:30-15:30>

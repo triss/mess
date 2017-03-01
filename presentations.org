@@ -1,0 +1,162 @@
+#+STARTUP: hidestars
+
+* COMPINT
+** Farhana Liza, 2016 - A Spectral Method that Worked Well in the SPiCe'16 Competition
+:LOGBOOK:
+CLOCK: [2016-10-03 Mon 10:24]--[2016-10-03 Mon 10:40] =>  0:16
+CLOCK: [2016-10-03 Mon 10:15]--[2016-10-03 Mon 10:24] =>  0:09
+:END:
+cite:lahasan_recognizing_2016
+
+*** Sequence Prediction challenge - SPiCe 2016
+**** Players guess next element in a sequence
+***** Sequence could be
+****** NLP
+****** Biology
+****** Signal Processing
+****** Software Verification
+****** Synthetic data
+
+*** Compares spectral learning and count based method for guessing next element in a sequence
+**** Spectral learning
+***** theoretical guarantees of consistency
+***** require little parameter tuning
+****** main parameter is number of hidden states /n/.
+***** Roots - there is a duality between:
+****** Weighted Finite Automata - WFA
+******* Describes fn from sequence to real number
+****** Hankel Matrix - H_f
+***** Lots of details about parameter tuning
+**** n-gram model with tuning
+***** used as base comparison
+
+*** Conclusions
+**** Spectral algorithm
+***** works well when problems have small number of hidden states
+***** increasing size of basis vector can make the algorithm intractable
+**** n-gram
+***** works better when a large number of hidden states present
+
+** Nick Jones, 2016 - Are we thinking about things the right way?
+:LOGBOOK:
+CLOCK: [2016-10-10 Mon 15:23]--[2016-10-10 Mon 15:27] =>  0:04
+CLOCK: [2016-10-10 Mon 12:45]--[2016-10-10 Mon 15:00] =>  2:15
+:END:
+*** Abstract
+**** Library of observation and method
+**** 7000 methods over 30000 datasets
+**** comparative approach to analysing data
+**** formalise
+***** new method
+***** new observation
+**** data analysis tool
+
+*** Presentation notes
+**** Different domains apply there own measures
+**** Could be fashion driven
+**** DA methods rarely compared
+**** Do some methods actually generate the same values?
+**** Of 9000 methods, about 500 truly distinct
+
+*** About paper
+**** Fulcher, Little & Jones, 2013 - Highly comparative time-series analysis: the empirical structure of time series and their methods
+***** Summary
+***** Content
+****** Abstract
+Collecting and organising sets of observations
+Organise time-series data and methods for analysis
+35,000 data sets
+9000 time series algorithms
+Reduced representations of data are produced
+Automatically characterise time series data
+Retrieve alternatives to similar analysis methods
+Automate the selection of time series data analysis methods
+****** Introduction
+Are analysis methods from domains domain specific
+Methods charterised by time series they operate well on
+Time series charterised by methods they work well with
+****** Conclusions
+*** Questions
+
+** Probabilistic programming                                        :compint:
+   :LOGBOOK:
+   CLOCK: [2016-10-17 Mon 11:10]--[2016-10-17 Mon 13:00] =>  1:50
+   :END:
+
+cite:Angelopoulos201752
+*** Abstract
+ Computational biology is one of the current challenge areas in data science. With large datasets, and a complex set of dependencies it is a prime target for data mining and knowledge representation and reasoning. 
+ Most approaches arrive to this from a traditional bioinformatics viewpoint and technology based on imperative programming. I will discuss how recent advances in logic programming can help in data analytics for biological datasets by weighing in the knowledge representation heritage of the paradigm. 
+ I will be presenting:
+ (a) a Bayesian machine learning algorithm based on probabilistic logic programming, 
+ (b) recent logic programming components that are particularly suitable for biological data analysis and 
+ (c) examples of how these tools have been applied to biological datasets.
+
+*** Paper - Distributional logic programming for Bayesian knowledge representation
+**** Summary
+ Combine logic programming and non-determinism.
+ Represent prior knowledge for Bayesian inference.
+ Mixing logical and probabilistic constituents into a generative language.
+ "Presents expressive language that extends logic clauses with probabilities"
+
+**** Content
+***** Introduction
+****** Bayesianism is good framework for reasoning with statistical knowledge.
+******* Computation can be lengthy - approximation often used.
+******* Relies on formalism of data in domain
+ bioinformatics has this
+ and more and more domains are becoming suitable
+****** Logic programming (LP)
+******* Good for representing "crisp knowledge"
+****** New language
+******* Extends logic clauses with probabilities
+
+***** Preliminaries
+
+****** Nice description of LP
+ Goals specified
+ Matching of free variable values is done via unification
+ When goal matches provide substitution
+ Computation terminates when current goal is empty or no matching clause is found
+ There is a /backtracking step/ - system goes back and explores unexplored parts of space, returning to matching steps and looking for alternative clauses.
+
+****** Probability theory and logic programming
+ LP implements a complete search of a non-deterministic space
+** Breakthrough of familiar faces, on the fringe of awareness, in EEG identity deception detection
+*** People
+Omid Hajilou (1), (2) and Howard Bowman (1), (2), (3)
+
+(1) Centre for Cognitive Neuroscience & Cognitive Systems, University of Kent, Canterbury, CT2 7NF;
+(2) School of Computing, University of Kent, Canterbury, CT2 7NF;
+(3) School of Psychology, University of Birmingham, Edgbaston, Birmingham B15 2TT
+
+*** Summary
+**** Through Rapid Serial Visual Presentation (RSVP), 
+***** we can present a large volume of visual stimuli, on the fringe of awareness. 
+**** The vast majority of stimuli do not get encoded into working memory 
+**** the salient ones breakthrough into awareness, enter working memory and can be reported (1). 
+**** The inclusion of familiar (salient) stimuli amongst unfamiliar stimuli leads to the generation of a P300 component (2). 
+**** Fringe-P3 identity detector
+***** Presenting stimuli on the fringe of awareness provides an accurate and countermeasure-resistant identity deception detector
+
+ The aim of our experiment was to investigate the recognition of familiar faces in RSVP streams, even when there is no explicit task associated with them (i.e. participants were unaware of the presence of familiar faces). In addition to famous faces (e.g. well known celebrity or politician), we have repeated this experiment with familiar faces (e.g. participant's lecturer or supervisor). The goal of the analysis was to compare EEG responses between familiar faces and unfamiliar (i.e. unknown) faces. Using randomisation (Monte Carlo Permutation) tests, we were able to infer a p-value for each participant.
+
+ Our experimental findings show that famous/familiar faces, presented in RSVP streams, break into conscious awareness, and such breakthrough can be detected with electroencephalography (EEG), on a per-individual basis. These findings suggest the potential of the proposed method in forensic applications (e.g. knowledge of compatriots), and further, the Fringe-P3 method can be applied across a variety of face-related forensics settings (e.g. face composite systems/line-ups).
+
+
+
+ (1) Bowman, H., Filetti, M., Janssen, D., Su, L., Alsufyani, A., & Wyble, B. (2013). Subliminal Salience Search Illustrated: EEG Identity and Deception Detection on the Fringe of Awareness. PLoS ONE, 8(1), e54258.;
+
+ (2) Abdulmajeed Alsufyani, Alexia Zoumpoulaki, Omid Hajilou, Marco Filetti, Howard Bowman (2014). Detecting salience on the fringe of awareness using the P300. Journal ISSN : 0167-8760. International Journal of Psychophysiology, 10.1016/j.ijpsycho.2014.08.866.;
+
+ (3) Bowman, H., Filetti, M., Alsufyani, A., Janssen, D., & Su, L. (2014). Countering countermeasures: detecting identity lies by detecting conscious breakthrough. PloS One, 9(3), e90595.
+* EDX
+** Neural Information Technique at Northwestern Polytechnic University (NPU)
+*** Brain Computer Interface (BCI)
+**** Good enough to control robots/plains
+**** Still poor
+***** Selective attention analysis improves
+****** USes FMRi + EEG
+*** Human data rate
+**** max for system 30 instructions per minute
+**** bandwidth is increasing - more expressive instructions

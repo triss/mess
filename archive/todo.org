@@ -1,0 +1,1639 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/todo.org
+
+
+* Techniques used in CC
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 06:59
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_CATEGORY: todo
+:END:
+** Blending
+** Analogy making
+** Global workspace architectures
+** Evaluation
+*** search
+*** creative trajectories
+*** group influence
+*** creative personae
+*** meta-creation
+
+* Techniques used in CC
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 07:01
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_CATEGORY: todo
+:END:
+** Blending
+** Analogy making
+** Global workspace architectures
+** Evaluation
+*** search
+*** creative trajectories
+*** group influence
+*** creative personae
+*** meta-creation
+
+* DONE Unix
+CLOSED: [2016-09-21 Wed 13:03]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 07:04
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Short term
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+Sent email to cs-syshelp@kent.ac.uk
+
+* DONE Check I can sign on to Lab machine
+CLOSED: [2016-09-21 Wed 14:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 07:04
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Short term
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE How to write a literature review
+CLOSED: [2016-10-05 Wed 07:17]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 07:17
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Short term
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+Workshop clashes with PhD start
+Have a proper look on Bloom
+
+* STAR CC reading
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 07:18
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: STAR
+:END:
+** TODO CO659
+*** TODO Moodle for CC
+**** DONE Background
+CLOSED: [2016-08-16 Tue 14:59]
+*** TODO Kent preliminary reading
+[[zotero://select/items/0_KBX8ERC7][“CO659 - Reading List.” Accessed August 15, 2016. https://www.kent.ac.uk/courses/modules/module/CO659#!preliminary_reading.]]
+
+** TODO Comparing aesthetic measures for evolutionary art
+[[zotero://select/items/0_IGAUQCZI][den Heijer, Eelco, and A. E. Eiben. “Comparing Aesthetic Measures for Evolutionary Art.” In European Conference on the Applications of Evolutionary Computation, 311–320. Springer, 2010. http://link.springer.com/10.1007/978-3-642-12242-2_32.]]
+
+* STAR [#C] Embracing SOA mail                                         :anna:
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 09:22
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: STAR
+:END:
+
+* DONE [#A] Research proposal form                                     :anna:
+CLOSED: [2016-10-03 Mon 19:40]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 09:24
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+DEADLINE:<2016-10-04 Tue>
+
+* STAR [#A] Have a think about TOUGH, CRIT and UNASSIMALATED
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 14:11
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks/Getting organised
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: STAR
+:END:
+  [[file:~/Dropbox/org/computer-setup.org::*organisation%20setup][organisation setup]]
+
+* DONE [#A] Have a think about TOUGH, CRIT and UNASSIMALATED
+CLOSED: [2016-10-05 Wed 14:11]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-05 Wed 14:11
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks/Getting organised
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+  [[file:~/Dropbox/org/computer-setup.org::*organisation%20setup][organisation setup]]
+
+* DONE Cancel Presentation workshop
+CLOSED: [2016-10-06 Thu 11:53] SCHEDULED: <2016-10-06 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-06 Thu 11:53
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE [#A] Fix calendar
+CLOSED: [2016-10-07 Fri 08:57] SCHEDULED: <2016-10-07 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 08:57
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Confirm research groups I'm in                                  :anna:
+CLOSED: [2016-10-07 Fri 10:07]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 10:07
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+Waiting on Anna
+Mail Mark Wheadon
+
+* DONE [#B] Skim slides from Sonnary
+CLOSED: [2016-10-07 Fri 11:19] SCHEDULED: <2016-10-06 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 11:19
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks/Getting organised
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-10-07 Fri 11:13]--[2016-10-07 Fri 11:19] =>  0:06
+:END:
+
+  [[file:~/Dropbox/org/getting-organised.org::*Getting%20organised][Getting organised]]
+
+* DONE [#A] Ventura - Mere generation
+CLOSED: [2016-10-07 Fri 10:27] SCHEDULED: <2016-10-06 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 11:20
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks/imitation <> creativity?
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: anna
+:END:
+
+* DONE [#A] Yang - Am I doing Monday or Thursday?
+CLOSED: [2016-10-07 Fri 13:23] DEADLINE: <2016-10-07 Fri> SCHEDULED: <2016-10-07 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 13:23
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+[[file:~/Dropbox/org/co320.org]]
+
+* DONE [#A] Book bus for Monday
+CLOSED: [2016-10-07 Fri 16:51] DEADLINE: <2016-10-07 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 16:51
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+[[file:~/Dropbox/org/cal.org::*Neural%20Information%20technique%20at%20NPU][Neural Information technique at NPU]]
+
+* co0320
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-10 Mon 16:44
+:ARCHIVE_FILE: ~/Dropbox/org/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:END:
+** DONE [#A] Read Yang's stuff
+CLOSED: [2016-10-10 Mon 16:40] SCHEDULED: <2016-10-10 Mon 09:00-10:00> DEADLINE: <2016-10-10 Mon>
+:LOGBOOK:
+CLOCK: [2016-10-07 Fri 14:43]--[2016-10-07 Fri 14:54] =>  0:11
+:END:
+** DONE Get Assessment form
+CLOSED: [2016-10-10 Mon 16:40] DEADLINE: <2016-10-10 Mon 17:00> SCHEDULED: <2016-10-10 Mon 16:00>
+Sent Yang mail
+
+* STAR [#C] Kent VPN for drive mapping etc.                           :@home:
+  SCHEDULED: <2016-10-12 Wed>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 11:29
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: STAR
+  :END:
+ [[file:~/Dropbox/org/computer-setup.org::*PC][PC]]
+
+* DONE FAIRS booking                                                   :anna:
+  CLOSED: [2016-10-12 Wed 11:29]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 11:29
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Angie Allen buying ticket
+Travel system booking now complete - check progress on helpdesk site - see email
+
+* DONE Regular Colin meeting
+  CLOSED: [2016-10-12 Wed 23:24]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 23:24
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Email in emacs
+  CLOSED: [2016-10-12 Wed 23:29]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 23:29
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Getting organised
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+How to handle sent mails.
+Inbox
+
+* Cynical motivations for creativity
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 00:38
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Thoughts
+  :ARCHIVE_CATEGORY: todo
+  :END:
+** Make self appear to be creative
+Is even human creativity just a deception?
+
+** Anxiety regarding performing action
+"Performance anxiety"
+Procrastination
+Safety consciousness
+
+* Write Veale inspired Lewis Carol's Doublets solver
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 00:38
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Thoughts
+  :ARCHIVE_CATEGORY: todo
+  :END:
+Shortest or most interesting
+Path between start and finish is creative output
+Suffers from wild goose chase.
+** Norvig spelling corrector
+Edit distance etc?
+https://en.wikibooks.org/wiki/Clojure_Programming/Examples/Norvig_Spelling_Corrector
+http://norvig.com/spell-correct.html
+** Metaphor magnet?
+
+* DONE Check Research Groups for interesting presentations
+  CLOSED: [2016-10-13 Thu 09:31]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:31
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+  Added recurring thing for mondays.
+
+* DONE [#A] Check Kickstart notes
+  CLOSED: [2016-10-13 Thu 11:45]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 11:45
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Sort through CCE questions
+  CLOSED: [2016-10-13 Thu 23:32]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 23:32
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/imitation <> creativity?
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: anna
+  :END:
+
+* DONE [#B] Fix agenda files on startup
+  CLOSED: [2016-10-14 Fri 10:24]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-14 Fri 10:24
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+ word l
+Post-init elisp magic?
+
+* DONE [#A] Fix spolling chooker
+  CLOSED: [2016-10-14 Fri 12:15]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-14 Fri 12:15
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Install on OSX needs `with-lang-en` flag
+
+* TODO [[mu4e:msgid:f09d60c7b2b946cb9f5839d5fb2f15f2@ex13-live-mbn1.ad.kent.ac.uk][FW: Canterbury Festival - reduced price tickets]]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 07:57
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE [#B] Is Medeley cool?
+  CLOSED: [2016-10-17 Mon 09:28]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 09:28
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE I don't go to school meetings do i?
+  CLOSED: [2016-10-17 Mon 09:29]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 09:29
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+Don't mind - teaching info etc?
+
+ [[mu4e:msgid:66cfe23ba790446fa7cec78a9f96f091@ex13-live-mbn1.ad.kent.ac.uk][School Meeting - 18th October]]
+
+* Code never lies. Comments sometimes do. - Ron Somebody
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:04
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :END:
+
+* DONE [#A] Ventura places to FACE mapping                     :anna:reading:
+  CLOSED: [2016-10-17 Mon 10:11]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:11
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+[[file:~/Dropbox/org/anna.org::*MG%20systems%20perform%20creative%20acts][MG systems perform creative acts]]
+
+* DONE Set up caps lock -> esc                                        :setup:
+  CLOSED: [2016-10-17 Mon 10:29]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:30
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Set up with seil UI.
+
+* TODO [#A] Refile Anna conversation stuff
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:38
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+Tangents
+What I wrote
+TODOs
+File papers.
+
+* DONE [#A] Refile Anna conversation stuff
+  CLOSED: [2016-10-17 Mon 10:38]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:38
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Tangents
+What I wrote
+TODOs
+File papers.
+
+* TODO [#B] Ian - books
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:40
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Library
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+Check what I'm after just Clojure for data science?
+
+
+* TODO Printing is on the wonk - how to do booklet?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 13:54
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* TODO [#B] concepts                                          :reading:colin:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 16:10
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Library
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+   Summary of theories of concepts:
+
+    http://plato.stanford.edu/entries/concepts/
+
+Standard - and very interesting - reference:
+
+   Murphy, G. (2002). The Big Book of Concepts, Cambridge, MA: MIT Press.
+
+ [[mu4e:msgid:2b9bf165-12b3-ff31-fade-0172977af2f3@kent.ac.uk][concepts]]
+
+* WAIT [#B] "How to get a PhD" book
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 16:10
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Library
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: WAIT
+  :END:
+
+ [[file:~/Dropbox/org/gett ing-organised.org::*Getting%20organised][Getting organised]]
+
+* Library
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 16:10
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :END:
+
+* TODO [#C] Jones, 2016 - Are we thinking about things the right way? :reading:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 16:15
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+What happens when we apply visualisation?
+
+[[file:~/Dropbox/org/presentations.org::*Nick%20Jones,%202016%20-%20Are%20we%20thinking%20about%20things%20the%20right%20way?][Nick Jones, 2016 - Are we thinking about things the right way?]]
+
+* DONE CO0320 - Attendance sheet for Janine
+  CLOSED: [2016-10-17 Mon 16:42]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 16:42
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Mailed Yang - [[mu4e:msgid:20161011113235.E8AED2401D2@southwick.kent.ac.uk][Attendance sheet]] 
+
+* DONE [#B] CO320 prep
+  CLOSED: [2016-10-17 Mon 17:11] DEADLINE: <2016-10-17 Mon 17:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 17:11
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Look at demo stuff on raptor - in courses/co0320medway
+[[mu4e:msgid:7cabfd47d9e84a9faf40ed321b08aa28@ex13-live-mbn2.ad.kent.ac.uk][Sample solutions to CO320 Classes 6~8]]
+
+* DONE [#B] Mail sysadmin dude about filestores?
+  CLOSED: [2016-10-17 Mon 16:20]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 17:13
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+or at least find the Postgrad specific stuff
+I should use raptor as its easier to do restores from
+
+* Tasks
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 17:14
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_CATEGORY: todo
+  :END:
+** imitation <> creativity?                                           :anna:
+*** TODO [#B] Find anti-imitation slides from ICCC           :imitation:eval:
+*** TODO [#B] Finish Anna's thesis                             :reading:eval:
+
+ [[file:~/Dropbox/org/cce.org::*Ch.%202%20-%20Critical%20review%20of%20previous%20CCE%20work][Ch. 2 - Critical review of previous CCE work]]
+*** TODO [#B] Evaluating evaluation by Anna                    :reading:eval:
+
+[[file:~/Dropbox/org/cce.org::*Mapping%20MG->CC%20space%20to%20Pease%20&%20Colton's%20six%20stages][Mapping MG->CC space to Pease & Colton's six stages]]
+*** TODO [#B] Four PPPPerspectives                             :reading:eval:
+*** TODO [#B] Colton and Pease's other IDEA and FACE :reading:imitation:eval:
+*** TODO [#B] Full FACE poetry generation       :reading:anna:imitation:eval:
+
+  [[file:~/Dropbox/org/cce.org::*Axis%20of%20CC%20space][Axis of CC space]]
+** Reading
+**** TODO [#C] WaveNet NN structure                      :reading:neuralnets:
+
+  [[file:~/Dropbox/org/wavenet.org::*WaveNet%20system][WaveNet system]]
+** Getting organised
+*** TODO [#B] Skim induction docs
+    SCHEDULED: <2016-10-18 Tue 13:30-14:30>
+    Remember to look at Annex K: [[*Induction review][Induction review]] 
+
+  [[file:~/Dropbox/org/getting-organised.org::*Getting%20organised][Getting organised]]
+*** sort old notes
+**** TODO [#B] Write up notes from wall
+**** TODO [#B] Document pile
+**** TODO [#B] Linux notes
+** TODO [#B] Supervisory Record                                        :anna:
+** TODO [#B] Check Literature review tools                            :anna:
+
+  [[file:~/Dropbox/org/anna.org::*Literature%20review%20tools][Literature review tools]]
+** TODO [#B] HDDA MOOC
+
+  [[file:~/Dropbox/org/data-analysis.org::*Introduction%20to%20Statistics%20and%20R%20for%20the%20Life%20Sciences][Introduction to Statistics and R for the Life Sciences]]
+** TODO [#B] Embracing SOA mail                                        :anna:
+
+  [[file:~/Dropbox/org/soa.org::*RPC%20over%20SOAP%20does%20not%20equal%20SOA][RPC over SOAP does not equal SOA]]
+** TODO [#C] 30 second spiel
+
+  [[file:~/Dropbox/org/getting-organised.org::*Getting%20organised][Getting organised]]
+** TODO [#B] backup
+rsync?
+Dropbox?
+github?
+  [[file:~/Dropbox/org/computer-setup.org::*PC][PC]]
+** TODO [#B] PostGrad presentation
+DEADLINE: <2016-11-30 Wed>
+** TODO [#A] Render calendar
+http://orgmode.org/worg/org-tutorials/org-google-sync.html
+** TODO [#B] Book Sussex Creative Interfaces Symposium                 :anna:
+** TODO Ventura why is MG not enough?           :reading:anna:imitation:eval:
+What's missing?
+What makes it awesome?
+[[file:~/Dropbox/org/cce.org::*Which%20bits%20of%20FACE%20do%20Ventura's%20places%20produce][Which bits of FACE do Ventura's places produce]]
+** WAIT [#B] Check support situation
+Have I sent on Sussex assesment?
+DOn't I have an appointmet already?
+Sent mail.
+
+ [[mu4e:msgid:692437c4c21e4dfb9c88b7801563a0ea@ex13-live-mbn2.ad.kent.ac.uk][Support at the University of Kent]]
+** TODO [#B] Rasika's questions
+
+ [[mu4e:msgid:B330B865-9AC9-4162-9FA5-196370797BA2@sps.edu][Research on Creativity in Artificial Intelligence]]
+** TODO [#B] Joe SOA, Clojure, SPEC
+
+ [[mu4e:msgid:CABQkF0k3dd4W6G=MT6TBSQXsGg=Y0R-0Hr5FbcmG2n9pdQQY-w@mail.gmail.com][Fwd: Fwd: Scholar Alert - Anna Jordanous - new citations]]
+** TODO [#B] Can I make goals SMART?
+See bit of paper from Jo
+** TODO [#B] Attend Shut up and write?
+when is it? 
+Do we need a Medway one?
+** TODO [#B] Double check Bloom - particularily Canterbury only stuff.
+Handling critcism, rapid reading?
+** TODO [#C] Gantt, Kanban, Trello? In emacs? I might already Kanban
+** TODO [#B] Research Development Assesment                            :anna:
+** TODO James & Sam - Pie in the sky - NN, Probabilistic systems - explained via GP
+Sam - GP
+James - Explainability
+
+ [[file:~/Dropbox/org/anna.org::*Code/Framing%20+%20interaction][Code/Framing + interaction]]
+** TODO Ritchie's Intentioanlity paper                    :reading:anna:eval:
+
+ [[file:~/Dropbox/org/cce.org::*Intentionality%20-%20deal%20with%20/process/][Intentionality - deal with /process/]]
+** TODO [#A] VM
+** WAIT Induction review                                         :anna:colin:
+
+   DEADLINE: <2016-10-28 Fri>
+
+Please refer to Section 3.2 of Annex K (Progression and Examination) of the University's Code of Practice for Research Programmes of Study for the requirements of this review. 
+
+Waiting on Colin to confirm when.
+
+ [[mu4e:msgid:20161015000105.160482E49@widley.kent.ac.uk][Induction Review Reminder]]
+** TODO Look at Veale's Theasaurus-Rex nuance/category definitions
+
+ [[file:~/imitation-creativity-meaning/src/core.org::*Namespace:%20imitation-creativity-meaning.core][Namespace: imitation-creativity-meaning.core]]
+** TODO Write up this weekends literate programming!
+*** literate
+samples
+literature review
+
+*** not so literate
+idea
+
+ [[file:~/code/goldbaby-samples/src/core.org::*Public%20functions][Public functions]]
+** TODO [[file:~/Documents/Papers/references.bib::boden_2016][Boden 2016: Is Deep Dreaming New Collage]]               :reading:anna:
+** TODO [[file:~/Documents/Papers/references.bib::ritchie_2007][Ritchie 2007: Some Empirical Criteria]]                  :reading:anna:
+** TODO GPG for email, servers etc.
+http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html
+** TODO Think through graphing options
+inacnter
+clj-xchart - https://hypirion.github.io/clj-xchart/
+thi.ng
+** TODO Ventura - deep dive on evaluation location and framing info produced :reading:anna:imitation:eval:
+** TODO What does evaluate mean in computing literature?
+** TODO Join Mailing lists.                                            :anna:
+In note pad.
+** TODO [#A] Why isn't bibtex insert working?
+** WAIT Collect books
+Big Book of concepts
+How to PhD...
+Ordered from library service <2016-10-17 Mon>
+** TODO [#B] Has anyone responded to forum post re: constructors
+
+ [[mu4e:msgid:82a3bab1b0af93b2d3c19e08b9e1949cb530a58fbfd71959e6d58ea193901ba5/2016@moodle.kent.ac.uk][CO320 MED: Class 4]]
+
+** TODO [#C] Ask about what can and can't be purchased?          :anna:setup:
+Apps
+- Booklet mode printing
+- Window organising tool
+** TODO [#B] Stanford Philosophy Concepts                     :reading:colin:
+   DEADLINE: <2016-10-24 Mon>
+
+Re-read [[file:~/Dropbox/org/concepts.org::*Fregean%20senses][Fregean senses]] with understanding of referent and senses
+Possibly re-read [[file:concepts.org::*The%20ontology%20of%20concepts][The ontology of concepts]]? Understand why "causal" is important word
+** TODO [#C] Read up on Wittgenstein in little philosophy book :reading:colin:
+What is it about him that makes him anti mental representation
+What about other philosophers mentioned?
+** TODO Check these workshops
+
+ [[mu4e:msgid:all-pgr.1281@anonymous][{all-pgr} Workshop spaces - Intro to R, Effective Reading, Managing Academic Relationships, Assertiveness]]
+
+* Getting organised
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 17:15
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :END:
+** TODO [#B] Skim induction docs
+   SCHEDULED: <2016-10-18 Tue 13:30-14:30>
+   Remember to look at Annex K: [[*Induction review][Induction review]] 
+
+ [[file:~/Dropbox/org/getting-organised.org::*Getting%20organised][Getting organised]]
+** sort old notes
+*** TODO [#B] Write up notes from wall
+*** TODO [#B] Document pile
+*** TODO [#B] Linux notes
+** TODO [#C] WaveNet NN structure                        :reading:neuralnets:
+
+[[file:~/Dropbox/org/wavenet.org::*WaveNet%20system][WaveNet system]]
+
+* WAIT [#B] Check support situation
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 17:17
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: WAIT
+  :END:
+Have I sent on Sussex assesment?
+DOn't I have an appointmet already?
+Sent mail.
+
+ [[mu4e:msgid:692437c4c21e4dfb9c88b7801563a0ea@ex13-live-mbn2.ad.kent.ac.uk][Support at the University of Kent]]
+
+* DONE Think through graphing options                                 :setup:
+  CLOSED: [2016-10-17 Mon 19:27]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 19:27
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+inacnter
+thi.ng
+I don't need to start learning another one!
+
+* DONE [#A] Why isn't bibtex insert working?                          :setup:
+  CLOSED: [2016-10-17 Mon 19:56]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 19:56
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Restarted emacs!?!?!
+
+* DONE [#B] Double check Bloom - particularily Canterbury only stuff.
+  CLOSED: [2016-10-17 Mon 20:01]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 20:01
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Handling critcism, rapid reading?
+Duplicate!!!!!!!!
+
+* DONE [#A] Send passport and student finance info                  :support:
+  CLOSED: [2016-10-19 Wed 11:19] SCHEDULED: <2016-10-19 Wed 11:00-11:15>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-19 Wed 11:19
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+  Notes in notebook.
+
+* DONE [#A] Induction review                                     :anna:colin:
+  CLOSED: [2016-10-19 Wed 11:33] SCHEDULED: <2016-10-19 Wed 11:15-11:45> DEADLINE: <2016-10-19 Wed 17:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-19 Wed 11:33
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+Please refer to Section 3.2 of Annex K (Progression and Examination) of the University's Code of Practice for Research Programmes of Study for the requirements of this review. 
+
+Waiting on Colin to confirm when.
+
+ [[mu4e:msgid:20161015000105.160482E49@widley.kent.ac.uk][Induction Review Reminder]]
+
+Told Anna about clash with workshop.
+
+
+* Not using
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-19 Wed 13:09
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks/Render calendar
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_ITAGS: setup
+  :END:
+Scripts - http://orgmode.org/worg/org-tutorials/org-google-sync.html
+org-caldav - https://github.com/dengste/org-caldav
+
+
+* DONE [#A] Render calendar                                           :setup:
+  CLOSED: [2016-10-19 Wed 13:17] SCHEDULED: <2016-10-19 Wed 12:00-12:30>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-19 Wed 13:18
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+   :LOGBOOK:
+   CLOCK: [2016-10-19 Wed 11:51]--[2016-10-19 Wed 13:17] =>  1:26
+   :END:
+I can export one off via: C-c C-e c c - this dumps a file in home directory as per:
+http://orgmode.org/manual/iCalendar-export.html
+** Installed org-gcal
+*** Set up OAUTH stuff on Google cloud
+
+
+* TODO Auto-sync Gcal on evry calendar write - also logon?            :setup:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 07:35
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE [#A] Rasika's questions                                         :anna:
+  CLOSED: [2016-10-20 Thu 09:47] SCHEDULED: <2016-10-19 Wed 13:00-13:30>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 09:47
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+[[mu4e:msgid:B330B865-9AC9-4162-9FA5-196370797BA2@sps.edu][Research on Creativity in Artificial Intelligence]]
+
+* TODO [#B] Grab concepts book
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 14:59
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+[[mu4e:msgid:f3abbb30907f4a4985e84307d11bbe5c@gm-sta-exmb4.staff.gre-ad.gre.ac.uk][Inter-Library Loan]]
+
+* TODO [#B] Can I make goals SMART?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 16:45
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+See bit of paper from Jo
+
+* DONE [#B] Research Development Assesment                             :anna:
+  CLOSED: [2016-10-20 Thu 16:45] DEADLINE: <2017-03-31 Fri>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 16:45
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#C] Ask about what can and can't be purchased?           :anna:setup:
+  CLOSED: [2016-10-20 Thu 16:48]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-20 Thu 16:49
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Apps
+- Booklet mode printing
+- Window organising tool
+- See what student support can provide first. Then leverage Computing money pots
+
+* TODO [#B] Email rendering - w3m or something?                       :setup:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-22 Sat 22:11
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE [#A] Collect books                                           :reading:
+  CLOSED: [2016-10-22 Sat 22:11] SCHEDULED: <2016-10-21 Fri 14:45-15:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-22 Sat 22:11
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Big Book of concepts
+Ordered from library service <2016-10-17 Mon>
+
+* TODO [#B] backup                                                    :setup:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-22 Sat 22:14
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+rsync?
+Dropbox?
+github?
+  [[file:~/Dropbox/org/computer-setup.org::*PC][PC]]
+
+* DONE Re-read [[file:~/Dropbox/org/concepts.org::*Fregean%20senses][Fregean senses]] with understanding of referent and senses
+  CLOSED: [2016-10-22 Sat 22:27]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-22 Sat 22:27
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading/Stanford Philosophy Concepts
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: reading colin concepts imitation
+  :END:
+
+* DONE [#A] Book Sussex Creative Interfaces Symposium                  :anna:
+  CLOSED: [2016-10-23 Sun 23:34]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-23 Sun 23:34
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Confirmed money ok with Peter
+[2016-10-20 Thu] - Requested travel
+[2016-10-22 Sat] - Booked place
+
+* TODO [#B] Migrate calendar Mac Calendar?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-23 Sun 23:37
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+  using gcal to pull - that'll fucking do this week!
+
+* DONE [#C] Gantt, Kanban, Trello? In emacs? I might already Kanban   :setup:
+  CLOSED: [2016-10-23 Sun 23:39]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-23 Sun 23:39
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO [#A] Read up on Wittgenstein in little philosophy book :reading:colin:concepts:
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-24 Mon 01:05
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Everything/Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+What is it about him that makes him anti mental representation
+What about other philosophers mentioned?
+[[file:concepts.org::*Traces%20back%20to%20Wittgenstein%20-%20scepticism%20re:%20existence%20of%20mental%20representation][Traces back to Wittgenstein - scepticism re: existence of mental representation]]
+
+* DONE [#A] COMPINT prep
+  CLOSED: [2016-10-24 Mon 08:11] SCHEDULED: <2016-10-24 Mon 08:30-09:00> DEADLINE: <2016-10-24 Mon>
+  :PROPERTIES:
+  :Effort:   1:00
+  :ARCHIVE_TIME: 2016-10-24 Mon 08:11
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+
+
+* DONE co0320 Prep
+  CLOSED: [2016-10-25 Tue 14:07] DEADLINE: <2016-10-25 Tue 09:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-25 Tue 14:07
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Print DesInC Itinerary 
+  CLOSED: [2016-10-25 Tue 14:22]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-25 Tue 14:22
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#C] Join Mailing lists.                                  :anna:setup:
+  CLOSED: [2016-10-25 Tue 15:52]
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-25 Tue 15:52
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+In note pad.
+
+* DONE Fix caps-lock                                                  :setup:
+  CLOSED: [2016-10-25 Tue 16:48]
+  :PROPERTIES:
+  :Effort:   0:10
+  :ARCHIVE_TIME: 2016-10-25 Tue 16:48
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#B] Supervisory Record                                         :anna:
+  CLOSED: [2016-10-26 Wed 09:31] SCHEDULED: <2016-10-26 Wed 09:00-09:30> DEADLINE: <2016-10-25 Tue>
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-10-26 Wed 09:31
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Look over assessment spec                                 :co320:
+  CLOSED: [2016-10-26 Wed 10:16] SCHEDULED: <2016-10-26 Wed 09:30-10:00> DEADLINE: <2016-10-27 Thu 11:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-26 Wed 10:16
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+[[message://59d5f8da3c4e466cb7e210a4ab3033b5@ex13-live-mbn2.ad.kent.ac.uk][RE: Module team meeting in week 5]]
+
+
+* WAIT [#B] Has anyone responded to forum post re: constructors       :co320:
+  SCHEDULED: <2016-10-27 Thu 11:00>
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-26 Wed 10:18
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: WAIT
+  :END:
+Ask in meeting
+ [[mu4e:msgid:82a3bab1b0af93b2d3c19e08b9e1949cb530a58fbfd71959e6d58ea193901ba5/2016@moodle.kent.ac.uk][CO320 MED: Class 4]]
+
+
+* DONE [#B] VM                                                        :setup:
+  CLOSED: [2016-10-26 Wed 14:05]
+  :PROPERTIES:
+  :Effort:   1:00
+  :ARCHIVE_TIME: 2016-10-26 Wed 14:05
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Stanford Philosophy Concepts           :colin:concepts:imitation:
+  CLOSED: [2016-10-26 Wed 16:12] SCHEDULED: <2016-10-26 Wed 10:00-11:00> DEADLINE: <2016-10-31 Mon>
+  :PROPERTIES:
+  :Effort:   2:0
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:12
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* TODO Medway Research Seminars                                     :reading:
+  DEADLINE: <2016-11-01 Tue 14:30>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:20
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE Medway Research Seminars                                     :reading:
+  CLOSED: [2016-10-26 Wed 16:20] DEADLINE: <2016-11-01 Tue 14:30>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:20
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO [#A] Read up on Wittgenstein in little philosophy book :reading:colin:
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:37
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+What is it about him that makes him anti mental representation
+What about other philosophers mentioned?
+[[file:concepts.org::*Traces%20back%20to%20Wittgenstein%20-%20scepticism%20re:%20existence%20of%20mental%20representation][Traces back to Wittgenstein - scepticism re: existence of mental representation]]
+
+* TODO [#C] Read Frege reference                             :colin:concepts:
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:37
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+[[file:~/Dropbox/org/concepts.org::*Fregean%20senses][Fregean senses]]
+
+* DONE [#B] Check these workshops
+  CLOSED: [2016-10-26 Wed 16:49]
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-26 Wed 16:49
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+[[mu4e:msgid:all-pgr.1281@anonymous][{all-pgr} Workshop spaces - Intro to R, Effective Reading, Managing Academic Relationships, Assertiveness]]
+
+* DONE [#C] Write up/ponder effective reading notes
+  CLOSED: [2016-10-26 Wed 17:08]
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-26 Wed 17:08
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#B] Sort archiving location                                   :setup:
+  CLOSED: [2016-10-27 Thu 06:25]
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-27 Thu 06:25
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+ [[help:org-archive-location]]
+Sent mail to mailing list[[https://mail.google.com/mail/u/0/#sent/158019e983a21b25][:
+Archive to subfolder? - tristan.strange@gmail.com - Gmail]] 
+
+* TODO [#B] Attend Shut up and write?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-27 Thu 18:39
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+when is it? 
+Do we need a Medway one?
+
+* DONE Install Deft
+  CLOSED: [2016-10-27 Thu 21:37]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-27 Thu 21:37
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#B] Nithya assessment sheet                                   :co320:
+  CLOSED: [2016-10-27 Thu 21:51] SCHEDULED: <2016-10-24 Mon 11:00>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-27 Thu 21:51
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#B] Let Nithya see my marking
+  CLOSED: [2016-10-28 Fri 13:52] SCHEDULED: <2016-10-28 Fri 09:00-10:00> DEADLINE: <2016-10-28 Fri>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-28 Fri 13:52
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO [#A] Respond to Colin
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-28 Fri 14:26
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE [#A] Tidy concepts notes                                    :concepts:
+  CLOSED: [2016-10-28 Fri 16:40]
+  :PROPERTIES:
+  :Effort:   1:00
+  :ARCHIVE_TIME: 2016-10-28 Fri 16:40
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Unix prep
+  CLOSED: [2016-10-28 Fri 16:40]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-28 Fri 16:40
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* WAIT [#B] Student Support Assessment                              :support:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-28 Fri 16:42
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: WAIT
+  :END:
+Needs arranging when Student Finance have contacted me,
+
+ [[mu4e:msgid:6e9d768d8718446a9d9b33e6942b9910@ex13-live-mbn1.ad.kent.ac.uk][RE: Reminder]]
+
+* TODO [#B] Modules                                                    :anna:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-28 Fri 16:42
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+Yang and Fernando - data mining
+https://cs.kent.ac.uk/people/staff/gewt/Classes
+
+* DONE [#B] backup                                                    :setup:
+  CLOSED: [2016-10-31 Mon 09:22]
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-10-31 Mon 09:22
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+   Now have rsync script org-backup.zsh
+Needs scheduling
+
+* DONE Referencing workshop prep
+  CLOSED: [2016-10-31 Mon 11:33] DEADLINE: <2016-11-01 Tue>
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-10-31 Mon 11:33
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+[[message://E1bzC6U-0000fi-5T@bloom.kent.ac.uk][Workshop Reminder]]
+
+* DONE [#C] Check Literature review tools                              :anna:
+  CLOSED: [2016-10-31 Mon 19:39]
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-10-31 Mon 19:39
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+ [[file:~/Dropbox/org/anna.org::*Literature%20review%20tools][Literature review tools]]
+
+* TODO [#A] Write up this weekends literate programming!               :code:
+  :PROPERTIES:
+  :Effort:   4:00
+  :ARCHIVE_TIME: 2016-10-31 Mon 19:40
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+** literate
+samples
+literature review
+
+ [[file:~/code/goldbaby-samples/src/core.org::*Public%20functions][Public functions]]
+** not so literate
+idea
+
+
+* TODO [#B] GPG for email, servers etc.                               :setup:
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-10-31 Mon 19:41
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html
+
+* TODO Research boundaries?                                            :anna:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-09 Wed 11:36
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+What are they?
+
+Out of date? Peripheral? Core?
+
+[[file:~/Dropbox/org/getting-organised.org::*]]
+
+* TODO [#B] Joe                                                        :anna:
+  :PROPERTIES:
+  :Effort:   1:00
+  :ARCHIVE_TIME: 2016-11-09 Wed 11:37
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+ [[file:~/Dropbox/org/soa.org::*RPC%20over%20SOAP%20does%20not%20equal%20SOA][RPC over SOAP does not equal SOA]]
+
+* DONE [#B] James & Sam - Pie in the sky - NN, Probabilistic systems - explained via GP
+  CLOSED: [2016-11-09 Wed 11:38]
+  :PROPERTIES:
+  :Effort:   1:00
+  :ARCHIVE_TIME: 2016-11-09 Wed 11:38
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+Sam - GP
+James - Explainability
+
+ [[file:~/Dropbox/org/anna.org::*Code/Framing%20+%20interaction][Code/Framing + interaction]]
+
+* DONE [#A] Marking                                                   :co320:
+  CLOSED: [2016-11-11 Fri 17:32]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-11 Fri 17:32
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#B] Inman Harvey - misrepresentations       :anna:concepts:imitation:
+  CLOSED: [2016-11-20 Sun 15:50]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-20 Sun 15:50
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: reading
+  :END:
+Reading - watch video
+
+* TODO [#B] Colton and Pease's other IDEA and FACE           :imitation:eval:
+  :PROPERTIES:
+  :Effort:   1:30
+  :ARCHIVE_TIME: 2016-11-20 Sun 15:51
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* DONE Seth's real problem
+  CLOSED: [2016-11-20 Sun 15:52]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-20 Sun 15:52
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* DONE [#C] Four PPPPerspectives                                       :eval:
+  CLOSED: [2016-11-25 Fri 10:53]
+  :PROPERTIES:
+  :Effort:   2:0
+  :ARCHIVE_TIME: 2016-11-25 Fri 10:53
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* DONE [#A] finish PPPP
+  CLOSED: [2016-11-25 Fri 10:53]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-25 Fri 10:53
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Decide if I'm going to submit DMRN abstract?                   :colin:
+  CLOSED: [2016-11-25 Fri 10:54] DEADLINE: <2016-11-02 Wed>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-25 Fri 10:54
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+[[message://58109F9D.1050806@kent.ac.uk][DMRN+11: CALL FOR CONTRIBUTIONS]]
+
+* DONE Are WordNet senses [[file:~/Dropbox/org/concepts.org::*Fregean%20senses][Fregean senses]]?
+  CLOSED: [2016-11-25 Fri 10:54]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-25 Fri 10:54
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO [#C] Look at screen reading software                         :support:
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-12-01 Thu 10:21
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+ Student support
+http://www.kent.ac.uk/tools
+
+* DONE [[message://b24b248ebe824dcb8d2be068f48514cf@ex13-live-mbn2.ad.kent.ac.uk][Diary Date - Monday 12th December 2016 -  From 12.00 - Bring and Share Christmas Lunch get together]]
+  CLOSED: [2016-12-05 Mon 03:21]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-05 Mon 03:21
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Email
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO [#C] PostGrad presentation
+  DEADLINE: <2016-11-30 Wed>
+  :PROPERTIES:
+  :Effort:   4:00
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:47
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* TODO [#B] Imitation vs concepts                   :anna:concepts:imitation:
+  :PROPERTIES:
+  :Effort:   3:00
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:47
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* TODO WordNet gradation of antonyms?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:48
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* TODO [#C] [[mu4e:msgid:6561399198a94fc98d6895f316eddd85@ex13-live-mbn1.ad.kent.ac.uk][‘Kickstart your PhD’: books mentioned]]
+  SCHEDULED: <2016-11-11 Fri 14:00-14:30>
+  :PROPERTIES:
+  :Effort:   0:20
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:53
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* TODO [#C] LOTH Fodor                                        :anna:concepts:
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:54
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* TODO [#B] [[message://5810D9CD.4090508@kent.ac.uk][Copyright and the Slavish Copy]]                            :colin:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-21 Wed 11:57
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* TODO Flow machines appraisal                                    :imitation:
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-21 Wed 12:00
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Reading
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: reading
+  :END:
+
+* TODO [#C] make babel mode a bit nicer.                              :setup:
+  :PROPERTIES:
+  :Effort:   0:30
+  :ARCHIVE_TIME: 2016-12-21 Wed 12:24
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Long Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+start repl without switching to compiled code
+shortcut for tangle
+shortcut for send all
+handle windows better - make repl remain present
+can pretty printing be made nicer - straight to results in org?
+[[https://github.com/cassiel/thi-ng-geom-starter][cassiel/thi-ng-geom-starter: Start]]
+
+* DONE SDS
+  CLOSED: [2017-01-12 Thu 13:39]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-12 Thu 13:39
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Quick Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+[[message://20161201010117.A760332AF@widley.kent.ac.uk][Supervisory Record Reminder]]
+
+* DONE [[message://201611190433.uAJ4XZnt029441@tptalis.gre.ac.uk][Library Reminder]]
+  CLOSED: [2017-01-17 Tue 11:10]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-17 Tue 11:10
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Quick Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [[message://201611190433.uAJ4XZnt029441@tptalis.gre.ac.uk][Library Reminder]]
+  CLOSED: [2017-01-17 Tue 11:10]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-17 Tue 11:10
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Quick Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [[message://dec97d39e46b4c8faff24f5665c1b958@ex13-live-mbn1.ad.kent.ac.uk][DSA]]
+  CLOSED: [2017-02-16 Thu 09:50]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-02-16 Thu 09:50
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Quick Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO Register for DMRN
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-02-16 Thu 09:51
+  :ARCHIVE_FILE: ~/Dropbox/org/todo.org
+  :ARCHIVE_OLPATH: Quick Tasks
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: TODO
+  :END:
+[[message://FB0FC4E6-3837-4AEB-A8B0-2C2081AA183D@kent.ac.uk][Re: DMRN+11: LAST CALL FOR CONTRIBUTIONS]]

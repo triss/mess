@@ -1,0 +1,79 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/cce.org
+
+
+* Does framing information need to be generated?
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-10 Mon 10:20
+:ARCHIVE_FILE: ~/Dropbox/org/cce.org
+:ARCHIVE_OLPATH: Pease & Colton, 2011 - On impact and evaluation in computational creativity, Turing Test and alternative/Questions
+:ARCHIVE_CATEGORY: cce
+:END:
+** FACE can generate framing information
+*** Does it leave room fro this to exist already?
+**** i.e. in code?
+
+* Is imitation really antipodal to creativity?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:36
+  :ARCHIVE_FILE: ~/Dropbox/org/cce.org
+  :ARCHIVE_OLPATH: Pease & Colton, 2011 - On impact and evaluation in computational creativity, Turing Test and alternative/Questions
+  :ARCHIVE_CATEGORY: cce
+  :END:
+** Do search on terms
+*** Distance in WordNet, thesaurus rex etc. from Plucker and Makel -> imitation
+
+* Has Alison changed mind since work with Wiggins on creative music work?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:36
+  :ARCHIVE_FILE: ~/Dropbox/org/cce.org
+  :ARCHIVE_OLPATH: Pease & Colton, 2011 - On impact and evaluation in computational creativity, Turing Test and alternative/Questions
+  :ARCHIVE_CATEGORY: cce
+  :END:
+
+* Creativity and evaluation
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 13:06
+  :ARCHIVE_FILE: ~/Dropbox/org/cce.org
+  :ARCHIVE_CATEGORY: cce
+  :END:
+:LOGBOOK:
+CLOCK: [2016-10-02 Sun 11:22]--[2016-10-02 Sun 12:19] =>  0:57
+:END:
+
+** Is eval a component of C?
+** Is eval the dual of C?
+
+*** If so does creativity fail?
+
+**** Can an act of creativity fail?
+
+***** Or is it simple evaluated as such?
+
+** Is evaluation separate to thing it's evaluating?
+
+*** Is this FACE and IDEA split?
+
+**** yes
+
+** Reflection
+
+*** Super useful
+
+*** Nothing to do with creative process
+
+*** Humans can choose to follow algorithms
+
+*** Free will
+
+
+* Is interaction really required to frame output
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 13:10
+  :ARCHIVE_FILE: ~/Dropbox/org/cce.org
+  :ARCHIVE_OLPATH: Pease & Colton, 2011 - On impact and evaluation in computational creativity, Turing Test and alternative/Questions
+  :ARCHIVE_CATEGORY: cce
+  :END:
+** What about code?

@@ -1,0 +1,122 @@
+#+STARTUP: hidestars
+
+* Clojure environment
+** graphing
+use thi.ng for fancyness
+use incanter for basics
+** jAudio
+** CC web services
+https://github.com/triss/cc-services
+*** TODO [#C] Check graphical systems
+*** TODO [#C] Compile list
+*** TODO [#C] Mailing list shoutout
+*** TODO [#C] Creative Language System Group
+**** DONE [#C] Is Jigsaw Bard dead?
+CLOSED: [2016-10-02 Sun 15:19]
+**** TODO [#C] Metaphor Magnet
+***** TODO [#C] Add evidence feature?
+***** DONE document
+CLOSED: [2016-08-18 Thu 16:25]
+[[zotero://select/items/0_F3W676V6][Veale, Tony, and Guofu Li. “Specifying Viewpoint and Information Need with Affective Metaphors: A System Demonstration of the Metaphor Magnet Web App/Service.” In Proceedings of the ACL 2012 System Demonstrations, 7–12. Association for Computational Linguistics, 2012. http://dl.acm.org/citation.cfm?id=2390472.]]
+***** DONE Understand stereotype and property
+CLOSED: [2016-08-18 Thu 12:14]
+**** TODO [#C] Metaphor eyes?
+***** Where is web service - only web front end?
+**** TODO [#C] does URL mentioned in READMEs still work?
+Does it drop XML type upon redirection?
+http://boundinanutshell.com/metaphor-magent
+**** DONE Stereotrope poetry generation
+CLOSED: [2016-08-18 Thu 16:25]
+***** TODO [#C] document
+***** TODO [#C] What is :alt?
+**** DONE Theasaurus rex
+CLOSED: [2016-08-18 Thu 16:25]
+***** DONE document
+CLOSED: [2016-08-18 Thu 12:13]
+***** DONE understand structure
+***** TODO [#C] what is disambiguation param?
+**** DONE Namespaces
+CLOSED: [2016-08-18 Thu 16:25]
+How to call single function?
+Bundle all in core?
+**** DONE No Web service
+CLOSED: [2016-08-18 Thu 13:43]
+***** DONE Idiom savant
+CLOSED: [2016-08-18 Thu 13:42]
+***** DONE Lex-Ecologist
+CLOSED: [2016-08-18 Thu 13:42]
+***** DONE Dorian
+CLOSED: [2016-08-18 Thu 13:42]
+** Aesthetic measures?
+[[zotero://select/items/0_IGAUQCZI][den Heijer, Eelco, and A. E. Eiben. “Comparing Aesthetic Measures for Evolutionary Art.” In European Conference on the Applications of Evolutionary Computation, 311–320. Springer, 2010. http://link.springer.com/10.1007/978-3-642-12242-2_32.]]
+
+** Is it worth using spec?
+** jTransforms
+provides fast FFT. wrapped by jAudio for FFT.
+
+** WordNet?
+*** DONE Use clj-wordnet?
+CLOSED: [2016-08-18 Thu 12:13]
+* emacs
+** org-gcal
+sync with org-gcal-sync
+fetch with org-gcal-fetch
+All good no deletion...
+
+Think you need to migrate to org-caldav?
+
+** Orgmode setup
+ :LOGBOOK:
+ CLOCK: [2016-10-12 Wed 10:30]--[2016-10-12 Wed 12:12] =>  1:42
+ CLOCK: [2016-10-12 Wed 14:00]--[2016-10-12 Wed 18:00] =>  4:00
+ CLOCK: [2016-10-04 Tue 21:38]--[2016-10-04 Tue 22:45] =>  1:07
+ CLOCK: [2016-10-04 Tue 06:36]--[2016-10-04 Tue 06:55] =>  0:19
+ CLOCK: [2016-10-03 Mon 20:24]--[2016-10-03 Mon 21:19] =>  0:55
+ CLOCK: [2016-10-03 Mon 19:30]--[2016-10-03 Mon 19:51] =>  0:21
+ CLOCK: [2016-10-03 Mon 18:24]--[2016-10-03 Mon 18:30] =>  0:06
+ CLOCK: [2016-10-03 Mon 12:00]--[2016-10-03 Mon 12:06] =>  0:06
+ CLOCK: [2016-10-03 Mon 11:41]--[2016-10-03 Mon 12:01] =>  0:20
+ CLOCK: [2016-10-03 Mon 11:15]--[2016-10-03 Mon 11:34] =>  0:19
+ :END:
+ - [ ] Think through tags
+ -* http://orgmode.org/manual/Setting-tags.html#Setting-tags
+ - [ ] Proper agenda view
+   - [ ] Week numbering
+ - [ ] Calendar export
+ - [X] Learn tables
+ - [ ] Print to PDF
+    Installed mactex
+ - [X] insert citation
+* organisation setup
+:LOGBOOK:
+CLOCK: [2016-10-05 Wed 09:01]--[2016-10-05 Wed 10:05] =>  1:04
+CLOCK: [2016-10-05 Wed 07:01]--[2016-10-05 Wed 07:40] =>  0:39
+CLOCK: [2016-10-04 Tue 18:16]--[2016-10-04 Tue 19:20] =>  1:04
+:END:
+
+| Source                      | Problem           | Solution                               |
+|-----------------------------+-------------------+----------------------------------------|
+| Persig - Note handling      | UNASSIMILATED     | capture template - into tangents       |
+|                             | PROGRAM           | todo.org                               |
+|                             | TOUGH             | tangents.org                           |
+|                             | CRIT              | crit.org?                              |
+|                             | JUNK              | through archiving feature  ,A          |
+|-----------------------------+-------------------+----------------------------------------|
+| Fincher - Literature Review | classification    | category-name.org & tags?              |
+|                             | core info         | Bibtex                                 |
+|                             | date read         | LOGBOOK properties                     |
+|                             | physical location | categories mirrored in filing cabinet? |
+|                             | refs to follow    | TODOs                                  |
+|                             | how did I find?   | look at Bibtex spec?                   |
+|                             | related works?    | look at Bibtex spec?                   |
+|                             | backtracking      | some orgagenda or elisp magic?         |
+
+
+* download samples
+
+  Used samples for free from Goldbaby cite:gb_samples.
+Well labelled.
+Clean - i.e samples on their own
+Standard - classic drum machine samples
+Characterful.
+

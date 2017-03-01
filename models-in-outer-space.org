@@ -1,0 +1,70 @@
+* Evolving societies of mind
+Minsky described a model of human intelligence that operates through the interaction of simple mindless agents.
+Human's have been known to give rise to behaviour inside particular conceptual spaces to which we subjectively apply the label of creativity.
+Whether or not this model is complete for humans is still an open question however some parts of the brain/body do clearly display this isomorphism.
+To some extent this hasn't 
+
+** Models
+*** Any function
+**** Trained models
+**** Hand coded
+**** Interact via uniform system
+***** Converting everything to vectors makes most sense?
+****** everything can be represented as sequence of floats
+******* fun with hyperdimensional socks
+****** native language of fuzzier systems like NN?
+
+*** Schema/Types
+**** (de)composable
+***** if model is to sort flags by colour
+****** images by colour
+******* sorts Xs by Y
+******** sorts Xs by Y
+********* sorts Xs by Y
+********** Fns Xs by Y
+**** often ignored!!!!
+**** Maybe WSDL will do?
+***** probably spec type thing
+
+*** logging information
+**** Evolutionary histories
+***** Potential to analyse
+******* Most successful route of representation's
+******* Expense of constructing can be derived
+***** Because of framing
+****** finger print hiding not something i want to mimic
+******* a deficit of human creativity is that it often hard for progenitor to explain what he did?
+******** machines can do creativity better? i.e. tell us how it happened
+**** How successful/valuable?
+**** How costly is it to run?
+
+*** Harnesses for different types
+**** i.e. markov/neural network/GP
+***** things can be run in many ways
+****** applied to scalars
+****** 'iterated' over a sequence
+******* fold/reduce
+******* filter
+******* map
+******* group-by
+******* some
+**** Run time for models
+***** Potentially models them selves!!!!
+
+** Embodiment
+*** Senses
+**** Web Services
+***** coerced to vector input
+**** Evaluation methods for input and own output
+*** Limbs
+**** Create outputs
+***** Map vector to image, sound, sentance, lisp expression!, sausage roll etc.
+
+** Memory/training data
+*** As much if training data as possible
+**** to test new models against
+*** It's models
+
+
+
+Vitani - Compression distances

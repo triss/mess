@@ -1,0 +1,46 @@
+Taken mostly from Anna's [[zotero://select/items/0_MUIF3SQW][Jordanous, Anna. “What Is Computational Creativity?” The Creativity Post, 2014. http://www.creativitypost.com/science/what_is_computational_creativity.]]
+
+"formal definition of creativity [in the context of computational work] – and our inability to find one that satisfies everybody - has been the elephant in the room at all of the computational creativity workshops to date." (Cardoso et al., 2009)"
+* Computational Creativity Conference Steering Committee
+"Computational creativity is a multidisciplinary endeavour that is located at the intersection of the fields of artificial intelligence, cognitive psychology, philosophy and the arts."
+"The field of computational creativity concerns itself with theoretical and practical issues in the study of creativity. Theoretical work on the nature and proper definition of creativity is performed in parallel with practical work on the implementation of systems that exhibit creativity, with one strand of work informing the other."
+**** Goals
+***** Construct a program capable of human-level creativity
+***** To better understand human creativity and formulate an algorithmic perspective
+***** To write programs that enhance human creativity
+**** Problems
+***** Define "human-level" creativity
+Which human? Genius or child?
+***** Some believe not enough to enhance - meta-creativity
+***** Does not answer question, just asks more questions.
+* Old definition from computationalcreativity.net
+**** Problems
+***** Colton and Wiggins keen to remove suggestion that computer appear to be human.
+hence CCG definition
+* Creativity involving computers
+Is this cheating? Side step definition of CC by using peoples implicit
+conception of creativity?
+- Colton and Wiggins, 2012 :: The philosophy, science and engineering of computational systems which, by taking on particular /responsibilities/, exhibit behaviours that /unbiased observers/ would deem to be creative." [[coltonFinalFront]]
+- Schmid, 1996 :: "as long as creativity and its prerequisites are not well understood, it probably is the best approach [for computational creativity] to simulate human behaviour as far as possible."
+- Wiggins, 2006a :: "The study and support, through computational means and methods, of behaviour exhibited by natural and artificial systems, which would be deemed creative if exhibited by humans."
+- Cardoso and Wiggins, 2007 :: "Computational creativity is the study and simulation, by computer means, of behaviour, natural and artificial, which would, if observed in humans, be deemed creative."
+- Colton, 2008 :: "computer programs are written to perform tasks which, if undertaken by people, require an element of creativity."
+
+* Peinado and Gervas, 2006 - "how to create something new and useful at the same time."
+* As search
+- Ventura, 2011 :: “It seems natural to interpret the creative process, particularly in a computational context, as one of search. ”
+- Jennings, 2010 :: “the search for an ideal solution to a problem”
+- Wiggins, 2006b :: Wiggins mentions this idea?
+*** Pérez y Pérez, 1999 - Engagement reflection
+cyclic process of engaging with creative production then critically reflecting on what it has produced, to inform the next stage of creative production.
+*** Cohen, 1999 - Behaviour X
+AARON can not make aesthetic choices.
+X and autonomy are necessary to be creative.
+*** Boden, 1990 - 3 types:
+- Exploratory :: explore domain(conceptual space)
+- Transformational :: change domain
+- Combinatorial :: take 2 concepts within domain and merge
+*** Plucker and Makel,
+ “similar, overlapping and possibly synonymous terms for creativity:
+ imagination, ingenuity, innovation, inspiration, inventiveness, muse, novelty,
+ originality, serendipity, talent and unique”

@@ -1,0 +1,4 @@
+* Orgmode
+- ,aa :: goto Agenda
+* Agenda
+- + / - :: Change priority

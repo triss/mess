@@ -1,0 +1,134 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/co320.org
+
+
+* Check I can make sun set?
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-07 Fri 12:13
+:ARCHIVE_FILE: ~/Dropbox/org/co320.org
+:ARCHIVE_CATEGORY: co320
+:END:
+:LOGBOOK:
+CLOCK: [2016-10-03 Mon 10:46]--[2016-10-03 Mon 10:47] =>  0:01
+:END:
+
+* lj261 
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 09:33
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+** didn't hand in source
+mailed Yang
+
+* mo399
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:35
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+No source code. answers in README
+
+* - didn't give examples but showed good understanding for Q1
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:37
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+se270, tc429 - how many marks to drop?
+
+* tk337 - difference between README and handin
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:40
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+getName in README, setName in code.
+
+* 1a) Docked marks for listing some methods along with fields
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:40
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+md567, psd5, ts520
+
+* mc818
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:41
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+Q1: He get's docked a lot of marks for identifying things on Student class instead of Course
+Note constructor description is missing specifics also
+
+* kkqh2
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-11-10 Thu 11:43
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_OLPATH: Marking notes
+  :ARCHIVE_CATEGORY: co320
+  :END:
+** 1b - doesn't 100% pin down language but shows 100% understanding
+Creates a new course with a given ID, title and convenor.
+
+* Meeting issues
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-07 Wed 10:32
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_CATEGORY: co320
+  :END:
+** Part 3 - One mark for each line in the boby
+*** Define new method in Student class - signature
+*** Good naming
+*** Get course numbers - max 100
+*** append to list of courses
+*** Takes course as argument
+*** Returns nothing
+*** Is there space? - have they written an if?
+**** Adds user to course
+**** Prints error message
+** Forum posts
+
+ ** Constructor definition
+**** Init fields - given value
+
+   [[message://59d5f8da3c4e466cb7e210a4ab3033b5@ex13-live-mbn2.ad.kent.ac.uk][RE: Module team meeting in week 5]]
+
+
+* New field, init
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-07 Wed 10:32
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_CATEGORY: co320
+  :END:
+
+* Check the counter - extra test
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-07 Wed 10:32
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_CATEGORY: co320
+  :END:
+
+* Increment counter
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-07 Wed 10:32
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_CATEGORY: co320
+  :END:
+  
+
+* Marking notes
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-12-07 Wed 10:32
+  :ARCHIVE_FILE: ~/Dropbox/org/co320.org
+  :ARCHIVE_CATEGORY: co320
+  :END:

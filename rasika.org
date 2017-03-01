@@ -1,0 +1,23 @@
+* Question
+I am an 11th grade student at St. Paul’s School in Concord, New Hampshire. I am currently taking an Artificial Intelligence class (my teacher Mr. Terry Wardrop is CCed), and I am writing a research paper on creativity in Artificial Intelligence. So far I have explored different existing creative programs, such as AARON painting, cybernetic poetry, and autonomous music, story-telling, and jokes. In addition, I have been trying to address the philosophical question of whether or not it is possible to have AI think creatively. During my research I came across some studies by Anna Jordanous, which led me to your Computational Intelligence group at Kent. 
+
+The University of Kent webpage said you were interested in computational creativity, so I was wondering if you could answer some questions about creativity in AI. Are there any current research projects going on or recent findings related to Artificial Intelligence performing creative tasks? Also, what is your stance on the philosophical question of whether or not it is possible for artificial intelligence to think creatively based on what you have seen working with creative technology projects?
+
+Thank you so much, I hope to hear back from you soon!
+
+* Response
+Hi Rasika,
+
+I just started my PhD around a month ago. So no recent findings from me - yet! I think I'll be commencing my research by looking at whether or not an imitative act can be creative.
+
+Sounds to me like you've started looking in all the right places. For information about current research I think you'd struggle to beat the papers discussed at this years ICCC: http://www.computationalcreativity.net/iccc2016/program/
+If like me you like to break up your reading by watching stuff the previous years presentations can be found here: https://www.youtube.com/watch?v=ZT-bUTYwpao
+
+I'm particularly fond of this paper which attempts characterise the sorts of systems being created by CC researchers at the moment: http://www.computationalcreativity.net/iccc2016/wp-content/uploads/2016/01/Mere-Generation.pdf
+
+re: Whether or not I think it's possible for a computer to think creatively or not, that's a difficult questions to answer. I think it's possible for a computer to appear to be thinking creatively. As to whether it is or not depends on how you define creatively and think! Anna Jordanous Evaluation thesis has a lot to say about this!
+
+Hope this is helpful. Feel free to give me a prod in the future to discuss the links or just ask other questions.
+
+Cheers,
+Tristan

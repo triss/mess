@@ -1,0 +1,85 @@
+* Google, 2016 - WAVENET: A GENERATIVE MODEL FOR RAW AUDIO
+** Abstract
+*** WaveNet
+**** Raw audio generator
+***** probabilistic
+***** auto-regressive
+**** predictive distribution for every audio sample conditioned by all previous
+**** Can have different identities with no loss of fidelity
+**** generates musical fragments
+***** realistic
+***** novel
+**** can act as a discriminative model
+** Introduction
+*** Based heavily on PixelRNN
+*** very high temporal resolution, 16,000 samples per second
+*** "Neural auto-regressive generative model"
+*** Some stuff about joint probabilities
+**** dilated causal convolutions
+***** have large receptive fields
+*** Only needs small data-set for training
+** WaveNet system
+*** Dilated causal convolutions
+*** Softmax distributions
+*** Gated activation units
+*** Residual and skip connections
+*** Conditional WaveNets
+*** Context Stacks
+** Experiments
+*** Multi-speaker speech generation
+*** text-to-speech
+*** Music
+**** Evaluation
+***** Difficult to quantitatively evaluate
+***** has been done subjectively through listening to output
+***** MagnaTagATune - tagged data
+****** approach works reasonably well
+***** Youtube Piano
+****** single instrument "considerably easier to model"
+**** "long receptive field was crucial to obtain samples that sounded musical"
+***** even when several seconds long
+****** genre, instrumentation, volume and sound quality varied second by second
+**** Output is "often harmonic and aesthetically pleasing"
+**** Conditional music models
+***** Allow us to "control various aspects of the output of the model"
+****** "desired set of properties of the samples"
+***** Generate music given a set of tags
+****** Needed to "insert biases that depend on binary representations of tags specifying e.g. genre or instruments"
+*** Speech recognition
+** Conclusions
+*** receptive fields should grow exponentially
+**** important to model long range temporal dependencies in audio signals
+* Web site
+** Introduction
+*** deep generative model of raw audio waveforms
+*** generate speech which mimics humans
+**** sounds more natural than best TTS
+**** reduces gap with human performance by 50%
+*** can be used to generate "striking samples of automatically generated piano pieces"
+** Talking machines
+*** Researcher's have long desired "parametric TTS"
+**** Has parameters
+**** Does not require different model for mood etc.
+**** Existing parametric TTS uses vocoders
+**** Previous state of the art has been concatenative TTS
+***** large db of short fragments
+** WaveNets
+*** Structure
+**** All samples dependant on previous samples
+**** PixelRNN and PixelCNN provide performant means of providing this
+**** Receptive field grows exponentially
+**** Training
+***** Input is real waveforms
+***** Network is sampled to produce synthetic utterances
+***** At each step a sample value is drawn from probability distribution computed by network and used as input for next step
+**** Building up samples is expensive
+***** but essential for generating realistic-sounding audio
+*** Improving state of the art
+**** Works better than concatenative and parametric - 50% closer to human performance
+**** measured using MOS - Mean Opinion Score
+*** Knowing what to say
+Strings specified during training?
+more convincing when trained on multiple voices rather than one
+
+*** Making music
+Not yet been trained on musical score

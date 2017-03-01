@@ -1,0 +1,82 @@
+* Creative tripod
+** Kermit
+*** Skillful
+**** Really good at drawing circles
+**** Matching colours
+**** distorting the image
+*** Appreciative
+**** Does it appreciate the input image?
+***** Claims Collomosse's system of saliency detection is appreciation
+***** Is colour of circle to be drawn salient here?
+*** Imaginative
+**** Not imaginative at all
+**** Does exactly as author describes
+
+** Markov
+*** Skillful
+**** OK - sometimes fails
+*** Appreciative
+**** Not at all of own output
+**** Has system appreciated structures in original text?
+*** Imaginative
+**** Produces things outside of programmers expectations
+**** realistic model of world
+
+Non-programmer
+
+** Adjective replacer
+*** Less skillful than Markov
+*** Appreciative
+**** No
+**** Appreciates adjectives?
+*** Imaginative
+**** Random selection
+
+* FACE
+** <C, E>
+** Systems can only express one concept
+** None measure aesthetic
+** None provide English framing information
+** Doesn't generate any of them
+
+
+* SPECS
+
+** Kermit
+*** Active involvement and persistence
+*** Domain competence
+*** Generation of results
+*** Value
+
+** Markov
+*** Active involvement and persistence
+*** Domain competence
+*** Independence and freedom
+*** Originality
+*** Variety, divergence and experimentation
+    
+
+* How good is the system?
+
+** Kermit
+*** Objective
+**** Good clear circles
+**** Circles cover whole image
+*** Subjective
+**** Output is pretty
+
+** Markov/adjective
+*** Objective
+**** Produces output with clear meaning? Strong grammer
+*** Subjective
+**** Improves story
+
+
+
+* Markov
+** Skillful
+*** not on there own
+*** accurate
+
+
+* Framing through observation

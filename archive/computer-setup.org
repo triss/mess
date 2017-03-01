@@ -1,0 +1,204 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/Tristan/Dropbox/org/computer-setup.org
+
+
+* DONE [#A] multiple files
+CLOSED: [2016-10-04 Tue 06:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 21:46
+:ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+:ARCHIVE_OLPATH: Orgmode setup
+:ARCHIVE_CATEGORY: computer-setup
+:ARCHIVE_TODO: DONE
+:END:
+** https://www.gnu.org/software/emacs/manual/html_node/elisp/Contents-of-Directories.html
+
+* DONE Archiving
+CLOSED: [2016-10-04 Tue 21:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 21:48
+:ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+:ARCHIVE_OLPATH: Orgmode setup
+:ARCHIVE_CATEGORY: computer-setup
+:ARCHIVE_TODO: DONE
+:END:
+,A
+
+* DONE Replace multiple
+CLOSED: [2016-10-03 Mon 11:18]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 21:48
+:ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+:ARCHIVE_OLPATH: Orgmode setup
+:ARCHIVE_CATEGORY: computer-setup
+:ARCHIVE_TODO: DONE
+:END:
+SPC s e - edit multiple
+https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org
+
+* DONE Distraction free
+CLOSED: [2016-10-03 Mon 11:20]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-10-04 Tue 21:48
+:ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+:ARCHIVE_OLPATH: Orgmode setup
+:ARCHIVE_CATEGORY: computer-setup
+:ARCHIVE_TODO: DONE
+:END:
+SPC w M
+
+* DONE [#B] beginners doc
+  CLOSED: [2016-10-07 Fri 10:09]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 11:56
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: Orgmode setup
+  :ARCHIVE_CATEGORY: computer-setup
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* do email one day?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-12 Wed 11:57
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: Orgmode setup
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+
+
+* DONE email Inbox, sent and deleted items
+  CLOSED: [2016-10-13 Thu 11:45]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 11:45
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: Orgmode setup
+  :ARCHIVE_CATEGORY: computer-setup
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO Kanban?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 11:46
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: organisation setup
+  :ARCHIVE_CATEGORY: computer-setup
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* How to R style "dist" - i.e. distances of all points from one another in matrix
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-14 Fri 08:18
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: Clojure environment
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+See "Distance and Dimension reduction" from HDDA MOOC
+Sent mail to Incanter group
+Was dot product thing
+
+* Orgmode setup
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-14 Fri 13:11
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+:LOGBOOK:
+CLOCK: [2016-10-12 Wed 10:30]--[2016-10-12 Wed 12:12] =>  1:42
+CLOCK: [2016-10-12 Wed 14:00]--[2016-10-12 Wed 18:00] =>  4:00
+CLOCK: [2016-10-04 Tue 21:38]--[2016-10-04 Tue 22:45] =>  1:07
+CLOCK: [2016-10-04 Tue 06:36]--[2016-10-04 Tue 06:55] =>  0:19
+CLOCK: [2016-10-03 Mon 20:24]--[2016-10-03 Mon 21:19] =>  0:55
+CLOCK: [2016-10-03 Mon 19:30]--[2016-10-03 Mon 19:51] =>  0:21
+CLOCK: [2016-10-03 Mon 18:24]--[2016-10-03 Mon 18:30] =>  0:06
+CLOCK: [2016-10-03 Mon 12:00]--[2016-10-03 Mon 12:06] =>  0:06
+CLOCK: [2016-10-03 Mon 11:41]--[2016-10-03 Mon 12:01] =>  0:20
+CLOCK: [2016-10-03 Mon 11:15]--[2016-10-03 Mon 11:34] =>  0:19
+:END:
+- [ ] zotero -> bibtex
+- [ ] relative paths to org files
+- [ ] Think through tags
+-* http://orgmode.org/manual/Setting-tags.html#Setting-tags
+- [ ] Proper agenda view
+- [ ] Week numbering
+- [ ] Calendar
+- [ ] Learn tables
+- [ ] Print to PDF
+   Installed mactex
+
+* attempted to fetch from goldbaby site
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-16 Sun 17:51
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: download samples
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+#+BEGIN_SRC shell
+  cd ~/Downloads
+  mkdir goldbaby
+  cd goldbaby
+  wget -rH -A.zip http://www.goldbaby.co.nz/freestuff.html
+#+END_SRC
+sadly failed due to probable mediafire weirdness
+
+#+RESULTS:
+
+
+* fuzzy time
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-19 Wed 13:16
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: emacs
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+  :LOGBOOK:
+  CLOCK: [2016-10-17 Mon 19:39]
+  :END:
+
+* mu4e
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-25 Tue 18:30
+  :ARCHIVE_FILE: ~/Dropbox/org/computer-setup.org
+  :ARCHIVE_OLPATH: emacs
+  :ARCHIVE_CATEGORY: computer-setup
+  :END:
+
+
+ ;; mu4e
+ ;(setq mu4e-maildir "~/.mail/uni"
+
+ ;      mu4e-drafts-folder "/Drafts"
+ ;      mu4e-sent-folder   "/Sent Items"
+ ;      mu4e-trash-folder  "/Trash"
+ ;      mu4e-refile-folder "/Archive"
+
+ ;      mu4e-get-mail-command "mbsync -a"
+
+ ;      mu4e-update-interval 300
+
+ ;      mu4e-compose-signature-auto-include nil
+ ;      mu4e-view-show-images t
+ ;      mu4e-view-show-addresses t
+
+ ;      mu4e-maildir-shortcuts '(("/Inbox"      . ?i)
+ ;                               ("/Sent Items" . ?s)
+ ;                               ("/Trash"      . ?t)
+ ;                               ("/Drafts"     . ?d))
+
+ ;      mu4e-enable-notifications t
+ ;      mu4e-enable-mode-line t)
+
+ ;(with-eval-after-load 'mu4e-alert
+ ;  (mu4e-alert-set-default-style 'notifier))
+
+ ;;; mu4e html rendering
+ ;(require 'mu4e-contrib)
+
+ ;(setq mu4e-html2text-command 'mu4e-shr2text)
+ ;(add-hook 'mu4e-view-mode-hook
+ ;          (lambda()
+ ;            ;; try to emulate some of the eww key-bindings
+ ;            (local-set-key (kbd "<tab>") 'shr-next-link)
+ ;            (local-set-key (kbd "<backtab>") 'shr-previous-link)))
+

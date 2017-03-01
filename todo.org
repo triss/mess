@@ -1,0 +1,158 @@
+#+STARTUP: hidestars indent
+
+* How does/can re-representation drive the creative process?
+
+* Goals
+** This year
+** This term
+*** Understand each years goal 
+**** Plan of time
+**** Monthly plan for first year
+**** Broader later
+*** Literature review
+**** draft chapter
+**** Understand CCE methodologies
+*** Produce paper for ICCC2017
+*** Understand Principle Component Analysis
+*** Understand concepts
+
+* Reading                                                           :reading:
+
+** Wish list
+*** NEvAr evolutionary art system 
+GA distinguished by it being able to work fully automatically using a fitness function
+*** Collomosse Saliency maps 
+to enable fine detail painting of regions of interest
+** Eval
+*** TODO [#A] Ventura why is MG not enough?           :anna:imitation:eval:
+   :PROPERTIES:
+   :Effort:   1:30
+   :END:
+   :LOGBOOK:
+   CLOCK: [2016-12-21 Wed 12:49]--[2016-12-21 Wed 13:14] =>  0:25
+   :END:
+What's missing?
+What makes it awesome?
+*** TODO Are all MG locations no longer MG?
+*** TODO [#A] Ventura - deep dive on evaluation location and framing info produced :anna:imitation:eval:
+   :PROPERTIES:
+   :Effort:   2:0
+   :END:
+*** TODO [#A] Anna and Bill's creativity analysis paper
+*** TODO [#B] Full FACE poetry generation             :anna:imitation:eval:
+ [[file:~/Dropbox/org/cce.org::*Axis%20of%20CC%20space][Axis of CC space]]
+*** TODO [[message://5413AEDE-2846-4536-8A0F-63D9DE5D3F95@kent.ac.uk][Fwd: COINVENT - D5.3, evaluation]]                            :eval:
+*** TODO [#B] [[file:~/Documents/Papers/references.bib::ritchie_2007][Ritchie 2007: Some Empirical Criteria]]   :anna:imitation:eval:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+*** TODO [#B] Evaluating evaluation by Anna                :imitation:eval:
+   :PROPERTIES:
+   :Effort:   2:0
+   :END:
+
+[[file:~/Dropbox/org/cce.org::*Mapping%20MG->CC%20space%20to%20Pease%20&%20Colton's%20six%20stages][Mapping MG->CC space to Pease & Colton's six stages]]
+*** TODO [#B] Ritchie's Intentioanlity paper                    :anna:eval:
+   :PROPERTIES:
+   :Effort:   2:0
+   :END:
+
+ [[file:~/Dropbox/org/cce.org::*Intentionality%20-%20deal%20with%20/process/][Intentionality - deal with /process/]]
+*** TODO [#B] Finish Anna's thesis                         :imitation:eval:
+   :PROPERTIES:
+   :Effort:   3:0
+   :END:
+
+[[file:~/Dropbox/org/cce.org::*Ch.%202%20-%20Critical%20review%20of%20previous%20CCE%20work][Ch. 2 - Critical review of previous CCE work]]
+*** TODO Creativity vs perception of creativity - Colton
+** TODO [#B] Find anti-imitation slides from ICCC            :imitation:eval:
+   :PROPERTIES:
+   :Effort:   0:5
+   :END:
+It's on ICCC2016 site - under workshops?
+** TODO [#B] [[file:~/Documents/Papers/references.bib::boden_2016][Boden 2016: Is Deep Dreaming New Collage]]   :anna:imitation:eval:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+** TODO Look at Harvey PQRS                                       :concepts:
+[[file:concepts.org::*Inman%20Harvey:%20The%20origins%20and%20self-maintenance%20of%20representing][Inman Harvey: The origins and self-maintenance of representing]]
+** TODO Magenta
+Original paper
+** TODO McCarthy - Programs with common sense
+Alan Kay says I should read
+** TODO [[message://584A93C9.4060305@kent.ac.uk][{cs-compint} Report on AI]]
+* Long Tasks
+** TODO [#A] ICCC paper plan                                 :anna:imitation:
+   DEADLINE: <2016-12-28 Wed>
+   :PROPERTIES:
+   :Effort:   3:00
+   :END:
+Activities - Gannt - milestones
+What I'm going read
+Questioning assumption - filling out debate
+** TODO [#B] Are creativity and imitation best words? :code:concepts:imitation:
+   :PROPERTIES:
+   :Effort:   0:20
+   :END:
+
+ [[file:~/code/imitation-creativity-meaning/src/core.org::*Comparing%20creativity%20and%20imitation][Comparing creativity and imitation]]
+** TODO [#B] What does evaluate mean in computing literature?          :eval:
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+** TODO [#B] Find antonyms for creativity, imitation and component concepts :code:imitation:
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+** TODO [#B] Can I build conceptual representation of imitation and creativity? :code:concepts:imitation:
+   :PROPERTIES:
+   :Effort:   1:30
+   :END:
+** TODO [#C] 30 second spiel
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+
+  [[file:~/Dropbox/org/getting-organised.org::*Getting%20organised][Getting organised]]
+** TODO [#C] HDDA MOOC
+   :PROPERTIES:
+   :Effort:   4:00
+   :END:
+   :LOGBOOK:
+   :END:
+
+  [[file:~/Dropbox/org/data-analysis.org::*Introduction%20to%20Statistics%20and%20R%20for%20the%20Life%20Sciences][Introduction to Statistics and R for the Life Sciences]]
+** TODO Five minute presentation
+[[message://584E8E57.8010904@kent.ac.uk][Re: Task and next meeting]]
+* Quick Tasks
+** TODO Register for ML co832 - Masters
+** TODO Register for AISB
+[[message://8DEA2ACB-0244-4F73-B42B-67CFFF834FC4@kent.ac.uk][Fwd: Please Distribute: 4th AISB Symposium on Computational Creativity]]
+** Register for CSMC
+*** Ask Anna first
+[[message://3032967030431489.WA.robin.laneygmail.com@www.jiscmail.ac.uk][Computer Simulation of Musical Creativity 2017]]
+** TODO Fix workshop attendance stuff
+[[message://E1cCPe0-0001jS-4B@bloom.kent.ac.uk][Second workshop non attendance]]
+** TODO Mail people I've got to present about
+[[message://584E8E57.8010904@kent.ac.uk][Re: Task and next meeting]]
+* Code projects
+** CC services
+*** TODO [#B] Look at Veale's Theasaurus-Rex nuance/category definitions :code:imitation:
+   :PROPERTIES:
+   :Effort:   0:30
+   :END:
+
+ [[file:~/imitation-creativity-meaning/src/core.org::*Namespace:%20imitation-creativity-meaning.core][Namespace: imitation-creativity-meaning.core]]
+*** TODO Fix TREX clojure wrapper
+** TODO Play with Magenta
+** WordNet spec - tidy up and publish
+** Generate definitions of creativity
+** Re-cluster Anna's words?
+* People
+** TODO [#A] Ventura etc [[message://554A02AA-691F-47DE-87AE-7545F6F93961@cs.byu.edu][Re: Introductions and mere generation]]
+** TODO [#A] Joe SOA, Clojure, SPEC                                    :anna:
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   [[message://CABQkF0n5-oxWU5ZDJ_a4i4TRcVoJFmXenPJBLkJ73YbgJSRxog@mail.gmail.com][Fwd: Scholar Alert - Anna Jordanous - new citations]]
+

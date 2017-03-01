@@ -1,0 +1,691 @@
+* presentation
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzhvcjQ0ZzltOGQyamViYTU2c3FqYWI5azg0cjNlYmExNjBxamFiOWg2ZDBqY2NobTZwMWphZGkxNmsgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _8or44g9m8d2jeba56sqjab9k84r3eba160qjab9h6d0jcchm6p1jadi16k
+  :END:
+
+  <2016-10-06 Thu 07:30-08:00>
+
+We are very excited to start the year with an awesome presentation and introduction to what our society is about on 5th October at 7:30pm.
+
+* Week 5
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY0b2phZTFtNjBxMzRiOWk2Z28zNGI5azhwMzRhYjlwNjUxNDZiOWs4bDE0OGNwbThvcWphZDI1Nmsgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _64ojae1m60q34b9i6go34b9k8p34ab9p65146b9k8l148cpm8oqjad256k
+  :END:
+
+  <2016-10-24 Mon>--<2016-10-28 Fri>
+* Start the week
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcxMmo0ZHBpNnNxNDZiOWc4ZDM0YWI5azhkMTRjYjlvNm9yamliOWw2dDFqZWRobDhwMms4ZHBpNzQgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _712j4dpi6sq46b9g8d34ab9k8d14cb9o6orjib9l6t1jedhl8p2k8dpi74
+  :END:
+
+  <2016-10-24 Mon 09:00-12:00>
+* Arya's birthday
+  :PROPERTIES:
+  :LOCATION: Cargo Bar and Bistro <cargobar@kent.ac.uk>
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZncjQ2ZzltNnAzM2ViOWg2bDE0OGI5azhoMmowYjlwNjRvajBiOW82MHEzMmc5aTZzcjRhZHE0NnMgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _6gr46g9m6p33eb9h6l148b9k8h2j0b9p64oj0b9o60q32g9i6sr4adq46s
+  :END:
+
+  <2016-10-24 Mon 12:00-13:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjEwMjRUMTIwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161024T120000Z
+  :END:
+
+  <2016-10-24 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjEwMjRUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161024T130000Z
+  :END:
+
+  <2016-10-24 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjEwMjRUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161024T140000Z
+  :END:
+
+  <2016-10-24 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjEwMjRUMTcwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161024T170000Z
+  :END:
+
+  <2016-10-24 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjEwMjVUMDcwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161025T070000Z
+  :END:
+
+  <2016-10-25 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjEwMjVUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161025T080000Z
+  :END:
+
+  <2016-10-25 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjEwMjZUMTMzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161026T133000Z
+  :END:
+
+  <2016-10-26 Wed 14:30-15:30>
+* co0320 Meeting
+  :PROPERTIES:
+  :LOCATION: Yang's room
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYxMjM2Y3BnNmdwNGNiOWw2OTE0YWI5azg0cTQ2YmEyNnQyMzJiOWo2dDJrNmRxNDZzcmpjaDFuNm8gc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _61236cpg6gp4cb9l6914ab9k84q46ba26t232b9j6t2k6dq46srjch1n6o
+  :END:
+
+  <2016-10-27 Thu 11:00-12:00>
+* Week 6
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZnb2owZTlsNmdzamdiOWc4OTFqOGI5azY1MWs2YmExNjkzM2ViOW84bDBqMmVhMTZwMWphZ2k0NjQgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _6goj0e9l6gsjgb9g891j8b9k651k6ba16933eb9o8l0j2ea16p1jagi464
+  :END:
+
+  <2016-10-31 Mon>--<2016-11-04 Fri>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjEwMzFUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161031T130000Z
+  :END:
+
+  <2016-10-31 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjEwMzFUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161031T140000Z
+  :END:
+
+  <2016-10-31 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjEwMzFUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161031T150000Z
+  :END:
+
+  <2016-10-31 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjEwMzFUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161031T180000Z
+  :END:
+
+  <2016-10-31 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjExMDFUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161101T080000Z
+  :END:
+
+  <2016-11-01 Tue 08:00-09:00>
+* Unix
+  :PROPERTIES:
+  :LOCATION: G4-05
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjbzNpZDlsNmtyNGNiOWg4Y3MzaWI5azc0b2ppYjlvOGQyajBiOWs4cDEzMGRwcDYwc2s2YzFrNmsgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _6co3id9l6kr4cb9h8cs3ib9k74ojib9o8d2j0b9k8p130dpp60sk6c1k6k
+  :END:
+
+  <2016-11-01 Tue 09:00-11:00>
+* Unix
+  :PROPERTIES:
+  :LOCATION: M3-28
+  :LINK: [[https://www.google.com/calendar/event?eid=XzhvbzNlaGhqODkzNDZiYTQ2OHMzZWI5azZnbzNpYjlvNjkxa2NiOW83MHNqZWVhMjZjc2pnY2hpNzAgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _8oo3ehhj89346ba468s3eb9k6go3ib9o691kcb9o70sjeea26csjgchi70
+  :END:
+
+  <2016-11-01 Tue 13:00-15:00>
+* Medway Research Seminars
+  :PROPERTIES:
+  :LOCATION: Intelectual Hub, Medway Building
+  :LINK: [[https://www.google.com/calendar/event?eid=XzhkMjNhZ3BnNmNvajhiOW82dDEzZWI5azYwbzNjYjlvNjhvNGNiYTE2cDIzNGgxaDZjczNhZDlwOG8gc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _8d23agpg6coj8b9o6t13eb9k60o3cb9o68o4cba16p234h1h6cs3ad9p8o
+  :END:
+
+  <2016-11-01 Tue 14:30-16:00>
+* Finding and managing references
+  :PROPERTIES:
+  :LOCATION: DC107, Drill Hall Library
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZwMGpnZGhrNmNzM2NiOWk4OTBrNmI5azZ0MmphYjlvNmwzNDRiOWc4Y3FqNmRobDY0c2s2ZzlqODggc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _6p0jgdhk6cs3cb9i890k6b9k6t2jab9o6l344b9g8cqj6dhl64sk6g9j88
+  :END:
+
+  <2016-11-02 Wed 10:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjExMDJUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161102T143000Z
+  :END:
+
+  <2016-11-02 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjExMDJUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161102T153000Z
+  :END:
+
+  <2016-11-02 Wed 15:30-17:00>
+* Designing Interfaces for Creativity Symposium
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=X2FoOWoyYjlsOGwyNGFoYTY4a3JpcWdwaDhncWlxZDFuNjhvaXFlMWg4Z3IycWdwaDcwczNjZGhnNzEwazJjcGkgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _ah9j2b9l8l24aha68kriqgph8gqiqd1n68oiqe1h8gr2qgph70s3cdhg710k2cpi
+  :END:
+
+  <2016-11-03 Thu>--<2016-11-04 Fri>
+
+<2016-11-03 Thu>–<2016-11-04 Fri>
+
+[https://desinc.mfm.sussex.ac.uk]
+* Week 7
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg0bzM2aGE0ODkzM2FiYTQ2Z3IzMmI5azg0cTNnYjlwNnNvajZiYTU2ZDM0Y2hhMjg4cDM0Z2hsNmcgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _84o36ha48933aba46gr32b9k84q3gb9p6soj6ba56d34cha288p34ghl6g
+  :END:
+
+  <2016-11-07 Mon>--<2016-11-11 Fri>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjExMDdUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161107T130000Z
+  :END:
+
+  <2016-11-07 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjExMDdUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161107T140000Z
+  :END:
+
+  <2016-11-07 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjExMDdUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161107T150000Z
+  :END:
+
+  <2016-11-07 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjExMDdUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161107T180000Z
+  :END:
+
+  <2016-11-07 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjExMDhUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161108T080000Z
+  :END:
+
+  <2016-11-08 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjExMDhUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161108T090000Z
+  :END:
+
+  <2016-11-08 Tue 09:00-13:00>
+* Project/Grant Development Workshop: Making Digital Humanities work for you
+  :PROPERTIES:
+  :LOCATION: Room M3-27
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcxMWppZDFsOGNvazhiOWk2OHBqZWI5azZjcms2YmExNm9wa2FiYTU4Y3NrYWgxbjg4bzM2YzI2Nmcgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _711jid1l8cok8b9i68pjeb9k6crk6ba16opkaba58cskah1n88o36c266g
+  :END:
+
+  <2016-11-09 Wed 10:00-16:00>
+
+For details, click here: https://www.eventbrite.co.uk/e/projectgrant-development-workshop-making-digital-humanities-work-for-you-tickets-28738907847
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjExMDlUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161109T143000Z
+  :END:
+
+  <2016-11-09 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjExMDlUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161109T153000Z
+  :END:
+
+  <2016-11-09 Wed 15:30-17:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjExMTRUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161114T130000Z
+  :END:
+
+  <2016-11-14 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjExMTRUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161114T140000Z
+  :END:
+
+  <2016-11-14 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjExMTRUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161114T150000Z
+  :END:
+
+  <2016-11-14 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjExMTRUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161114T180000Z
+  :END:
+
+  <2016-11-14 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjExMTVUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161115T080000Z
+  :END:
+
+  <2016-11-15 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjExMTVUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161115T090000Z
+  :END:
+
+  <2016-11-15 Tue 09:00-13:00>
+* Fundamentals of Statistics day 1
+  :PROPERTIES:
+  :LOCATION: G4-03 (Gillingham building), Medway
+  :LINK: [[https://www.google.com/calendar/event?eid=XzhnbzMyZzlrNmtwM2NiYTE2ZDE0Y2I5azZkMjQ4YjlwODUyamliYTI2MG8zNGRpMzZrcmowaDI1OGMgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _8go32g9k6kp3cba16d14cb9k6d248b9p852jiba260o34di36krj0h258c
+  :END:
+
+  <2016-11-16 Wed 10:00-17:00>
+
+Descriptive statistics&graphics
+ - Frequencies&percentages
+ - Bar charts
+- Means, medians, s.d., range, percentiles etc
+- Histograms
+- Stem&leaf plots
+- Boxplots
+Probability
+Normal distribution
+Inferential statistics 
+- Inferrring the mean of a population (confidence intervals)
+- Hypothesis testing
+- Comparison of means (t-tests, Oneway ANOVA)
+- Non-parametric comparison [Wilcoxon, Mann-Whitney]
+- Relating categorical variables (Chi-square test, Fishers exact test)
+- Relating quantitative variables (Correlation, Linear regression)
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjExMTZUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161116T143000Z
+  :END:
+
+  <2016-11-16 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjExMTZUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161116T153000Z
+  :END:
+
+  <2016-11-16 Wed 15:30-17:00>
+* Research cafe
+  :PROPERTIES:
+  :LOCATION: SSPSSR Student Space (Cornwallis East, 3rd Floor)
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg0b2tjZ2E1NjBxazJiOW82MG9qOGI5azZnb2owYjlvNjRyamViOW42MHAzMGgxaDZnczMwZTFvODggc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _84okcga560qk2b9o60oj8b9k6goj0b9o64rjeb9n60p30h1h6gs30e1o88
+  :END:
+
+  <2016-11-17 Thu 14:00-16:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjExMjFUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161121T130000Z
+  :END:
+
+  <2016-11-21 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjExMjFUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161121T140000Z
+  :END:
+
+  <2016-11-21 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjExMjFUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161121T150000Z
+  :END:
+
+  <2016-11-21 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjExMjFUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161121T180000Z
+  :END:
+
+  <2016-11-21 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjExMjJUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161122T080000Z
+  :END:
+
+  <2016-11-22 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjExMjJUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161122T090000Z
+  :END:
+
+  <2016-11-22 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjExMjNUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161123T143000Z
+  :END:
+
+  <2016-11-23 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjExMjNUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161123T153000Z
+  :END:
+
+  <2016-11-23 Wed 15:30-17:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjExMjhUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161128T130000Z
+  :END:
+
+  <2016-11-28 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjExMjhUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161128T140000Z
+  :END:
+
+  <2016-11-28 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjExMjhUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161128T150000Z
+  :END:
+
+  <2016-11-28 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjExMjhUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161128T180000Z
+  :END:
+
+  <2016-11-28 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjExMjlUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161129T080000Z
+  :END:
+
+  <2016-11-29 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjExMjlUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161129T090000Z
+  :END:
+
+  <2016-11-29 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjExMzBUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161130T143000Z
+  :END:
+
+  <2016-11-30 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjExMzBUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161130T153000Z
+  :END:
+
+  <2016-11-30 Wed 15:30-17:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjEyMDVUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161205T130000Z
+  :END:
+
+  <2016-12-05 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjEyMDVUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161205T140000Z
+  :END:
+
+  <2016-12-05 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjEyMDVUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161205T150000Z
+  :END:
+
+  <2016-12-05 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjEyMDVUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161205T180000Z
+  :END:
+
+  <2016-12-05 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjEyMDZUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161206T080000Z
+  :END:
+
+  <2016-12-06 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjEyMDZUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161206T090000Z
+  :END:
+
+  <2016-12-06 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjEyMDdUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161207T143000Z
+  :END:
+
+  <2016-12-07 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjEyMDdUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161207T153000Z
+  :END:
+
+  <2016-12-07 Wed 15:30-17:00>
+* FAIRS 2016
+  :PROPERTIES:
+  :LOCATION: Peterhouse College, University of Cambridge
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjbzQ0ZDlsNmQxajBiOWc2Z3BrNmI5azg5MjMwYmEyOGdzM2liOWo4Y3JqNGMxaDcwcjNnY2E1OGMgc2pxZG8wcjczbmdoZXM4ZWo5MnIyZnVsZmdAZw][Go to gcal web page]]
+  :ID: _6co44d9l6d1j0b9g6gpk6b9k89230ba28gs3ib9j8crj4c1h70r3gca58c
+  :END:
+
+  <2016-12-12 Mon>
+
+MobileOrg:mobileorg.org
+Guidance on conducting research and writing the thesis
+    Advice on undergoing a viva
+    Advice and discussion on careers after a PhD
+    The chance to meet other research students and develop networks
+    An opportunity to discuss  work with senior researchers and practitioners
+
+:LOCATION: Peterhouse College, University of Cambridge
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjEyMTJUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161212T130000Z
+  :END:
+
+  <2016-12-12 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjEyMTJUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161212T140000Z
+  :END:
+
+  <2016-12-12 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjEyMTJUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161212T150000Z
+  :END:
+
+  <2016-12-12 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjEyMTJUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161212T180000Z
+  :END:
+
+  <2016-12-12 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjEyMTNUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161213T080000Z
+  :END:
+
+  <2016-12-13 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjEyMTNUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161213T090000Z
+  :END:
+
+  <2016-12-13 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjEyMTRUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161214T143000Z
+  :END:
+
+  <2016-12-14 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjEyMTRUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161214T153000Z
+  :END:
+
+  <2016-12-14 Wed 15:30-17:00>
+* Bus -> Canterbury
+  :PROPERTIES:
+  :LOCATION: Medway bus stop
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZjcmoyZGExNjhvNDhiOWk2a3IzMGI5azZwMmo0YjlvNmdza2NiOW82b3FqZWhhNDY1MmpjYzlrNjRfMjAxNjEyMTlUMTMwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6crj2da168o48b9i6kr30b9k6p2j4b9o6gskcb9o6oqjeha4652jcc9k64_20161219T130000Z
+  :END:
+
+  <2016-12-19 Mon 13:00-14:00>
+* COMPINT
+  :PROPERTIES:
+  :LOCATION: SW101, Canterbury, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwcWpjY3BpNmNya2FiOW44OHBqNGI5azc0czNnYjlwNmQzMzRiYTU4aDFqNmRoazZkMWowZGk0ODRfMjAxNjEyMTlUMTQwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70qjccpi6crkab9n88pj4b9k74s3gb9p6d334ba58h1j6dhk6d1j0di484_20161219T140000Z
+  :END:
+
+  <2016-12-19 Mon 14:00-15:00>
+* Colin
+  :PROPERTIES:
+  :LOCATION: Colin's office
+  :LINK: [[https://www.google.com/calendar/event?eid=XzYwcDQ2Z2hrNjEyajRiYTM2Y28zZ2I5azYxMzNlYmExNjEwajBiYTY4OHA0YWdocDcwcGphY2hvNzRfMjAxNjEyMTlUMTUwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _60p46ghk612j4ba36co3gb9k6133eba1610j0ba688p4aghp70pjacho74_20161219T150000Z
+  :END:
+
+  <2016-12-19 Mon 15:00-17:00>
+* Bus -> Gillingham
+  :PROPERTIES:
+  :LOCATION: Darwin, University of Kent
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZoMmppZDI2NjUyajhiOWk2OTJqZWI5azY0cWppYjlwNjBxMzhiYTM4NHJqNmQ5bjhrczNjZWExNjhfMjAxNjEyMTlUMTgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _6h2jid26652j8b9i692jeb9k64qjib9p60q38ba384rj6d9n8ks3cea168_20161219T180000Z
+  :END:
+
+  <2016-12-19 Mon 18:00-19:00>
+* co0320 Prep
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY5MzQ2Z3EyNzRvMzJiOW03NHJqNGI5azhwMzRhYjlvNjBwajRiYTU3MHE0NmdhNTY1MWs0Y2hrNnNfMjAxNjEyMjBUMDgwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _69346gq274o32b9m74rj4b9k8p34ab9o60pj4ba570q46ga5651k4chk6s_20161220T080000Z
+  :END:
+
+  <2016-12-20 Tue 08:00-09:00>
+* co0320
+  :PROPERTIES:
+  :LOCATION: G4-04
+  :LINK: [[https://www.google.com/calendar/event?eid=Xzg4bzM0ZTlnNnQxM2diOWg2NHI0MmI5azZoMWs4YmExNmNwajZiOXA3NTIzaWhobjY1MjNjaDFrNjRfMjAxNjEyMjBUMDkwMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _88o34e9g6t13gb9h64r42b9k6h1k8ba16cpj6b9p7523ihhn6523ch1k64_20161220T090000Z
+  :END:
+
+  <2016-12-20 Tue 09:00-13:00>
+* COMP Futures
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzcwbzMwZDFqOGgyMzRiOWg2a28zaWI5azg0cjMyYjlwNmtyM2NiOWo2a3BqNmU5bzhnc2pnY3EzNjRfMjAxNjEyMjFUMTQzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _70o30d1j8h234b9h6ko3ib9k84r32b9p6kr3cb9j6kpj6e9o8gsjgcq364_20161221T143000Z
+  :END:
+
+  <2016-12-21 Wed 14:30-15:30>
+* Anna
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=XzY4cmphZDlvNmgxajRiYTU3NG9qZ2I5azhkMWppYjlwNmtxMzJiOWg4Y3FrMmVhNTZjcDRjZHExNzBfMjAxNjEyMjFUMTUzMDAwWiBzanFkbzByNzNuZ2hlczhlajkycjJmdWxmZ0Bn][Go to gcal web page]]
+  :ID: _68rjad9o6h1j4ba574ojgb9k8d1jib9p6kq32b9h8cqk2ea56cp4cdq170_20161221T153000Z
+  :END:
+
+  <2016-12-21 Wed 15:30-17:00>

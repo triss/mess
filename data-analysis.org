@@ -1,0 +1,58 @@
+* Principle component analysis
+** Wikipedia
+*** Reveals "the internal structure of the data in a way that best explains the variance in the data"
+*** Can provide lower-dimensional projection of model when viewed from "most informative viewpoint"
+*** Intuition
+**** Fits an n-dimensional ellipsoid to data
+***** Each axis is a principle component
+***** if axis is small, then variance along axis is small
+****** and perhaps could be omitted?
+**** Method
+1. Centre data - subtract mean
+2. Calculate covariance matrix
+3. Calculate eigenvalues and eigenvectors
+4. Orthogonalise and Normalise them to become unit vectors
+5. Each mutually orthogonal unit eigenvectors can now be interpreted as an ellipsoid fitted to the data.
+The proportion of the variance that each eigenvector represents can be calculated by dividing the eigenvalue corresponding to that eigenvector by the sum of all eigenvalues.
+System is very sensitive to value scaling.
+*** Principle components
+**** Linearly uncorrelated variables
+Fancy correlations that aren't linear?
+**** Found via orthogonal transformation
+***** ie. Rotation, reflection
+**** Number of principal components is less than number of variables
+**** Sorting principle components
+***** *First* principle component has largest possible variance
+ accounts for as much of the variability in the data as possible
+***** Rest have highest possible variance given it is orthogonal to proceeding variables
+*** Used in /exploratory/ and /predictive/ models
+*** Constructed using
+**** eigenvalue decomposition
+**** covariance
+**** singular value decomposition of a data matrix
+*** Outputs
+**** Component scores (sometimes called factor scores)
+***** the transformed variable values corresponding to a data point
+**** Loadings
+***** weight by which standardised original variable should be multiplied by to get component score
+** Hyvarinen, 2009
+*** Basic idea
+**** Mean and variance characterise data - not very well
+**** PCA describes "how the data cloud is elongated or directed"
+**** Idea is to find the "main axis" of the data cloud
+**** "principal axis explains more of the variance of the data than projection on any other axis"
+**** Deflation
+***** Process for finding nth PA
+*** Dimension reduction by PCA
+**** "reducing the dimension of the data so the maximum amount of variance is preserved."
+**** Number of new variables might be 1% or 10% of original number
+**** tries to "preserve as much information on the original data as possible"
+
+* EDx MOOC
+** Introduction to Statistics and R for the Life Sciences
+** High Dimensional Data Analysis
+*** Week 1 - Distance and Dimension Reduction
+**** Clustering requires defined distance
+**** Distance measures
+***** Euclidean
+******* Cross product allows distance squared to be computed very quickly

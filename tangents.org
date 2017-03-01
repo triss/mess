@@ -1,0 +1,148 @@
+#+STARTUP: hidestars indent
+* Computing needs expanding at both levels
+high level - human interaction
+low level - performance 
+
+
+** CC community desires
+cite:pease_impact_2011-1
+*** framing info 
+**** performance
+ hypothetical SC server spawning example
+**** interaction
+actually be able to explain stuff in a meaningful way
+
+** link this back to code?
+* Evaluation impacts future
+  :LOGBOOK:
+  CLOCK: [2016-10-21 Fri 20:12]--[2016-10-21 Fri 20:12] =>  0:00
+  :END:
+  
+In many systems evaluation impacts future actions
+In computing this is true in many sense but not all
+How can evaluation of a situation impact future processing?
+- Occurs in if/case statements etc
+- State
+
+But creative evaluation?
+* All actions are creative, it's the evaluator that tells us why
+In many cases that is us.
+* Evaluator frames - actor creates
+* Does creativity come from whatever occurs to us first?
+[[file:~/Dropbox/org/concepts.org::*In%20some%20situations%20we%20might%20just%20select%20whatever%20"occurs%20to%20us"%20first?][In some situations we might just select whatever "occurs to us" first?]]
+* Creativity is a side effect not a process?
+side effect's are typically undesirable
+what i mean is creativity is not focus of system
+it is a side effect of how system works
+** evolution has no purpsose
+*** yet it's *created* more than any other system
+**** it's output is novel due to the means in which it copies
+**** its output is useful because of survival of the fittest
+***** who is to sa y what's useful when it comes to being alive?
+****** failed mutations = disabled people
+*** whats the reason evolution hasn't been evolved past?
+**** it's a particularly robust system
+* Barliman
+
+Logic programming - used to produce functional programs
+Is it creative?
+* Google's zero-shot learning
+
+learning korean without having been exposed to it
+* Game theory and machine learning
+
+** NN compete
+
+*** adversarial network
+**** has a 
+***** generator
+
+****** creates fake images
+
+***** discriminator
+
+****** detects fake images
+
+**** no closed loss function required
+
+**** difficult to train
+
+***** Got to find a Nash Equilibrium
+
+** Classical view ML
+
+*** Problems cast as optimisation problem
+
+**** searching for optimal solution
+
+*** Optimising - over fits
+
+**** we want to preform well on data we haven't yet seen
+
+***** generalisation
+
+***** to stop over-fir we use regularisations
+
+*** Regularisation
+
+**** structural risk minimisation
+
+*** generalisation strategies built in manner similar to how parties mitigate risk
+* Terence Mckenna - Ocean of ideas
+
+A good meme is a meme that doesn't close its cycles
+
+Goedel's incomenserability theorem
+
+Preserve a lack of closure
+
+Open endedness is a threat
+
+Dominator model seeks finality
+
+Wouldn't want substance affects to affect him during the day
+Radically different from ordinary reality
+
+
+Mystical experience - the flight of the alone
+
+
+** Novelty - as Quality to reality 
+
+*** Knits the world together
+- creates new emergent properties out of the densification of previous states of existence
+- morally neutral force
+- tendency in universe for complexity to conserve itself
+- build lower levels of complexity in to higher levels of organisation
+
+
+** Novelty more and more in world
+* Any rule bound game can be played by a machine
+** Mechanical turk
+
+Some one controls machine.
+Person knows how to play chess.
+Machine is not creative/intelligent etc.
+
+** Chinese box
+
+Man sits in box
+Imitates a machine
+Has instructions on how to respond to each utterance
+Includes whole chinese language
+
+** Turing tests 
+Computer imitates person
+
+* Systems that lie
+
+** Easy 
+
+*** Puts person or concept in to another story
+
+Simple word swap
+* AARON criticised for finger prints but now hes dead
+** but now Cohen's creativity only exists in system
+* It's silly to differentiate between process and artefact since processes are artefacts?
+
+[[file:~/Dropbox/org/cce.org::*highlight%20deficiencies%20in%20artefact%20only%20based%20assessment][highlight deficiencies in artefact only based assessment]]

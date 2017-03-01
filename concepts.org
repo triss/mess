@@ -1,0 +1,514 @@
+#+STARTUP: indent
+
+* Reading
+** The Stanford Encyclopedia of Philosophy - Concepts     :colin:::concepts:
+  :LOGBOOK:
+  CLOCK: [2016-10-17 Mon 15:34]--[2016-10-17 Mon 16:05] =>  0:31
+  CLOCK: [2016-10-17 Mon 14:53]--[2016-10-17 Mon 15:18] =>  0:25
+  CLOCK: [2016-10-17 Mon 13:52]--[2016-10-17 Mon 14:53] =>  1:01
+  :END:
+cite:sep-concepts
+
+*** Summary
+Explores why discussion around concepts happen.
+
+Overview of theories:
+- RTM :: concepts are represented with some language in the mind
+- Abilities :: no translation between languages. everyone different. stops vicious regress
+- Fregean :: concepts are senses?
+
+*** Content
+**** Ontology 
+***** Mental representations
+****** Representational Theory of Mind (RTM)
+******* concepts have internal structure
+******** composed of more basic representations
+********* Old view - Locke and Hume call these /ideas/ - mental images
+********* Current view - Fodor's /language of thought hypothesis/
+********** Like natural language concepts take on "subject/predicate form and include logical devices such as quantifiers and variables"
+********** Default view in cognitive science
+******* Concepts are psychological entities
+******* thinking occurs in an internal system of representation
+******* beliefs, desires and other attitudes represented as symbols
+****** Criticism
+******* Dennett
+******** We know /zebras don't wear overcoats in the wild/ - even though we've never previously considered this.
+******** chess-playing computer thinks that its good to get one's queen out early
+********* although it has no representation of this rule
+******* Associated with "commonsense psychology"
+******* Computational modelling - connectionism and dynamic systems theory
+
+***** Abilities
+****** e.g. CAT concept - ability to discriminate cats from non-cats
+****** Dummett, Bennett & Hacker, Kenny - it's wrong to maintain that concepts are mental particulars
+******* Not mental images or word like entities
+******* Concepts "are abilities that are peculiar to cognitive agents"
+****** Traces back to Wittgenstein - scepticism re: existence of mental representation
+****** Dummett
+******* one can't go on to translate words and sentences of one's first language into a prior mental language
+******* "we still have to ask in what his associating that concept with that image consists"
+******* mental representation itself is just another item whose significance bears explaining
+******** vicious regress
+********* we should stop with the external language
+****** Criticism
+******* does not explain the productivity of thought
+******* says little about mental processes
+         
+***** Fregean senses
+****** Definitions - I had to look up in dictionary - maybe read Frege?
+******* Sense
+ The way in which something is interpreted?
+******* Referent
+ The thing a word stands for?
+******* Propositions
+ Judgement, opinion
+ A statement that can be true or false
+****** "identifies concepts with abstract objects"
+****** "concepts are the constituents of propositions"
+****** "concepts mediate between thoughts and language on one hand, and referents, on the other"
+****** View held by people that think:
+******* mental representations are too "fine-grained for philosophical purposes"
+******* Peacocke, 1992 
+******** "It is possible for one and the same concept to receive different mental representations in different individuals"
+******** rules out concepts that don't fit in humans heads
+******** Concepts should not be "individuated by their possession conditions"
+********* concepts can live outside peoples heads
+****** Senses 
+******* sit outside "causal realm"
+******* provide modes of representation for referents
+******* accessed through "grasping"
+******* Senses provide different modes of presentation for referents
+
+****** Criticism
+******* RTM people say that "concepts that haven't been acquired are just representations of a type that have never been tokened" - Margolis & Laurence, 2007
+******* What's the use of appealing to such abstract objects?
+******* Surely this has same regress issues as RTM?
+******** "We ought to be able to have different modes of presentation for a given sense"
+
+***** Is the issue terminological?
+****** different views of concepts can be combined in various ways e.g.
+******* concepts are mental representations that are typed in terms of the Fregean senses they express
+
+**** Structure
+***** Classical theory
+****** C composed of simpler C e.g.
+******* BACHELOR has constituents UNMARRIED and MAN
+****** Provides unified treatment of
+******* Acquisition
+******** new complex C are created by assembling their definitional constituents
+******* Categorisation
+******** complex C is matched to a target item by checking if each of its definitional constituents applies to the target
+******* Reference determination
+******** whether its definitional constituents applies to the target
+****** Used in /conceptual analysis/ philosophy
+****** Criticism
+******* Psychologists
+******** classical theory can't explain why "apples are judged to be more typical than plums with respect to the category of fruit"
+******** more typical items are categorised more efficiently
+******** Problem is that classical theory can't explain these phenomena
+******* Philosophers
+******** Attempts to specify definitions for concepts have poor track record
+******** Some philosophers doubt C have definitional structure
+
+***** Prototype theory
+****** Wittgenstein's - things covered by a term often share a family resemblance
+****** C have probabilistic structure
+******* something falls under C when
+******** sufficient number of properties encoded by C's constituents
+******* categorisation is similarity comparison
+****** helps to explain why definitions are difficult to produce
+****** Accounts for psychological phenomena
+******* deals well with typicality effects
+******** concept APPLE shares more of its constituents with FRUIT than PLUM
+****** Criticism
+******* Surgically altered dog - looks like a raccoon - remains a dog
+******* Compositionality
+******** Emergent properties
+********* PET FISH - might be brightly coloured
+********** brightly coloured not in PET or FISH
+********* Complex C don't have prototype structure - CHAIRS THAT WERE PURCHASED ON A WEDNESDAY
+****** Response to criticism
+******* Prototypes only encode part of C along with
+******** /conceptual cores/ 
+********* information for more considered judgements
+********* underwrite compositional process
+********* but what structure do /conceptual cores/ have?
+
+***** Theory theory
+****** Concepts stand in relation to one another in the same way as the terms as a scientific theory
+
+****** Categorisation
+
+******* Strongly resembles scientific theorising
+
+******* Term's are interdefined
+******** Term's content depends on role it is playing
+******* Well suited to explaining "reflective categorisation judgements"
+******* Provides explanation for dog still being a dog even though it looks like a raccoon
+******** allows us to override perceptual similarity
+********* even children possess rudimentary biological theory
+****** Criticism
+******* people can't posses same concept
+******** because theory is /holistic/
+******** a concepts content is determined by its role in a theory
+******* no principled basis for comparison of C
+
+***** Conceptual atomism
+****** Lexical concepts have no semantic structure
+****** concepts are determined in relation to world, not each other
+****** anti-descriptivist tradition
+******* proper names function like mere tags
+******** If Godel stole work from Schmitt then by saying Godel we're talking about Schmitt?
+****** Names achieve their reference by standing in causal relation to their referents
+     
+***** Pluralism 
+****** There are different types of structure associated with different explanatory functions
+****** Concepts have multiple types of structure
+****** Concepts could have
+******* Atomic cores
+******* attached to prototypes, internalised theories etc.
+******** Used for different bits
+********* atomic cores
+how things are causally related to things outside the mind
+********* prototypes
+rapid categorisation, inference
+********* theory structure
+more considered thought
+****** Slightly different view
+******* Multiple concept structures for one concept
+******** Two concepts relate to distinct but related categories
+
+***** Eliminativism
+****** C ought to be a "natural kind"
+******* therefore will have significant commonalities with other C
+****** There are no commonalities and thus no concepts
+****** Abandon concept use finer grained things
+******* Prototypes and theories
+
+**** Are there any innate concepts?
+***** Empiricists
+****** most cognitive capacities are acquired on the basis of a few simple general-purpose mechanisms
+****** concepts derive from sensations - "copies of sensory representations"
+******* Hume's principles of association
+******** a set of general purpose learning rules
+******** concepts must be analysable in terms of its perceptual basis
+********* any C that fails this test embodies confusion
+******* Logical positivists - verificationism
+******** principle of verification
+********* "the meaning of a sentence is the empirical procedure for confirming it"
+********** no empirical consequences = gibberish
+******** currently unpopular
+******* Embodied mind thesis
+******** Shapiro, 2004 - "minds profoundly reflect the bodies in which they are contained" 
+********* emphasises relationship between 
+********** Conceptual system
+********** Perceptual system
+********** Motors system
+********* Not semantic
+******* Intentional content
+******** Prinz, 2002 - "all (human) concepts are copies or combinations of perceptual representations"
+********* mental representations originate in perceptual or motor functions
+********* concept possession as kind of simulation
+********** "tantamount to entering a perceptual state of the kind one would be in if one to experience the thing it represents"
+******* Criticism
+******** Abstract and logical concepts hard to represent
+********* HAMMER - easy to imagine circuit activation
+********* TRUTH, DEMOCRACY, ENTROPY, NINETEEN
+********* Prinz suggests that C of DISJUNCTION comes from feelings of hesitation
+********** Logical concepts best understood as operations
+*********** thoughts lack logical form
+********** Difficult to distinguish equivalent thoughts
+********** Can't distinguish lists, or single C from the type of contents that make up a C
+***** Nativists
+****** There are many innate concepts
+******* Mind does innate differentiation into domain specific subsystems
+****** Chomsky, 1967 - Universal grammar
+******* language acquisition succeeds even though we're only exposed to a limited evidence about the structure of language
+******* human mind is predisposed to learning language
+******** set of innate principals that constrain all language
+******* Criticism
+******** Cowie - "any induction establishes a conclusion that outstrips the available data"
+********* going beyond data doesn't argue for innate langauge-specific disposition
+********* otherwise there would be a disposition for every induction
+****** Fodor, 1975 - radical concept nativism
+******* virtually all lexical concepts are innate
+******* All models of C learning have problem that they treat learning as hypothesis testing
+******** hypothesis invariably employs the very C being learned
+******* Only complex C can be learned from constituent parts
+******* Lexical concepts
+******** Lack structure
+********* must be innate
+******* Primitive concepts are unlearnable
+****** Fodor, 2008 - No longer happy that lexical C are innate
+******* C are acquired through biological processes
+**** Natural language
+***** non-linguistic creatures can't have C of belief - they can't have other C as well
+****** Davidson, 1975
+******* Argument
+******** "We have the idea of belief only from language"
+******** "a creature must be a member of a speech community if it is to have the concept of belief"
+******** "only a creature that can interpret speech can have the concept of a thought"
+******** "Can a creature have a belief if it does not have the concept of a belief?"
+******** "Someone cannot have a belief unless he understands the possibility of being mistaken"
+********* "grasping the difference between truth and error"
+********** this can only be found through interpretation
+******** This contrast "can emerge only in the context of interpretation"
+********* Which forces us to an "idea of an objective, public truth"
+******** Man engaging in non-linguistic task
+********* makes a choice - e.g. between apple and pear
+********* Underdetermination claim 
+********** we don't know what's guiding choice until he makes utterance
+********** interpretation of man's actions is underdetermined by the non-linguistic evidence
+******* Criticism
+******** Whether language is necessary for BELIEF is not clear
+******** Experiments attributing mental states to others
+********* strongly points to theory of mind being at least partly non-linguistic 
+******** Underdetermination 
+******** Linguistic evidence doesn't guarantee a correct interpretation any more than the non-linguistic evidence does
+******** High standard for attributing C to animals
+********* Evidence for concepts in birds caching food
+********** represent location
+********** integrate with other info
+*********** perishability
+*********** whether observed when stashing stuff
+***** Difference between C in human and mere representation in animals?
+****** Brandom - representations allow for discrimination in animals
+******* like thermometers
+******* no inference
+***** Priority between NL and C
+****** C are prior and independent of NL
+******* Pinker, 1994
+******** L is ambiguous
+******** L has to be learned
+******** "concept comes first, the name second"
+****** Some thinking done in NL
+******* we are thinking in L when we "hear" ourselves
+******* we perform worse at some tasks when L system is engaged
+******** but not with comparable non-linguistic distractors
+**** Conceptual analysis
+***** Attractions
+****** 
+*** Questions
+**** Does RTM rule out concepts to big for our heads?
+[[*rules out concepts that don't fit in humans heads][rules out concepts that don't fit in humans heads]]
+***** Did RTM literature actually say that possession was a thing - i.e. limit to human heads?
+**** Wtf is a causal realm?
+**** What exactly is [[*Reference determination][Reference determination]]?
+**** Classical theory also suffers from [[*PET FISH - might be brightly coloured][PET FISH - might be brightly coloured]]?
+as well as prototypes?
+
+** Inman Harvey: The origins and self-maintenance of representing :concepts:
+cite:harvey_misrepresentations
+
+*** Summary 
+**** Representations are relationships
+**** PQRS - allows us to be homuncular without linguistic issues
+**** Describe representation with at least two parts e.g.
+- behavioural
+- mechanical
+
+*** Content
+**** Linguistic hygiene
+***** Ryle - Category error
+Confused by language
+Which is the player than contributes the team spirit?
+***** Ok to be homuncular
+****** Just use PQRS - representations are relationships
+
+**** Embodied mind
+What is the relation between mind and body?
+Are they two different types of stuff - or two levels of description
+
+**** GOFAI - Brains are computers
+***** Premises
+****** "Mind is stuff", "Brain is stuff"
+****** Descartes - these are diff. stuff that interact in the brain
+****** GOFAI people - they are the same stuff
+******* Things happen in the head
+****** Suffers from cartesian myth
+
+***** Internal representations
+****** "bits of the brain represent external states of affairs" - like variables or code in a computer program
+
+**** The alternative
+***** The brain and body can be described as machinery
+***** New language for talking about intentions of agents - dogs, people
+****** Interests, needs, wants
+***** Rod Brooks - intelligence without representation
+****** Behave purposefully
+****** Don't put goals, intentions etc in to bits of the brain
+****** "the world is its own best representation" - Brooks
+
+**** Inman - Evolutionary robotics
+***** Describes agents on 2 layers
+****** Behavioural description
+******* goals and aims
+******* Fitness as "recognise the triangle", face, chicken etc
+****** Mechanism level description
+******* Wire up the brain this way
+******* the evolved genotype
+******* code, circuits
+
+**** GOFAI problems
+***** Origins of confusion
+****** Failure to understand how metaphors works
+****** plant "trying" to persuade world its an insect
+***** Family resemblance for all types of representation
+***** Represent
+****** Presenting in different form
+***** PQRS - use it whenever we use representation
+***** Representation is a relational term
+****** Asking is A bigger is useless
+******* Asking if is bigger than B makes sense
+******** You have to relate things
+****** Twin is relational
+****** North, South, East, West
+******* Brighton is 
+******** South of London
+******** North of Paris
+
+**** Levels of description
+***** Doctor looks at you as
+****** Machine
+****** Person - mental level - behavioural
+***** You can't simultaneously hold two perspectives in my mind at same time
+***** Did you imagine the camel inside your head?
+****** Where is that imaginary camel?
+
+**** How do explanations work?
+***** Describe "puzzling or complex in terms of the familiar"
+****** Turtles all the way down
+******* Need to make unquestioned premises
+******* In physics billiard balls
+******** Particles bounce off one another
+******** What's the billiard ball made from?
+********* Missing the point?
+******* GOFAI 
+******** Billiard balls = representations
+
+****** Doesn't work for cognition as a whole
+
+****** "The mereological fallacy"
+******* Humans imagine, not brains
+
+**** Evolutionary robotics
+***** Allows principled separation between two levels of behaviour
+****** Define task at behavioural level
+******* Give successes children
+******** No representation
+***** Criticism
+****** Some problems are representation hungry
+******* Remember size of queue
+
+**** How to make robots do cave painting?
+***** Quinn - three genetically the same robots
+****** Cross the room
+******* Because of embodiment they follow one another in line
+****** Leaders and followers emerge
+******* Evolution found strategy
+******* Provided coordination
+******* Fall in to attractors
+******* Language comes naturally
+******** First robot says I'm the leader
+
+
+**** Achieve linguistic hygiene
+***** distinguish between 2 levels of description
+****** do not mix terms over boundaries
+****** 2 levels
+******* behavioural level description - the whole person
+******* mechanical description - cogs and wheels
+***** Use homuncular metaphor
+****** but use PQRS
+
+*** Questions
+
+**** [[*do not mix terms over boundaries][do not mix terms over boundaries]] 
+
+** cite:Frost2015 Domain generality/specificity - paradox of Statistical Learning
+
+*** Summary
+"Generalization and transfer significantly differ in their contribution to theories of learning. Whereas generalization has been demonstrated in SL studies (which is important for the application of SL to language), there is little evidence of cross-modal transfer, likely because of the substantial differences in neurobiological characteristics of the visual, auditory, and somatosensory cortices."
+*** Content
+
+**** Statistical learning
+***** SL extracts info from streams of sensory information across space and time
+***** In opposition to Chomskyan view that we have underlying mechanism for language
+***** "often, if not always, driven by local stimulus properties and overall judgments of similarity, rather than by the extraction of abstract rules"
+****** detecting fragments
+**** Domain generality vs specificity
+***** domain implies range of stimuli that share physical and structural properties
+**** Learning
+***** apply knowledge gained from past experiences to novel input
+
+* If computers are minds and we want to deal with concepts we need a representation?
+** Linguistic - classical theory
+** Probabilistic - prototype theory
+** Implied by code - chess playing computer
+** Implied through interaction?
+** some other data type
+*** map, list, bag
+*** hyper-dimensional vectors?
+** sort of semi-literal - bytes in a picture
+
+
+* Surely concepts are always eventually translated in to a physical language?
+Therefore any arguments about re: unexplainability (un-translateability)are null?
+Since we know concepts end up encoded in a 'physical' language/representation i.e. brain structure. And in the process of getting there likely gets translated through electronic and mathematical languages.
+I guess we don't know where it starts? at the percept?
+I guess 'regress' between two points could be circular? endless 
+Is this encoding in physical structure affected by same problems as the [[*chess-playing computer thinks that its good to get one's queen out early][chess-playing computer]]
+Maybe it's like Escher's stairs between conscious concept and physical representation?
+** Our concepts get compiled!
+*** The question is what is a concept and how do we represent it to the compiler. 
+**** what are the source and target representations?
+
+* Do some concepts have to 'suffer' the [[*chess-playing computer thinks that its good to get one's queen out early][chess-playing computer]] issue?
+** Embodiment?
+What about stuff that causes a physical reaction - anxiety, trigger warnings - could this this imply the concepts float about in our nerves in some way?
+There are ways of describing emotions to attached to concepts though aren't there?
+
+* concepts are in both regressed and chess-playing computer format?
+Leading to varying degrees of concept compatibility?
+Deep learning and stuff shows that some useful encodings might be literal than we thought?
+So regress is short sometimes, long others and more sort of spread about at other times?
+
+* Conflation representation and behaviour
+
+* how do we learn?
+** we copy concepts
+*** this probably involves re-representation
+**** which is approximate - maybe regressive, perhaps lossy
+
+* IMITATION - 
+** perception is always lossy?
+*** compression
+*** attention
+** how do we fill in the gaps?
+*** pattern recognition
+*** thinking about similar things
+**** compatible concepts?
+
+* Framing information
+[[*Linguistic evidence doesn't guarantee a correct interpretation any more than the non-linguistic evidence does][Linguistic evidence doesn't guarantee a correct interpretation any more than the non-linguistic evidence does]]
+
+* thermometers and inference?
+
+#  LocalWords:  Underdetermination
+
+* Shared/Temporal concepts - parallelism?
+** What if C don't exist at all until they're required?
+*** so different people involved in conversation induces different meanings
+*** concept floats around in the world i.e. on the internet
+*** [[*"the world is its own best representation" - Brooks]["the world is its own best representation" - Brooks]]
+** what C are constructed of depends on what's required
+*** if we're building representation for child we might use simpler imagery or concepts?
+*** if we're discussing with a mathematician or a computer we might use entirely different symbolism - and hence possibly different bits of the brain?
+*** In some situations we might just select whatever "occurs to us" first?
+**** or is most heavily imprinted?
+**** we hand off to other systems and accept a certain level of punctuality and value/quality back? accept whatever is quick enough?
+** what's required 
+*** is until next action is taken?
+*** or next percept is formed
+
+* We can accumulate simple datatype-esque representations but only do so as needed? 

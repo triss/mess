@@ -1,0 +1,49 @@
+* Paramaterizing Google's WaveNet -> Creative Assistant
+
+You could argue that some of WaveNet’s musical output outshines that of many
+amateur pianists and most piano sound synthesists. Despite this we’re yet to
+fully evaluate its capabilities and as of yet have only begun to explore the potential for influencing this virtual musician’s output. To date it only functions as soloist creating relatively experimental works.
+
+Some examples of WaveNet’s musical output can be found at bottom of this page.
+
+As with the vast majority of musical creative systems it’s output has only been evaluated subjectively, despite this Google claim that the system does appear to produce “aesthetically pleasing”, “harmonic”, “realistic” and “novel” output.
+
+** WaveNet and Text-To-Speech (TTS)
+Thus far the primary application for WaveNet has been that of converting text to speech. The system is said to sound more natural than current state of the art concatenative and parametric TTS systems, reducing the gap between computer performance and human by over 50% when using some measures.
+
+WaveNet differ significantly in how TTS conversion takes place and generates its output on a sample by sample basis rather than building output up from smalls chunk of samples (concatenative) or manipulating vocoders (existing parametric systems).
+
+Currently the system needs to be pre-trained to handle the specific utterances its users want it to emit.
+
+** Neural Networks
+have a reputation as a black box.
+We are now capable of both memorizing and often hence generalising richer and richer forms of data.
+
+*** RNN
+typically good for handling sequences of data
+
+*** CNN
+doesn't typically have memory but
+**** dilated convolutions
+allow for large skips in convolution
+system knows what it did several seconds ago
+training a CNN is much simpler than an RNN
+
+
+** Search for musicality
+
+Google have noted its potential to act as a /conditional music model/ where it becomes possible for the user to specify the desired set of characteristics that should be included in its output.
+
+Thus far only been done with classification labels.
+
+Ianigro et al. shown interest in "rapid exploration of CTRNN audio possibilities."
+
+Dimensions that could be controlled.
+
+Deploy the machines tireless ear in order to search for order in the likely chaotic interaction of the system's internal parameters.
+
+Find "Internal Parameter" -> MIR Feature mappings
+
+** Task ahead
+
+Over the next few week I intend to explore the ways in which useful parameters are exposed by the internal structure of a neural network.

@@ -1,0 +1,139 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/tms32/Dropbox/org/tangents.org
+
+
+* Is evaluation done even during randomisation?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:48
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+* Where can evaluation take place in an algorithm?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:49
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+How does it impact what can be said?
+
+
+* Why isn't code a good explanation for creative process?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 09:57
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+  [[file:~/Dropbox/org/cce.org::*what%20about%20the%20code?][what about the code?]]
+
+* Inferring the evolutionary history of photosynthesis : C 4 yourself
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:07
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+  http://systems-signals.blogspot.co.uk/2013/10/inferring-evolutionary-history-of.html
+
+
+* REPL/code as an interface for evaluation
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:07
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+Context impacts the manner in which value is ascribed to an artifact.
+From outside a system it is only possible to evaluate objects value relative to the observers culture.
+
+* Apply SPECS, FACE & IDEA etc to places in Ventura's MG -> CC landscape
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:09
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+[[file:~/Dropbox/org/cce.org::*Places%20-%20data%20points][Places - data points]]
+
+* What does Ritchie mean by intentionality? Is it so easy to conflate with evaluation?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:10
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+
+* Conflation of evaluation and intention?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:14
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+Even randomisation evaluates when it's time to stop.
+[[file:~/Dropbox/org/cce.org::*Is%20evaluation%20done%20even%20during%20randomisation?][Is evaluation done even during randomisation?]]
+
+* Lisp's should embrace imperative concepts for performance and elegance
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:33
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+Low level C like data types + means of accessing
+still compile down to js!
+
+* Does more autonomy = Less fingerprints?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:37
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+
+* How does leaving fingerprints impact how creative a system is being?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-13 Thu 10:39
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+* What's good and bad about Ventura's MG?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:10
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+
+* "Intelligence is decoupling from consciousness"
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:14
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+  Intelligence does not need to feel. - Some guy on the Jarvis Cockers Sunday session
+
+* Is novelty part of value or is separate?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:14
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+[[file:anna.org::*Why%20can't%20novelty%20and%20value%20be%20conflated?][Why can't novelty and value be conflated?]]
+
+* Tie framing stuff, FACE and evaluation places
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:16
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
+
+[[file:~/Dropbox/org/anna.org::*Code/Framing%20+%20interaction][Code/Framing + interaction]]
+
+* Evaulate - what does it mean in computing lit, what does it mean in CC lit?
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2016-10-17 Mon 10:17
+  :ARCHIVE_FILE: ~/Dropbox/org/tangents.org
+  :ARCHIVE_CATEGORY: tangents
+  :END:
