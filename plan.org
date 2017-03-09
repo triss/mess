@@ -4,22 +4,19 @@
 *** Complete ICCC paper
    
 ** March 
-*** RDA - finish
-*** drum synthesis - through re-representation
-**** Experiment
-**** write-up - first full draft
+*** 16th - BB + representation
+**** Hypothesis
+**** How to test
+**** Background
+***** FlowWr
+***** Blackboard
+**** Hosting re-representation
+***** Blackboard
+****** Take content from FlowWr
+****** Bung it on it
 *** reviewing ICCC papers
 
-
 ** April
-*** re-represent - Chapter 2
-**** markov as NN
-**** function as NN, markov
-**** picture
-***** gp
-***** neural network
-**** between one another
-
 *** AISB
 *** Mini-thesis
 *** Literature review
@@ -27,9 +24,16 @@
 ** May
 *** Mini-thesis
 *** Literature review
-*** Finish drum synthesis - 10th June
 
 ** June
+*** automatic re-represention
+**** markov as NN
+**** function as NN, markov
+**** picture
+***** gp
+***** neural network
+**** between one another
+
 *** repository of models - Chapter 3
 **** Specification
 ***** Metadata
@@ -40,7 +44,6 @@
 
 ** July
 *** Probation review
-
 
 ** August
 
