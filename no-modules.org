@@ -12,13 +12,13 @@ If we ignore the above argument perhaps we could use the following reasoning to 
 
 Even these highly abstract models of computation provide basic ingredients of functionality to work with. These ingredients are modules that provide some functionality.
 
-** Turing machine
-*** Tape reading/writing/moving
-*** State position tracking and movement
+- Turing machine
+  - Tape reading/writing/moving
+  - State position tracking and movement
 
-** Church
-*** Functions
-*** Identity
+- Church
+  - Functions
+  - Identity
 
 ** All modern physical computers use modules
 *** machine code uses CPU implimented
