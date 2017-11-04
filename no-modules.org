@@ -18,7 +18,7 @@ Even these highly abstract models of computation provide basic ingredients of fu
 
 - Church
   - Functions
-  - Identity
+    - Identity
 
 ** All modern physical computers use modules
 *** machine code uses CPU implimented
