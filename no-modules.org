@@ -1,16 +1,52 @@
 
-This is being written so in order to understand why I'm not comparing Blackboard to OO, Functional programming, and these others forms of module composition.
+This is being written so in order to understand why I'm not comparing Blackboard to OO, Functional programming, and these others forms of module composition. Or was supposed to be...
+
+* What's a module?
+
+A module is a distinct but interrelated unit from which a system may be constructed.
+
+It's common for the interfaces through which interrelation occurs to be standardised.
+There are hundreds of ways this has been achieved
+Some common paradigms might be characterised as follows:
+
+In procedural programming data is thought not to flow throughout the program and sits in one place.
+Values are stored and retrieved from manually managed locations and modules that facilitate this are provided.
+Modules that allow jumping throughout the program such as GOTO (or convenient variants that operate over names) are also provided.
+The /procedure calls/ this functionality enables allowed the decomposition of systems into procedures.
+
+In functional programming the /function/ is the basic means of distinction and interrelation. 
+
+These can be broken down in to /pure functions/ - which simply return a value given a specific input.
+Closure's and other functions allow for state to be carried between instantiations and hence the production of varied outputs given the same input.
+Despite often having an emphasis on functional purity these functional languages almost always provide a mechanism for managing sideffects either through elaborate monadic constructions or by supoorting simple simple procedure calls.
+
+(FloWr modules are all either pure functions or Closures despite OO wrapping)
+
+In object orientated programming the object is the most obvious distinction of components visible within the system. These modules however contain modules of other types including the functions described above and fields for modelling and persisting state across function calls.
+(Even when functions are Object's i.e. SuperCollider, JavaScript, ruby?, modern Java?)
+
+Both these systems can be used in a functional or OO manner. In both OO and functional paradigms we operate through the chaining of function calls.
+
+In agent based architectures the basic unit of composition is the Agent.
+
+The primary differentiator between functions and the agents present in the blackboard architecture is the order in which they are sequenced.
+
+In other agent based systems agents are said to possess autonomy.
+
+In the blackboard we describe package up each module with a description of when it can operate it's predicate. /This is how autonmy is manifest?/
+
+The blackboard has been implemented atop of OO (Mizstal), Logic programming/Prolog (Charnley)
 
 * A language with no modules?
 
 Do we always work with modules when working with a computer. Is it possible to build a system entirely from scratch?
 
-You could divide up areas of a system described using this notation according to functionality. This would fulfil basic definition of modules - even when system does not provide standard mechanism for interfacing between them. (Although Church does provide a standard wrapper - the function). 
-One could argue that this doesn't tell us much because it is *applies everywhere to everything* - all notation can be divided up in to parts unless the representation is atomic.
+You can divide up areas of a system described using this notation according to functionality. This would fulfil basic definition of modules - even when system does not provide standard mechanism for interfacing between them. (Although Church does provide a standard wrapper - the function). 
+One could argue that this doesn't tell us much because it is a /tautology/ *applies everywhere to everything* - all notation can be divided up in to parts unless the representation is atomic.
 
 If we ignore the above argument perhaps we could use the following reasoning to say modules are always present:
 
-All computations can be expressed either as a Turing machine or a Church style list of functions.
+All computations can be expressed either as a Turing machine or a Church style tree of functions.
 
 Even these highly abstract models of computation provide basic ingredients of functionality to work with. These ingredients are modules that provide some functionality.
 
@@ -29,7 +65,7 @@ Even these highly abstract models of computation provide basic ingredients of fu
   - Numbers
 
 - BASIC
-  - Side effects
+  - prepackaged side effects
   - peek/poke
   - for/loop etc
   - variable reference and setting
