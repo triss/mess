@@ -35,9 +35,13 @@ It's interesting to note that even Veale leverages his own work more often than 
 
  When developers seak to integrate facilities provided by others the means by which this is achieved becomes a question.
 
-For example Montford et al. examined the how systems could be better organised in a blackboard than a pipeline.
+*** BB and Pipelines come up a few times
 
-Charnley developed combined reasoning systems on BB/GWA and then built FloWr.
+For example Montford et al. examined the how systems could be better organised in a blackboard than a pipeline and talk about pipeline systems being good precursor for construction of blackboard systems. 
+
+Charnley developed combined reasoning systems on BB/GWA and then built FloWr for pipelines.
+
+Poetry generation workshop made critical observations
 
 *** An example of this occurring with Poetry Generation Workshop
   An example might be the cite:Corneli2015b where developers lifted modules from the cite:Misztal2014 's Blackboard based poetry generation system.
