@@ -1,33 +1,36 @@
 
-* As researchers have sought to make there software available to others 
+* CC researchers consuming others work
   
-Systems are beginning to be constructed utilising multiple researchers work
+An ecosystem of tools tailored for constructing creative systems is emerging and
+researchers leveraging one anothers' work when building creative systems snow common place.
 
-** SOA is good
-*** cite:veale_service-oriented_2014 champions SOA as means of sharing functionality
-** FloWr system and ConcretFlows 
-*** we can export workflows as WebServices
-*** ConcretFlows consumes webservices with ease
-**** through a UI
+** Sources of functionality 
+*** SOA
+ Researchers hoping to increase the proliferation of 
+ discoverable, modular and composable services which
+ hide the complexity of their data and their inner workings
+  such as Veale cite:veale_service-oriented_2014 have championed the SOA methodology as a means of sharing functionality and tools like FloWr and ConcreteFlows providing functionality that eases the deployment of workflows as services and allows for the simple utilisation of SOA based web services.
 
-How succesful SOA has been is questionable since programmers still seak other sources of functionality when working.
+ How successful SOA is questionable since programmers still seak other sources of functionality when working.
 
-Often in CC researchers still build upon tools which they're familiar with.
-MEXICA system - worked on by Perez etc 
-``integrates more than a decade of research into computational creativity, and specifically story generation, by connecting subsystems that deal with plot, figuration, and the narrative discourse using a blackboard.''
+*** Cannibalisation
+ Often in CC researchers still prefer to build upon tools which they're familiar with.
 
-ANGELINA game generation system built upon research of Coltons
+ SLANT system - 
+ ``integrates more than a decade of research into computational creativity by connecting subsystems via a blackboard.'' All of these subsystems were constructed by authors of the paper.
 
-Whilst this was neccesary at the time even 
-Even Veale perhaps levereages his own work more often than that of others.
+ ANGELINA game generation constructed and adapted mostly there own creative modules but leveraged UNITY 3D design platform.
+ cite:Cook2016
 
-When external web services are utilised they tend to be from outside the CC community.
+Whilst this was necessary at the time 
+since standards had not been fully adopted for remote procedure calls and code sharing 
+perhaps even Veale leverages his own work more often than that of others.
 
-As researchers adopt the software made available by others in the field
+ When external web services are utilised they tend to be from outside the CC community.
 
-developers have seak to integrate facilities provided by others the means by which this is achieved becomes a question.
+ developers have seak to integrate facilities provided by others the means by which this is achieved becomes a question.
 
-Whilst language interoperability still remains a question it is largely a hurdle which can be lept with relative ease by most programmers since most languages provide 
+ Whilst language interoperability still remains a question it is largely a hurdle which can be leaped with ease by many developers.
 
 * An example of this occurring with Poetry Generation Workshop
 An example might be the cite:Corneli2015b where developers lifted modules from the cite:Misztal2014 's Blackboard based poetry generation system.
@@ -42,8 +45,6 @@ Mizstal's based poetry generation system provided a more readily available sourc
 *** Developer of functionality being present
 **** SOA modules documentation is not present
 *** Fact that functionality is not 
-
-
 
  The researchers noticed they could be be usefully reapplied in other paradigms.
 
@@ -64,34 +65,8 @@ Mizstal's based poetry generation system provided a more readily available sourc
 
 
 
- The now retired FloWr and ConcreteFlows systems sought to expediate this process by providing a standard mechanism with which to do so.
+ The FloWr and ConcreteFlows systems sought to expediate this process by providing a standard mechanism with which to do so.
  To date these systems have only allowed the organisation of these modules in to pipelines, where data is passed from one module to another.
 
 
-
-
-*** Problem solving models
-***** problem solving deals with the question of
-****** "What pieces of knowledge should be applied when and how?"
-******* 
-
- A problem-solving model is a scheme for organizing reasoning steps and domain knowledge to conszruct a solution to a problem. For example, in a backward-reasoning model, problem solving begins by reasoning backwards from a goal to be achieved towards an initial state (data). More specifically, in a rule-based backward-reasoning model knowledge is organized as "if-then" rules and modus ponens inference steps are applied to the rules from a goal rule back to an "initial-state rule" (a rule that looks at the input data). An excellent example of this approach to problem solving is the MYCIN program [45]. In a forward-reasoning model, however, the inference steps are applied from an initial state toward a goal. The OPS system exemplifies such a system [13]. In an opportunistic-reasoning model, pieces of knowledge are applied either backward or forward at the most "opportune" time. Put another way, the central issue of problem solving deals with the question of: "What pieces of knowledge should be applied when and how?" A problem-solving model provides a conceptual framework for organizing knowledge and a strategy for applying that knowledge.
-
- The blackboard model of problem solving is a highly structured, special case of opportunistic problem solving. In addition to opportunistic reasoning as a knowledge-application strategy, the blackboard model prescribes the organization of the domain knowledge and all the input and intermediate and partial solutions needed to solve the problem. *We refer to all possible partial and full solutions to a problem as its solution space.
- In'
-
-*** Begin my blathering
- cite:Craig1988 compares the opportunistic style of reasoning exhibited by the blackboard to the forwards and backwards reasoning models utilised during the GOFAI period.
-
-
-*** Why am I not comparing to Logic programming - backwards reasoning?
-Unfortunately the backwards reasoning approach to combined reasoning systems is now out of reach to most researchers wishing to combine others work.
-
-Most functionality is expressed in a language that does not exhibit the *reversibility* logic programming languages
-
-A webservice typically only allows forward reasoning using it's capabilities. 
-The same is true of functionality bundled up in FloWr, ConcreteFlows, BB Poetry system and Slant
-
-Modules provided only operate in /if this then that/ we don't get /if that then this/ for free.
-i.e. modules only useful for forward inference.
 

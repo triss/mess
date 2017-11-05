@@ -6,13 +6,12 @@ This is being written so in order to understand why I'm not comparing Blackboard
 A module is a distinct but interrelated unit from which a system may be constructed.
 
 It's common for the interfaces through which interrelation occurs to be standardised.
-There are hundreds of ways this has been achieved
-Some common paradigms might be characterised as follows:
+There are hundreds of ways this has been achieved.
+Some common paradigms might be characterised as follows.
 
 In procedural programming data is thought not to flow throughout the program and sits in one place.
 Values are stored and retrieved from manually managed locations and modules that facilitate this are provided.
-Modules that allow jumping throughout the program such as GOTO (or convenient variants that operate over names) are also provided.
-The /procedure calls/ this functionality enables allowed the decomposition of systems into procedures.
+Modules that allow jumping throughout the program such as GOTO (or convenient variants that operate over names) are also provided. The /procedure calls/ this functionality enables allowed the decomposition of systems into procedures.
 
 In functional programming the /function/ is the basic means of distinction and interrelation. 
 
@@ -33,9 +32,10 @@ The primary differentiator between functions and the agents present in the black
 
 In other agent based systems agents are said to possess autonomy.
 
-In the blackboard we describe package up each module with a description of when it can operate it's predicate. /This is how autonmy is manifest?/
+In the blackboard we describe wrap up each module with a description of when it can operate it's predicate. /This is how autonmy is manifest?/
 
-The blackboard has been implemented atop of OO (Mizstal), Logic programming/Prolog (Charnley)
+The blackboard has been implemented atop of OO (Mizstal), Logic programming/Prolog (Charnley), Procedural - Craig
+
 
 * A language with no modules?
 

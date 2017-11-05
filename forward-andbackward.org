@@ -1,24 +1,20 @@
-* Problem solving models
-
-A problem-solving model is a scheme for organizing reasoning steps and domain knowledge to conszruct a solution to a problem. For example, in a backward-reasoning model, problem solving begins by reasoning backwards from a goal to be achieved towards an initial state (data). More specifically, in a rule-based backward-reasoning model knowledge is organized as "if-then" rules and modus ponens inference steps are applied to the rules from a goal rule back to an "initial-state rule" (a rule that looks at the input data). An excellent example of this approach to problem solving is the MYCIN program [45]. In a forward-reasoning model, however, the inference steps are applied from an initial state toward a goal. The OPS system exemplifies such a system [13]. In an opportunistic-reasoning model, pieces of knowledge are applied either backward or forward at the most "opportune" time. Put another way, the central issue of problem solving deals with the question of: "What pieces of knowledge should be applied when and how?" A problem-solving model provides a conceptual framework for organizing knowledge and a strategy for applying that knowledge.
-
-The blackboard model of problem solving is a highly structured, special case of opportunistic problem solving. In addition to opportunistic reasoning as a knowledge-application strategy, the blackboard model prescribes the organization of the domain knowledge and all the input and intermediate and partial solutions needed to solve the problem. *We refer to all possible partial and full solutions to a problem as its solution space.
-In'
-
 ** Traditional comparisons
-cite:Craig1988 compares the opportunistic style of reasoning exhibited by the blackboard to the forwards and backwards reasoning models.
+cite:Craig1988 compares the opportunistic style of reasoning exhibited by the blackboard to forwards and backwards reasoning models.
 
-In forward reasoning systems rules are applied from an initial state toward a goal.
+In forward reasoning systems inference rules are applied from an initial state toward a goal.
+This is usually done in a systematic way such as breadth or depth first search.
 
-Backward reasoning systems such as Prolog/Kanren/ *One of Charnley's solvers* solve problems by chaining "if-then" rules backwards from a goal towards a given initial state.
+Backward reasoning systems such as Prolog/Kanren/ *One of Charnley's solvers* solve problems by chaining inference rules backwards from a goal towards a given initial state.
 
-This placement whilst entirely valid and highlighting the peculiar potential of blackboard like systems was perhaps influenced by popular means of system construction at the time -  simply referring to familiar means of building intelligent systems and simply situates them relative to familiar signposts for contemporaries.
+In opportunistic systems inference rules are said to be applied at the most opportune moment. See section X.
+
+This placement whilst entirely valid and characterises the peculiar potential of blackboard like systems was perhaps influenced by popular means of system construction at the time -  simply referring to familiar means of building systems and simply situates them relative to familiar signposts for contemporaries.
 
 ** Why am I not comparing to Logic programming/backwards reasoning today? 
-Unfortunately the backwards reasoning approach to combining reasoning systems is now out of reach to most developers leveraging others work.
+Unfortunately the backwards reasoning approach to combining reasoning systems is now out of reach to developers which seek to combine others work.
 
 Most of the available software modules are expressed in languages that does not exhibit the *reversibility* logic programming languages and manually work is often not undertaken to make the system exhibit this property.
-Business/academic requirements often dictate that only one path through an encapsulated piece of logic be described.
+Business/academic requirements often dictate that only one path through an encapsulated piece of logic be described implemented.
 This means that existing software modules cannot be easily be utilised in backward reasoning systems.
 
 A webservice typically only allows forward reasoning using it's capabilities. 
