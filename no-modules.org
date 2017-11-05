@@ -1,28 +1,44 @@
 
+This is being written so in order to understand why I'm not comparing Blackboard to OO, Functional programming, and these others forms of module composition.
+
 * A language with no modules?
 
+Do we always work with modules when working with a computer. Is it possible to build a system entirely from scratch?
+
+You could divide up areas of a system described using this notation according to functionality. This would fulfil basic definition of modules - even when system does not provide standard mechanism for interfacing between them. (Although Church does provide a standard wrapper - the function). 
+One could argue that this doesn't tell us much because it is *applies everywhere to everything* - all notation can be divided up in to parts unless the representation is atomic.
+
+If we ignore the above argument perhaps we could use the following reasoning to say modules are always present:
+
 All computations can be expressed either as a Turing machine or a Church style list of functions.
-
-Do we work with modules when operating at this level?
-
-You could divide up areas of a system described using this notation arbitrarily or according to functionality. This would fulfil basic definition of modules - even when system does not provide standard mechanism for interfacing between them. (Although Church does provide a standard wrapper - the function). 
-One could argue that this doesn't tell us much because it is /tautological/? *applies everywhere to everything* - all notation can be divided up?
-
-If we ignore the above argument perhaps we could use the following reasoning to say modules are present:
 
 Even these highly abstract models of computation provide basic ingredients of functionality to work with. These ingredients are modules that provide some functionality.
 
 - Turing machine
-  - Tape reading/writing/moving
+  - Symbols
+  - Tape reading/writing/moving apparatus
   - State position tracking and movement
 
 - Church
   - Functions
   - Identity
 
-- All modern physical computers use modules
+- Fortran precursors
+  - Stack
+  - Functions
+  - Numbers
+
+- BASIC
+  - Side effects
+  - peek/poke
+  - for/loop etc
+  - variable reference and setting
+  - procedures
+  - and in my experience functions
+
+- All modern are constructed using computers use modules
   - machine code uses CPU implimented:
-    - math operations/
+    - math operations + - / % AND OR etc
     - goto
     - move data
     - implemented at CPU level as hardware
@@ -30,12 +46,13 @@ Even these highly abstract models of computation provide basic ingredients of fu
         - and look at transistors or NAND gates as modules?
   - including fortran/BASIC/machine code
 
-** All languages have basic utterances?
-*** What differs in some offer nicer levels of abstraction
-**** the interface complexity used at this level is perhaps something we could talk about
 
-* Wildly inaccurate assertions
-When writing software no matter how close to the metal you are never working 'from scratch'.
+** Conclusions?
+ All languages have basic utterances and ways of joining them?
+ What differs is that some offer nicer or standard abstractions  
+ /the interface complexity used as an axis/
 
-Multiple perspectives can be taken on any system. All of them require some 'modules' - predefined functionality.
+ When writing software no matter how close to the metal you are never working 'from scratch'.
+
+ Multiple perspectives can be taken on any system. All of them require some 'modules' - predefined functionality.
 
