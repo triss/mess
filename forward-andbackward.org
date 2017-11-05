@@ -20,11 +20,12 @@ This means that existing software modules cannot be easily be utilised in backwa
 A webservice typically only allows forward reasoning using it's capabilities. 
 The same is true of the modules bundled up in FloWr, ConcreteFlows, BB Poetry system and Slant.
 
-
 Modules provided only operate in /if this then that/ we don't get /if that then this/ for free.
 i.e. modules only useful for forward inference.
 
 ** Why a I not comparing to forward reasoning systems?
 
-Bredth/depth first recombination of functions?
-Perhaps I am? The FloWr workflows 1 path through a forward reasoning system?
+Perhaps I am? Each FloWr workflows expresses one path through a forward reasoning system?
+
+Bredth/depth first recombination of functions is not performed. Genetic programming was planned instead in FloW
+

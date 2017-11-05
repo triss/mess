@@ -23,50 +23,57 @@ researchers leveraging one anothers' work when building creative systems snow co
  cite:Cook2016
 
 Whilst this was necessary at the time 
-since standards had not been fully adopted for remote procedure calls and code sharing 
-perhaps even Veale leverages his own work more often than that of others.
+since standards had not been fully adopted for remote procedure calls and code sharing in the CC community 
+It's interesting to note that even Veale leverages his own work more often than that of others.
 
  When external web services are utilised they tend to be from outside the CC community.
 
- developers have seak to integrate facilities provided by others the means by which this is achieved becomes a question.
 
  Whilst language interoperability still remains a question it is largely a hurdle which can be leaped with ease by many developers.
 
-* An example of this occurring with Poetry Generation Workshop
-An example might be the cite:Corneli2015b where developers lifted modules from the cite:Misztal2014 's Blackboard based poetry generation system.
+** How to combine others work
 
-Despite Veale and others efforts to promote SOA as a means of sharing work
-Mizstal's based poetry generation system provided a more readily available source of functionality.
+ When developers seak to integrate facilities provided by others the means by which this is achieved becomes a question.
 
-** Why Mizstals work better source of functionality than WS?
-*** *Central repository of related functionality*
-*** Chosen domain of operation 
-****  poetry specific modules
-*** Developer of functionality being present
-**** SOA modules documentation is not present
-*** Fact that functionality is not 
+For example Montford et al. examined the how systems could be better organised in a blackboard than a pipeline.
 
- The researchers noticed they could be be usefully reapplied in other paradigms.
+Charnley developed combined reasoning systems on BB/GWA and then built FloWr.
 
+*** An example of this occurring with Poetry Generation Workshop
+  An example might be the cite:Corneli2015b where developers lifted modules from the cite:Misztal2014 's Blackboard based poetry generation system.
 
+  Despite Veale and others efforts to promote SOA as a means of sharing work
+  Mizstal's based poetry generation system provided a more readily available source of functionality.
 
- In describing how a hypothetical multi-agent poetry system might be constructed the researchers 
+**** Why Mizstals work better source of functionality than WS?
+***** *Central repository of related functionality*
+***** Chosen domain of operation 
+******  poetry specific modules
+***** Developer of functionality being present
+****** SOA modules documentation is not present
+***** Fact that functionality is not 
 
- ``Keeping in mind the current limitations of FloWr – no looping or conditionals, only running one flowchart at a time and in one direction – a conversation between ProcessNodes or flowcharts is not immediately feasible.''
-
- ``“Experts” exchange information using the blackboard, but without direct communication and without feed- back about the reception of their created artifacts.''
-
- Figure 2 represents a hypothetical design in which a Workshop could take place with a minimally-altered version of FloWr. 
-
- As shown in Figure 2, each participant in the Workshop would be represented by a single node. 
- One of these nodes is a moderator in charge of dictating the interaction between the participants of the Workshop, while the rest represent flowcharts that have the ability to modify their own connections according to the discussions from theWorkshop – this can be achieved by exploiting the scripting mechanism of FloWr and dynamically loading the new structure of the flowchart. 
- Moreover, a shared log would contain the history of the messages exchanged during the Workshop and a queue of messages waiting to be delivered. We define four different types of messages that can be exchanged:
+   The researchers noticed they could be be usefully reapplied in other paradigms.
 
 
 
+   In describing how a hypothetical multi-agent poetry system might be constructed the researchers 
 
- The FloWr and ConcreteFlows systems sought to expediate this process by providing a standard mechanism with which to do so.
- To date these systems have only allowed the organisation of these modules in to pipelines, where data is passed from one module to another.
+   ``Keeping in mind the current limitations of FloWr – no looping or conditionals, only running one flowchart at a time and in one direction – a conversation between ProcessNodes or flowcharts is not immediately feasible.''
+
+   ``“Experts” exchange information using the blackboard, but without direct communication and without feed- back about the reception of their created artifacts.''
+
+   Figure 2 represents a hypothetical design in which a Workshop could take place with a minimally-altered version of FloWr. 
+
+   As shown in Figure 2, each participant in the Workshop would be represented by a single node. 
+   One of these nodes is a moderator in charge of dictating the interaction between the participants of the Workshop, while the rest represent flowcharts that have the ability to modify their own connections according to the discussions from theWorkshop – this can be achieved by exploiting the scripting mechanism of FloWr and dynamically loading the new structure of the flowchart. 
+   Moreover, a shared log would contain the history of the messages exchanged during the Workshop and a queue of messages waiting to be delivered. We define four different types of messages that can be exchanged:
+
+
+
+
+   The FloWr and ConcreteFlows systems sought to expediate this process by providing a standard mechanism with which to do so.
+   To date these systems have only allowed the organisation of these modules in to pipelines, where data is passed from one module to another.
 
 
 
